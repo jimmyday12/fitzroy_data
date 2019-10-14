@@ -18,7 +18,7 @@ path_feather <- here::here("data-raw", "player_stats", "player_stats.feather")
 write.csv(player_stats, path_csv)
 save(player_stats, file = path_rda)
 fst::write_fst(player_stats, path = path_fst)
-?fst::write_fst(player_stats, path = path_fst_full, compress = 100)
+fst::write_fst(player_stats, path = path_fst_full, compress = 100)
 feather::write_feather(player_stats, path_feather)
 
 # benchmark
