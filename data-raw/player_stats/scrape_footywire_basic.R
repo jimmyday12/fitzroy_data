@@ -7,7 +7,7 @@ library(fst)
 player_stats <- update_footywire_stats(check_existing = TRUE)
 
 # Write data using devtools
-devtools::use_data(player_stats, overwrite = TRUE)
+#devtools::use_data(player_stats, overwrite = TRUE)
 save(player_stats, file = here::here("data-raw", "player_stats", "player_stats.rda"))
 fst::write_fst(player_stats, path = here::here("data-raw", "player_stats", "player_stats.fst"))
 fst::write_fst(player_stats, path = here::here("data-raw", "player_stats", "player_stats_full.fst"), compress = 100)

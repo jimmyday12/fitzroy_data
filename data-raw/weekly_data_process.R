@@ -2,11 +2,12 @@
 devtools::load_all(".")
 library(here)
 library(tidyverse)
+library(fitzRoy)
 # setwd("~/Documents/R_scripts/fitzRoy")
 
 
 # IDS -----------------------------------------------------------
-source(here::here("data-raw", "Match_ids", "find_ids.R"))
+#source(here::here("data-raw", "Match_ids", "find_ids.R"))
 
 # player_stats ------------------------------------------------------------
 source(here::here("data-raw", "player_stats", "scrape_footywire_basic.R"))
