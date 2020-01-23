@@ -1,0 +1,20 @@
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  foo_command:
+    if: startsWith(github.event.comment.body, '/foo')
+    name: foo
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: r-lib/actions/pr-fetch@master
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+        echo "hi" > foo
+        git commit -m 'foo added' --author 'GitHub Actions <actions@github.com>'
+      - uses: r-lib/actions/pr-push@master
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
