@@ -1,16 +1,18 @@
-on: [push]
+name: get new data
 
-name: testing that R script runs
+on:
+  schedule:
+    - cron: "0 13 * * *"
 
 jobs:
-  R-CMD-check:
+  scrape-and-commit:
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@master
-      - name: Install dependencies
+      - name: Install packages
         run: Rscript -e 'install.packages(c("fitzRoy", "tidyverse", "here", "fst"))'
-      - name: run script
+      - name: Get data
         run: Rscript -e 'source(here::here("data-raw", "weekly_data_process.R"), echo = TRUE)'
       - name: Commit
         run: |
