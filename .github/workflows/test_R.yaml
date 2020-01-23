@@ -10,12 +10,12 @@ jobs:
       - uses: r-lib/actions/setup-r@master
       - name: Install dependencies
         run: Rscript -e 'install.packages(c("fitzRoy", "tidyverse", "here", "fst"))'
-      - name: style
-        run: Rscript -e 'source(here::here("test_script.R"), echo = TRUE)'
+      - name: run script
+        run: Rscript -e 'source(here::here("data-raw", "weekly_data_process.R"), echo = TRUE)'
       - name: Commit
         run: |
           git config --global user.name 'James Day'
           git config --global user.email 'jimmyday12@users.noreply.github.com'
           git add .
-          git commit -m 'updating time'
+          git commit -m 'updating weekly_data_process'
           git push

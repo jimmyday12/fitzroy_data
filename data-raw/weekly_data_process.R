@@ -4,7 +4,8 @@ library(here)
 library(tidyverse)
 library(fitzRoy)
 # setwd("~/Documents/R_scripts/fitzRoy")
-
+# write out server time
+cat(as.character(Sys.time()), file = "time_changed.txt" , sep="\n")
 
 # IDS -----------------------------------------------------------
 #source(here::here("data-raw", "Match_ids", "find_ids.R"))
