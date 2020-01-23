@@ -1,4 +1,4 @@
-name: update data
+name: schedule script
 
 on:
   schedule:
