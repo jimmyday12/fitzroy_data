@@ -14,8 +14,8 @@ jobs:
         run: Rscript -e 'source(here::here("test_script.R"), echo = TRUE)'
       - name: Commit
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-username@users.noreply.github.com'
+          git config --global user.name 'James Day'
+          git config --global user.email 'jimmyday12@users.noreply.github.com'
           git add .
           git commit -m 'updating time'
           git push
