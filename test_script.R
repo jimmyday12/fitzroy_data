@@ -1,3 +1,3 @@
 print("hello world")
-x <- Sys.time()
-readr::write_rds(x, here::here("test.rds"))
+cat(as.character(Sys.time()), file = "time_changed.txt" , sep="\n")
+
