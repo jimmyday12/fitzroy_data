@@ -1,5 +1,5 @@
 # Weekly Script to update data
-devtools::load_all(".")
+#devtools::load_all(".")
 library(here)
 library(tidyverse)
 library(fitzRoy)
