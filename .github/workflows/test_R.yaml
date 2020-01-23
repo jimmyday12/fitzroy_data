@@ -6,16 +6,16 @@ jobs:
   R-CMD-check:
     runs-on: macOS-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@master
       - name: Install dependencies
         run: Rscript -e 'install.packages(c("fitzRoy", "tidyverse", "here", "fst"))'
       - name: style
         run: Rscript -e 'source(here::here("test_script.R"), echo = TRUE)'
-      - name: commit
+      - name: Commit
         run: |
+          git config --global user.name 'Your Name'
+          git config --global user.email 'your-username@users.noreply.github.com'
           git add .
           git commit -m 'updating time'
-      - uses: r-lib/actions/pr-push@master
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          git push
