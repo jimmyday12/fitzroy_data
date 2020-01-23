@@ -1,4 +1,4 @@
-name: schedule script
+name: test that scheduler runs
 
 on:
   schedule:
