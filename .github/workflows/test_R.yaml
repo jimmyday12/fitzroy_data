@@ -1,6 +1,6 @@
 on: [push]
 
-name: test script
+name: testing that R script runs
 
 jobs:
   R-CMD-check:
