@@ -8,8 +8,8 @@ load(here::here("data-raw", "afl_tables_playerstats", "afltables_playerstats_pro
 afldata <- afldata %>%
   select(
     -X, -year, -month, -day,
-    -Home.coach, -Home.coach.DOB, -Away.coach, -Away.coach.DOB,
-    -Height, -Weight, -DOB
+    -Home.coach, -Home.coach.DOB, -Away.coach, -Away.coach.DOB#,
+    #-Height, -Weight, -DOB
   )
 
 # Save the names of the columns. Will be used internally by the package
@@ -75,7 +75,7 @@ team_abbr <- tibble(
   )
 )
 
-usethis::use_data(stat_abbr, team_abbr, afldata_cols, internal = TRUE, overwrite = TRUE)
+#usethis::use_data(stat_abbr, team_abbr, afldata_cols, internal = TRUE, overwrite = TRUE)
 
 # Fix some random games identified by Tony Corke
 old_urls <- c(
