@@ -8,9 +8,64 @@ load(here::here("data-raw", "afl_tables_playerstats", "afltables_playerstats_pro
 afldata <- afldata %>%
   select(
     -X, -year, -month, -day,
-    -Home.coach, -Home.coach.DOB, -Away.coach, -Away.coach.DOB#,
-    #-Height, -Weight, -DOB
+    -Home.coach, -Home.coach.DOB, -Away.coach, -Away.coach.DOB,
+    -Height, -Weight, -DOB
   )
+
+afldata <- afldata %>%
+  group_by(Date, Season, Round, Home.team, Away.team)
+
+afldata$group_id <- group_indices(afldata)
+afldata$group_id_num <- match(afldata$group_id, unique(afldata$group_id))
+
+
+
+
+# Fix finals bad matches
+
+# get bad matches
+bad_finals <- afldata %>%
+  distinct(Season, Round, Date, Venue, Home.team, Home.score, Away.team, Away.score, Attendance) %>%
+  filter(Home.score == Away.score) %>%
+  group_by(Season, Round, Date, Venue, Attendance) %>%
+  mutate(count = n()) %>%
+  filter(count > 1) %>%
+  arrange(Date) %>%
+  select(-Home.score, -Away.score, -count, -Away.team, -Home.team) %>%
+  ungroup() 
+
+# Add match ID
+bad_finals <- afldata %>% 
+  ungroup %>% 
+  select(Season, Round, Date, Venue, Attendance, group_id_num) %>%
+  group_by(group_id_num) %>%
+  filter(row_number() == 1) %>%
+  semi_join(bad_finals) %>%
+  mutate(Date = lubridate::ymd(Date))
+
+
+# re-scrape these matches
+bad_finals_urls <- bad_finals$Date %>%
+  purrr::map(~get_afltables_urls(lubridate::ymd(.x) - 1, lubridate::ymd(.x) + 1)) %>%
+  purrr::reduce(c)
+
+bad_finals_data <- bad_finals_urls %>%
+  fitzRoy::scrape_afltables_match()
+
+# add match id and filter our non bad matches (some dates had 2 matches)
+bad_finals_data <- bad_finals_data %>% 
+  left_join(select(bad_finals, Season, Date, Attendance, group_id_num)) %>%
+  filter(!is.na(group_id_num))
+
+# filter them out of afldata then put them in
+afldata <- as_tibble(afldata) %>%
+  mutate(Date = lubridate::ymd(Date)) %>%
+  anti_join(bad_finals)
+
+afldata <- afldata %>%
+  bind_rows(bad_finals_data) %>%
+  arrange()
+
 
 # Save the names of the columns. Will be used internally by the package
 afldata_cols <- names(afldata)
@@ -18,32 +73,32 @@ afldata_cols <- names(afldata)
 # Function to fix abbreviations
 fix_abbreviations <- function(x) {
   map_chr(x, ~
-  case_when(
-    . == "KI" ~ "Kicks",
-    . == "MK" ~ "Marks",
-    . == "HB" ~ "Handballs",
-    . == "GL" ~ "Goals",
-    . == "BH" ~ "Behinds",
-    . == "HO" ~ "Hit.Outs",
-    . == "TK" ~ "Tackles",
-    . == "RB" ~ "Rebounds",
-    . == "IF" ~ "Inside.50s",
-    . == "CL" ~ "Clearances",
-    . == "CG" ~ "Clangers",
-    . == "FF" ~ "Frees.For",
-    . == "FA" ~ "Frees.Against",
-    . == "BR" ~ "Brownlow.Votes",
-    . == "CP" ~ "Contested.Possessions",
-    . == "UP" ~ "Uncontested.Possessions",
-    . == "CM" ~ "Contested.Marks",
-    . == "MI" ~ "Marks.Inside.50",
-    . == "One.Percenters" ~ "One.Percenters",
-    . == "BO" ~ "Bounces",
-    . == "GA" ~ "Goal.Assists",
-    . == "TOG" ~ "Time.on.Ground..",
-    . == "Jumper" ~ "Jumper.No",
-    TRUE ~ ""
-  ))
+            case_when(
+              . == "KI" ~ "Kicks",
+              . == "MK" ~ "Marks",
+              . == "HB" ~ "Handballs",
+              . == "GL" ~ "Goals",
+              . == "BH" ~ "Behinds",
+              . == "HO" ~ "Hit.Outs",
+              . == "TK" ~ "Tackles",
+              . == "RB" ~ "Rebounds",
+              . == "IF" ~ "Inside.50s",
+              . == "CL" ~ "Clearances",
+              . == "CG" ~ "Clangers",
+              . == "FF" ~ "Frees.For",
+              . == "FA" ~ "Frees.Against",
+              . == "BR" ~ "Brownlow.Votes",
+              . == "CP" ~ "Contested.Possessions",
+              . == "UP" ~ "Uncontested.Possessions",
+              . == "CM" ~ "Contested.Marks",
+              . == "MI" ~ "Marks.Inside.50",
+              . == "One.Percenters" ~ "One.Percenters",
+              . == "BO" ~ "Bounces",
+              . == "GA" ~ "Goal.Assists",
+              . == "TOG" ~ "Time.on.Ground..",
+              . == "Jumper" ~ "Jumper.No",
+              TRUE ~ ""
+            ))
 }
 
 
@@ -89,25 +144,27 @@ old_urls <- c(
   "https://afltables.com/afl/stats/games/1907/030519070615.html",
   "https://afltables.com/afl/stats/games/1907/051119070629.html",
   "https://afltables.com/afl/stats/games/1907/040519070720.html",
-  "https://afltables.com/afl/stats/games/1900/030919000623.html"
+  "https://afltables.com/afl/stats/games/1900/030919000623.html",
+  
 )
 
 old_urls <- sort(old_urls)
 
 # Add match numbers
 
-afldata <- afldata %>%
-  group_by(Date, Season, Round, Home.team, Away.team)
+#afldata <- afldata %>%
+#  group_by(Date, Season, Round, Home.team, Away.team)
 
-afldata$group_id <- group_indices(afldata)
-afldata$group_id_num <- match(afldata$group_id, unique(afldata$group_id))
+#afldata$group_id <- group_indices(afldata)
+#afldata$group_id_num <- match(afldata$group_id, unique(afldata$group_id))
 
 bad_dat <- afldata %>%
-  filter((Season == 1901 & Round == "3" & Home.team == "Essendon") |
-    (Season == 1912 & Round == "5" & Home.team == "Fitzroy") |
-    (Season == 1907 & Round %in% c("1", "5", "9") & Home.team == "Essendon") |
-    (Season == 1907 & Round %in% c("2", "3", "6", "7", "12") & Away.team == "Essendon") |
-    (Season == 1900 & Round == "8" & Home.team == "Geelong")) %>%
+  filter(
+    (Season == 1901 & Round == "3" & Home.team == "Essendon") |
+      (Season == 1912 & Round == "5" & Home.team == "Fitzroy") |
+      (Season == 1907 & Round %in% c("1", "5", "9") & Home.team == "Essendon") |
+      (Season == 1907 & Round %in% c("2", "3", "6", "7", "12") & Away.team == "Essendon") |
+      (Season == 1900 & Round == "8" & Home.team == "Geelong")) %>%
   ungroup() %>%
   select(Season, Round, Home.team, Away.team, group_id_num) %>%
   distinct()
@@ -124,6 +181,12 @@ afldata <- afldata %>%
 # Get new data
 old_dat <- scrape_afltables_match(old_urls) %>%
   left_join(bad_dat, by = c("Season", "Round", "Home.team", "Away.team"))
+
+
+
+
+
+
 
 
 # Now let's save to 2018
