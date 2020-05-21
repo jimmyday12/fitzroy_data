@@ -58,13 +58,13 @@ bad_finals_data <- bad_finals_data %>%
   filter(!is.na(group_id_num))
 
 # filter them out of afldata then put them in
-afldata <- as_tibble(afldata) %>%
+afldata_no_finals <- as_tibble(afldata) %>%
   mutate(Date = lubridate::ymd(Date)) %>%
   anti_join(bad_finals)
 
-afldata <- afldata %>%
+afldata <- afldata_no_finals %>%
   bind_rows(bad_finals_data) %>%
-  arrange()
+  arrange(group_id_num)
 
 
 # Save the names of the columns. Will be used internally by the package
@@ -144,7 +144,7 @@ old_urls <- c(
   "https://afltables.com/afl/stats/games/1907/030519070615.html",
   "https://afltables.com/afl/stats/games/1907/051119070629.html",
   "https://afltables.com/afl/stats/games/1907/040519070720.html",
-  "https://afltables.com/afl/stats/games/1900/030919000623.html",
+  "https://afltables.com/afl/stats/games/1900/030919000623.html"
   
 )
 

@@ -15033,7 +15033,7 @@ Season,Player,ID,Team
 1907,Dave Ryan,5381,Collingwood
 1907,Bob Strachan,5195,Collingwood
 1907,Frank Wilcher,5410,Collingwood
-1907,Alan Belcher,5187,Essendon
+1907,Allan Belcher,0,Essendon
 1907,Ernie Cameron,5249,Essendon
 1907,Dick Clough,5452,Essendon
 1907,Bill Davies,5342,Essendon
@@ -15084,6 +15084,7 @@ Season,Player,ID,Team
 1907,Graham Diggle,5499,Collingwood
 1907,Bob Nash,5193,Collingwood
 1907,George Barker,5053,Essendon
+1907,Alan Belcher,5187,Essendon
 1907,Len Bowe,5450,Essendon
 1907,Bill Busbridge,5146,Essendon
 1907,Charlie Haigbloom,4935,Essendon
@@ -40774,6 +40775,7 @@ Season,Player,ID,Team
 1928,Arthur Lowe,3234,North Melbourne
 1928,Jim Abernethy,1474,Melbourne
 1928,Col Deane,2763,Melbourne
+1928,Jack Haw,7347,Melbourne
 1928,Gordon Ogden,3471,Melbourne
 1928,Ray Usher,2237,Melbourne
 1928,Bert Foster,1734,Richmond
@@ -51610,7 +51612,6 @@ Season,Player,ID,Team
 1927,Charles Young,7257,Melbourne
 1927,Roy Day,7150,North Melbourne
 1928,Les Meade,7255,Melbourne
-1928,Jack Haw,7347,Melbourne
 1928,Artie Malberg,7289,North Melbourne
 1929,Bill OConnor,7459,Sydney
 1929,Eddie Rosenbrock,7461,Sydney
