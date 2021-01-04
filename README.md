@@ -5,4 +5,4 @@ This repository houses data that is used by the [fitzRoy](https://github.com/jim
 
 All data is sourced from [AFL Tables](afltables.com) and [Footywire](footywire.com) with permission. Please reference these websites when using this data. 
 
-No guarantee can be given for the accuracy of the data and you use it at your own risk! 
+No guarantee can be given for the accuracy of the data and you use it at your own risk!
