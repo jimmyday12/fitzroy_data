@@ -1,59 +1,82 @@
 library(fitzRoy)
 library(dplyr)
 
-dat <- get_afltables_stats(start_date = "1897-05-01")
+raw_dat <- get_afltables_stats(start_date = "1897-05-01")
+
+dat <- raw_dat
 
 # Tony's fixes
 # Fix Arthur Davidson (recorded as Alex Davidson)
-dat$ID[dat$ID == 4350 & dat$Playing.for == "Fitzroy" & dat$Season == 1898 & dat$Round %in% c(7,10)] = 15000
-dat$First.name[dat$ID == 4350 & dat$Playing.for == "Fitzroy" & dat$Season == 1898 & dat$Round %in% c(7,10)] = "Arthur"
-dat$Surname[dat$ID == 4350 & dat$Playing.for == "Fitzroy" & dat$Season == 1898 & dat$Round %in% c(7,10)] = "Davidson"
+ind_AD <- dat$ID == 4350 & dat$Playing.for == "Fitzroy" & dat$Season == 1898 & dat$Round %in% c(7,10)
+
+dat$ID[ind_AD] = 15000
+dat$First.name[ind_AD] = "Arthur"
+dat$Surname[ind_AD] = "Davidson"
+
+dat$First.name[ind_AD] 
 
 # Fix George McLeod (there were two)
+
 dat$ID[dat$First.name == "George" & dat$Surname == "McLeod" & dat$Playing.for == "St Kilda" & dat$Season == 1903] = 15001
 
 # Fix Archie Richardson (three different guys)
-dat$ID[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-         dat$Playing.for == "St Kilda" & dat$Season == 1898] = 15002
-dat$First.name[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-                 dat$Playing.for == "St Kilda" & dat$Season == 1898] = "Mr"
-dat$Surname[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-              dat$Playing.for == "St Kilda" & dat$Season == 1898] = "Richardson"
+ind_AR1 <- dat$First.name == "Archie" & 
+  dat$Surname == "Richardson" &
+  dat$Playing.for == "St Kilda" & 
+  dat$Season == 1898
 
-dat$ID[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-         dat$Playing.for == "St Kilda" & dat$Season == 1900] = 15003
-dat$First.name[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-                 dat$Playing.for == "St Kilda" & dat$Season == 1900] = "William"
-dat$Surname[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-              dat$Playing.for == "St Kilda" & dat$Season == 1900] = "Richardson"
+dat$ID[ind_AR1] = 15002
+dat$First.name[ind_AR1] = "Mr"
+dat$Surname[ind_AR1] = "Richardson"
 
-dat$ID[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-         dat$Playing.for == "St Kilda" & dat$Season == 1901] = 15004
-dat$First.name[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-                 dat$Playing.for == "St Kilda" & dat$Season == 1901] = "Alfred"
-dat$Surname[dat$First.name == "Archie" & dat$Surname == "Richardson" &
-              dat$Playing.for == "St Kilda" & dat$Season == 1901] = "Richardson"
+ind_AR2 <- dat$First.name == "Archie" & 
+  dat$Surname == "Richardson" &
+  dat$Playing.for == "St Kilda" & 
+  dat$Season == 1900
+
+dat$ID[ind_AR2] = 15003
+dat$First.name[ind_AR2] = "William"
+dat$Surname[ind_AR2] = "Richardson"
+
+ind_AR3 <- dat$First.name == "Archie" & 
+  dat$Surname == "Richardson" &
+  dat$Playing.for == "St Kilda" & 
+  dat$Season == 1901
+
+dat$ID[ind_AR3] = 15004
+dat$First.name[ind_AR3] = "Alfred"
+dat$Surname[ind_AR3] = "Richardson"
 
 # Fix Jack Dorgan (recorded as Jim Dorgan)
-dat$ID[dat$First.name == "Jim" & dat$Surname == "Dorgan" & dat$Season == 1949] = 15005
-dat$First.name[dat$First.name == "Jim" & dat$Surname == "Dorgan" & dat$Season == 1949] = "Jack"
-dat$Surname[dat$First.name == "Jim" & dat$Surname == "Dorgan" & dat$Season == 1949] = "Dorgan"
+ind_JD <- dat$First.name == "Jim" & 
+  dat$Surname == "Dorgan" & 
+  dat$Season == 1949
+
+dat$ID[ind_JD] = 15005
+dat$First.name[ind_JD] = "Jack"
+dat$Surname[ind_JD] = "Dorgan"
 
 # Fix Walter Johnston (recorded as Alex Johnston)
-dat$ID[dat$First.name == "Alex" & dat$Surname == "Johnston" &
-         dat$Playing.for == "Richmond" & dat$Season == 1908 & dat$Round == 8] = 15006
-dat$First.name[dat$First.name == "Alex" & dat$Surname == "Johnston" &
-                 dat$Playing.for == "Richmond" & dat$Season == 1908 & dat$Round == 8] = "Walter"
-dat$Surname[dat$First.name == "Alex" & dat$Surname == "Johnston" &
-              dat$Playing.for == "Richmond" & dat$Season == 1908 & dat$Round == 8] = "Johnston"
+ind_WJ <- dat$First.name == "Alex" & 
+  dat$Surname == "Johnston" &
+  dat$Playing.for == "Richmond" & 
+  dat$Season == 1908 & 
+  dat$Round == 8
+
+dat$ID[ind_WJ] = 15006
+dat$First.name[ind_WJ] = "Walter"
+dat$Surname[ind_WJ] = "Johnston"
 
 # Fix Jim and Tom Darcy (recorded only as Jim)
-dat$ID[dat$First.name == "Jim" & dat$Surname == "Darcy" &
-         dat$Playing.for == "Sydney" & dat$Season == 1904 & dat$Round == 17] = 15007
-dat$First.name[dat$First.name == "Jim" & dat$Surname == "Darcy" &
-                 dat$Playing.for == "Sydney" & dat$Season == 1904 & dat$Round == 17] = "Tom"
-dat$Surname[dat$First.name == "Jim" & dat$Surname == "Darcy" &
-              dat$Playing.for == "Sydney" & dat$Season == 1904 & dat$Round == 17] = "Darcy"
+ind_TD <- dat$First.name == "Jim" & 
+  dat$Surname == "Darcy" &
+  dat$Playing.for == "Sydney" & 
+  dat$Season == 1904 & 
+  dat$Round == 17
+
+dat$ID[ind_TD] = 15007
+dat$First.name[ind_TD] = "Tom"
+dat$Surname[ind_TD] = "Darcy"
 
 # Fix Heber Quinton for Cam Rayner, Cameron Sutcliffe, Alan Belcher, and James Robinson
 Rows_to_Fix_BL = which(dat$Surname == "Quinton" & dat$Date > as.Date("1908-01-01", format = "%Y-%m-%d") & dat$Playing.for == "Brisbane Lions")
