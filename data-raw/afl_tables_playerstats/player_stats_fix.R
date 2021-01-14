@@ -210,5 +210,5 @@ dat = dat[!duplicated(dat[c("ID","First.name", "Surname", "Date", "Playing.for")
 afldata <- dat
 
 # Write out
-write_rds(afldata, here::here("data-raw", "afl_tables_playerstats", "afldata.rds"))
+readr::write_rds(afldata, here::here("data-raw", "afl_tables_playerstats", "afldata.rds"))
 save(afldata, file = here::here("data-raw", "afl_tables_playerstats", "afldata.rda"))
