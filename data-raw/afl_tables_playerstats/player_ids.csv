@@ -52457,28 +52457,6 @@ Season,Player,ID,Team
 2013,Bret Thornton,1152,Greater Western Sydney
 2013,James Stewart,12232,Greater Western Sydney
 2016,Jack Leslie,12309,Gold Coast
-2017,David Astbury,11828,Richmond
-2017,Dan Butler,12490,Richmond
-2017,Josh Caddy,12010,Richmond
-2017,Jason Castagna,12431,Richmond
-2017,Reece Conca,11888,Richmond
-2017,Trent Cotchin,11666,Richmond
-2017,Shane Edwards,11557,Richmond
-2017,Brandon Ellis,12034,Richmond
-2017,Ben Griffiths,11850,Richmond
-2017,Shaun Grigg,11594,Richmond
-2017,Dylan Grimes,11879,Richmond
-2017,Bachar Houli,11566,Richmond
-2017,Taylor Hunt,11851,Richmond
-2017,Sam Lloyd,12263,Richmond
-2017,Dustin Martin,11794,Richmond
-2017,Kamdyn McIntosh,12317,Richmond
-2017,Toby Nankervis,12374,Richmond
-2017,Dion Prestia,11917,Richmond
-2017,Alex Rance,11733,Richmond
-2017,Jack Riewoldt,11576,Richmond
-2017,Daniel Rioli,12403,Richmond
-2017,Nick Vlastuin,12174,Richmond
 2017,Dennis Armfield,11673,Carlton
 2017,Levi Casboult,12114,Carlton
 2017,Patrick Cripps,12261,Carlton
@@ -52501,6 +52479,28 @@ Season,Player,ID,Team
 2017,Jacob Weitering,12402,Carlton
 2017,Simon White,11826,Carlton
 2017,Matthew Wright,11929,Carlton
+2017,David Astbury,11828,Richmond
+2017,Dan Butler,12490,Richmond
+2017,Josh Caddy,12010,Richmond
+2017,Jason Castagna,12431,Richmond
+2017,Reece Conca,11888,Richmond
+2017,Trent Cotchin,11666,Richmond
+2017,Shane Edwards,11557,Richmond
+2017,Brandon Ellis,12034,Richmond
+2017,Ben Griffiths,11850,Richmond
+2017,Shaun Grigg,11594,Richmond
+2017,Dylan Grimes,11879,Richmond
+2017,Bachar Houli,11566,Richmond
+2017,Taylor Hunt,11851,Richmond
+2017,Sam Lloyd,12263,Richmond
+2017,Dustin Martin,11794,Richmond
+2017,Kamdyn McIntosh,12317,Richmond
+2017,Toby Nankervis,12374,Richmond
+2017,Dion Prestia,11917,Richmond
+2017,Alex Rance,11733,Richmond
+2017,Jack Riewoldt,11576,Richmond
+2017,Daniel Rioli,12403,Richmond
+2017,Nick Vlastuin,12174,Richmond
 2017,Taylor Adams,12066,Collingwood
 2017,Jarryd Blair,11855,Collingwood
 2017,Mason Cox,12428,Collingwood
@@ -52545,28 +52545,6 @@ Season,Player,ID,Team
 2017,Jake Stringer,12167,Western Bulldogs
 2017,Matt Suckling,11718,Western Bulldogs
 2017,Easton Wood,11788,Western Bulldogs
-2017,Angus Brayshaw,12322,Melbourne
-2017,Jeff Garlett,11711,Melbourne
-2017,Max Gawn,11966,Melbourne
-2017,Mitch Hannan,12492,Melbourne
-2017,Jesse Hogan,12321,Melbourne
-2017,Jayden Hunt,4729,Melbourne
-2017,Neville Jetta,11723,Melbourne
-2017,Nathan Jones,2447,Melbourne
-2017,Jordan Lewis,4077,Melbourne
-2017,Oscar McDonald,12394,Melbourne
-2017,Tom McDonald,12009,Melbourne
-2017,Jake Melksham,11820,Melbourne
-2017,Alex Neal-Bullen,12367,Melbourne
-2017,Clayton Oliver,12410,Melbourne
-2017,Christian Petracca,12430,Melbourne
-2017,Christian Salem,12272,Melbourne
-2017,Joel Smith,12493,Melbourne
-2017,Billy Stretch,12353,Melbourne
-2017,Bernie Vince,4151,Melbourne
-2017,Jack Viney,12147,Melbourne
-2017,Jack Watts,11765,Melbourne
-2017,Sam Weideman,12475,Melbourne
 2017,David Armitage,11570,St Kilda
 2017,Jack Billings,12249,St Kilda
 2017,Nathan Brown,11627,St Kilda
@@ -52589,28 +52567,28 @@ Season,Player,ID,Team
 2017,Jimmy Webster,12188,St Kilda
 2017,Maverick Weller,11922,St Kilda
 2017,Nathan Wright,12160,St Kilda
-2017,Karl Amon,12357,Port Adelaide
-2017,Travis Boak,11583,Port Adelaide
-2017,Matthew Broadbent,11782,Port Adelaide
-2017,Darcy Byrne-Jones,12422,Port Adelaide
-2017,Tom Clurey,12238,Port Adelaide
-2017,Charlie Dixon,11914,Port Adelaide
-2017,Brad Ebert,11639,Port Adelaide
-2017,Brett Eddy,12496,Port Adelaide
-2017,Robbie Gray,11578,Port Adelaide
-2017,Sam Gray,12262,Port Adelaide
-2017,Hamish Hartlett,11740,Port Adelaide
-2017,Jack Hombsch,12021,Port Adelaide
-2017,Dan Houston,12495,Port Adelaide
-2017,Tom Jonas,12002,Port Adelaide
-2017,Jared Polec,11927,Port Adelaide
-2017,Sam Powell-Pepper,12494,Port Adelaide
-2017,Paddy Ryder,4144,Port Adelaide
-2017,Jackson Trengove,11812,Port Adelaide
-2017,Justin Westhoff,11579,Port Adelaide
-2017,Ollie Wines,12150,Port Adelaide
-2017,Chad Wingard,12047,Port Adelaide
-2017,Aaron Young,12068,Port Adelaide
+2017,Angus Brayshaw,12322,Melbourne
+2017,Jeff Garlett,11711,Melbourne
+2017,Max Gawn,11966,Melbourne
+2017,Mitch Hannan,12492,Melbourne
+2017,Jesse Hogan,12321,Melbourne
+2017,Jayden Hunt,4729,Melbourne
+2017,Neville Jetta,11723,Melbourne
+2017,Nathan Jones,2447,Melbourne
+2017,Jordan Lewis,4077,Melbourne
+2017,Oscar McDonald,12394,Melbourne
+2017,Tom McDonald,12009,Melbourne
+2017,Jake Melksham,11820,Melbourne
+2017,Alex Neal-Bullen,12367,Melbourne
+2017,Clayton Oliver,12410,Melbourne
+2017,Christian Petracca,12430,Melbourne
+2017,Christian Salem,12272,Melbourne
+2017,Joel Smith,12493,Melbourne
+2017,Billy Stretch,12353,Melbourne
+2017,Bernie Vince,4151,Melbourne
+2017,Jack Viney,12147,Melbourne
+2017,Jack Watts,11765,Melbourne
+2017,Sam Weideman,12475,Melbourne
 2017,Harry Cunningham,12015,Sydney
 2017,Oliver Florent,12497,Sydney
 2017,Jordan Foote,12465,Sydney
@@ -52633,72 +52611,28 @@ Season,Player,ID,Team
 2017,Nick Smith,11653,Sydney
 2017,Kurt Tippett,11633,Sydney
 2017,Dean Towers,12297,Sydney
-2017,Harris Andrews,12340,Brisbane Lions
-2017,Jake Barrett,12400,Brisbane Lions
-2017,Ryan Bastinac,11811,Brisbane Lions
-2017,Dayne Beams,11728,Brisbane Lions
-2017,Tom Bell,12115,Brisbane Lions
-2017,Rohan Bewick,11895,Brisbane Lions
-2017,Michael Close,12251,Brisbane Lions
-2017,Tom Cutler,12265,Brisbane Lions
-2017,Darcy Gardiner,12267,Brisbane Lions
-2017,Ryan Harwood,11863,Brisbane Lions
-2017,Eric Hipwood,12454,Brisbane Lions
-2017,Ben Keays,12434,Brisbane Lions
-2017,Ryan Lester,11894,Brisbane Lions
-2017,Stefan Martin,11684,Brisbane Lions
-2017,Sam Mayes,12162,Brisbane Lions
-2017,Daniel McStay,12291,Brisbane Lions
-2017,Daniel Rich,11725,Brisbane Lions
-2017,Nick Robertson,12264,Brisbane Lions
-2017,Mitch Robinson,11710,Brisbane Lions
-2017,Tom Rockliff,11787,Brisbane Lions
-2017,Lewis Taylor,12252,Brisbane Lions
-2017,Dayne Zorko,12076,Brisbane Lions
-2017,Gary Ablett,1105,Gold Coast
-2017,Callum Ah Chee,12414,Gold Coast
-2017,Ben Ainsworth,12498,Gold Coast
-2017,Michael Barlow,11809,Gold Coast
-2017,Jack Bowes,12499,Gold Coast
-2017,Aaron Hall,12041,Gold Coast
-2017,Pearce Hanley,11704,Gold Coast
-2017,Jesse Joyce,12449,Gold Coast
-2017,Kade Kolodjashnij,12256,Gold Coast
-2017,Sean Lemmens,12234,Gold Coast
-2017,Tom Lynch,11948,Gold Coast
-2017,Jarryd Lyons,12067,Gold Coast
-2017,Jack Martin,12236,Gold Coast
-2017,Steven May,11940,Gold Coast
-2017,Touk Miller,12331,Gold Coast
-2017,Matt Rosa,4133,Gold Coast
-2017,Adam Saad,12330,Gold Coast
-2017,Josh Schoenfeld,12466,Gold Coast
-2017,Alex Sexton,12080,Gold Coast
-2017,Rory Thompson,11992,Gold Coast
-2017,Jarrod Witts,12177,Gold Coast
-2017,Peter Wright,12366,Gold Coast
-2017,Grant Birchall,4149,Hawthorn
-2017,Luke Breust,11954,Hawthorn
-2017,Shaun Burgoyne,1126,Hawthorn
-2017,Taylor Duryea,12163,Hawthorn
-2017,James Frawley,11575,Hawthorn
-2017,Josh Gibson,4145,Hawthorn
-2017,Jack Gunston,11845,Hawthorn
-2017,Billy Hartung,12274,Hawthorn
-2017,Ricky Henderson,11832,Hawthorn
-2017,Will Langford,12214,Hawthorn
-2017,Ben McEvoy,11682,Hawthorn
-2017,Tom Mitchell,12196,Hawthorn
-2017,Jaeger OMeara,12141,Hawthorn
-2017,Paul Puopolo,11942,Hawthorn
-2017,Cyril Rioli,11632,Hawthorn
-2017,Jarryd Roughead,4078,Hawthorn
-2017,Ryan Schoenmakers,11720,Hawthorn
-2017,Liam Shiels,11760,Hawthorn
-2017,James Sicily,12332,Hawthorn
-2017,Isaac Smith,11941,Hawthorn
-2017,Ben Stratton,11824,Hawthorn
-2017,Ty Vickery,11767,Hawthorn
+2017,Karl Amon,12357,Port Adelaide
+2017,Travis Boak,11583,Port Adelaide
+2017,Matthew Broadbent,11782,Port Adelaide
+2017,Darcy Byrne-Jones,12422,Port Adelaide
+2017,Tom Clurey,12238,Port Adelaide
+2017,Charlie Dixon,11914,Port Adelaide
+2017,Brad Ebert,11639,Port Adelaide
+2017,Brett Eddy,12496,Port Adelaide
+2017,Robbie Gray,11578,Port Adelaide
+2017,Sam Gray,12262,Port Adelaide
+2017,Hamish Hartlett,11740,Port Adelaide
+2017,Jack Hombsch,12021,Port Adelaide
+2017,Dan Houston,12495,Port Adelaide
+2017,Tom Jonas,12002,Port Adelaide
+2017,Jared Polec,11927,Port Adelaide
+2017,Sam Powell-Pepper,12494,Port Adelaide
+2017,Paddy Ryder,4144,Port Adelaide
+2017,Jackson Trengove,11812,Port Adelaide
+2017,Justin Westhoff,11579,Port Adelaide
+2017,Ollie Wines,12150,Port Adelaide
+2017,Chad Wingard,12047,Port Adelaide
+2017,Aaron Young,12068,Port Adelaide
 2017,Patrick Ambrose,12239,Essendon
 2017,Mark Baguley,12107,Essendon
 2017,Travis Colyer,11821,Essendon
@@ -52721,6 +52655,72 @@ Season,Player,ID,Team
 2017,Brent Stanton,3939,Essendon
 2017,Jobe Watson,1461,Essendon
 2017,David Zaharakis,11729,Essendon
+2017,Grant Birchall,4149,Hawthorn
+2017,Luke Breust,11954,Hawthorn
+2017,Shaun Burgoyne,1126,Hawthorn
+2017,Taylor Duryea,12163,Hawthorn
+2017,James Frawley,11575,Hawthorn
+2017,Josh Gibson,4145,Hawthorn
+2017,Jack Gunston,11845,Hawthorn
+2017,Billy Hartung,12274,Hawthorn
+2017,Ricky Henderson,11832,Hawthorn
+2017,Will Langford,12214,Hawthorn
+2017,Ben McEvoy,11682,Hawthorn
+2017,Tom Mitchell,12196,Hawthorn
+2017,Jaeger OMeara,12141,Hawthorn
+2017,Paul Puopolo,11942,Hawthorn
+2017,Cyril Rioli,11632,Hawthorn
+2017,Jarryd Roughead,4078,Hawthorn
+2017,Ryan Schoenmakers,11720,Hawthorn
+2017,Liam Shiels,11760,Hawthorn
+2017,James Sicily,12332,Hawthorn
+2017,Isaac Smith,11941,Hawthorn
+2017,Ben Stratton,11824,Hawthorn
+2017,Ty Vickery,11767,Hawthorn
+2017,Gary Ablett,1105,Gold Coast
+2017,Callum Ah Chee,12414,Gold Coast
+2017,Ben Ainsworth,12498,Gold Coast
+2017,Michael Barlow,11809,Gold Coast
+2017,Jack Bowes,12499,Gold Coast
+2017,Aaron Hall,12041,Gold Coast
+2017,Pearce Hanley,11704,Gold Coast
+2017,Jesse Joyce,12449,Gold Coast
+2017,Kade Kolodjashnij,12256,Gold Coast
+2017,Sean Lemmens,12234,Gold Coast
+2017,Tom Lynch,11948,Gold Coast
+2017,Jarryd Lyons,12067,Gold Coast
+2017,Jack Martin,12236,Gold Coast
+2017,Steven May,11940,Gold Coast
+2017,Touk Miller,12331,Gold Coast
+2017,Matt Rosa,4133,Gold Coast
+2017,Adam Saad,12330,Gold Coast
+2017,Josh Schoenfeld,12466,Gold Coast
+2017,Alex Sexton,12080,Gold Coast
+2017,Rory Thompson,11992,Gold Coast
+2017,Jarrod Witts,12177,Gold Coast
+2017,Peter Wright,12366,Gold Coast
+2017,Harris Andrews,12340,Brisbane Lions
+2017,Jake Barrett,12400,Brisbane Lions
+2017,Ryan Bastinac,11811,Brisbane Lions
+2017,Dayne Beams,11728,Brisbane Lions
+2017,Tom Bell,12115,Brisbane Lions
+2017,Rohan Bewick,11895,Brisbane Lions
+2017,Michael Close,12251,Brisbane Lions
+2017,Tom Cutler,12265,Brisbane Lions
+2017,Darcy Gardiner,12267,Brisbane Lions
+2017,Ryan Harwood,11863,Brisbane Lions
+2017,Eric Hipwood,12454,Brisbane Lions
+2017,Ben Keays,12434,Brisbane Lions
+2017,Ryan Lester,11894,Brisbane Lions
+2017,Stefan Martin,11684,Brisbane Lions
+2017,Sam Mayes,12162,Brisbane Lions
+2017,Daniel McStay,12291,Brisbane Lions
+2017,Daniel Rich,11725,Brisbane Lions
+2017,Nick Robertson,12264,Brisbane Lions
+2017,Mitch Robinson,11710,Brisbane Lions
+2017,Tom Rockliff,11787,Brisbane Lions
+2017,Lewis Taylor,12252,Brisbane Lions
+2017,Dayne Zorko,12076,Brisbane Lions
 2017,Shaun Atley,11902,North Melbourne
 2017,Ben Brown,12289,North Melbourne
 2017,Trent Dumont,12343,North Melbourne
@@ -52827,7 +52827,7 @@ Season,Player,ID,Team
 2017,Aaron Sandilands,1421,Fremantle
 2017,Lee Spurr,12069,Fremantle
 2017,Nick Suban,11717,Fremantle
-2017,Cameron Sutcliffe,12104,Fremantle
+2017,Cam Sutcliffe,0,Fremantle
 2017,Darcy Tucker,12426,Fremantle
 2017,Michael Walters,11763,Fremantle
 2017,Lachie Weller,12385,Fremantle
@@ -52858,35 +52858,35 @@ Season,Player,ID,Team
 2017,Jayden Short,12418,Richmond
 2017,James Aish,12250,Collingwood
 2017,Tim Broomhead,12284,Collingwood
+2017,Marcus Adams,12409,Western Bulldogs
+2017,Tom Campbell,12097,Western Bulldogs
 2017,Aliir Aliir,12433,Sydney
 2017,Robbie Fox,12510,Sydney
 2017,Will Hayward,12509,Sydney
 2017,Nic Newman,12508,Sydney
-2017,Marcus Adams,12409,Western Bulldogs
-2017,Tom Campbell,12097,Western Bulldogs
 2017,Ryan Burton,12477,Hawthorn
 2017,Luke Hodge,1134,Hawthorn
 2017,Teia Miles,12507,Hawthorn
 2017,Kade Stewart,12447,Hawthorn
 2017,Taylor Walker,11713,Adelaide
-2017,Jack Leslie,12309,Gold Coast
-2017,David Swallow,11919,Gold Coast
 2017,Jacob Hopper,12440,Greater Western Sydney
 2017,Sam Reid,11705,Greater Western Sydney
 2017,Nathan Wilson,12024,Greater Western Sydney
-2017,Blake Acres,12276,St Kilda
-2017,Paddy McCartin,12339,St Kilda
-2017,Leigh Montagna,1137,St Kilda
+2017,Jack Leslie,12309,Gold Coast
+2017,David Swallow,11919,Gold Coast
+2017,Jack Frost,12145,Brisbane Lions
+2017,Ben Howlett,11797,Essendon
 2017,Tom Barrass,12383,West Coast
 2017,Jonathan Giles,12019,West Coast
 2017,Dom Sheed,12253,West Coast
-2017,Jack Frost,12145,Brisbane Lions
-2017,Ben Howlett,11797,Essendon
+2017,Blake Acres,12276,St Kilda
+2017,Paddy McCartin,12339,St Kilda
+2017,Leigh Montagna,1137,St Kilda
+2017,Darcy Lang,12286,Geelong
 2017,Ben Cunnington,11835,North Melbourne
 2017,Majak Daw,12168,North Melbourne
 2017,Taylor Garner,12220,North Melbourne
 2017,Aaron Mullett,12008,North Melbourne
-2017,Darcy Lang,12286,Geelong
 2017,James Harmes,12379,Melbourne
 2017,Dom Tyson,12032,Melbourne
 2017,Jarman Impey,12237,Port Adelaide
@@ -52897,12 +52897,12 @@ Season,Player,ID,Team
 2017,Sam Durdin,12515,North Melbourne
 2017,Aidan Corr,12181,Greater Western Sydney
 2017,Todd Elton,12100,Richmond
-2017,Dean Kent,12184,Melbourne
-2017,Tim Smith,12514,Melbourne
 2017,Cameron Guthrie,11884,Geelong
 2017,Sam Menegola,12464,Geelong
 2017,James Parsons,12513,Geelong
 2017,Zac Smith,11909,Geelong
+2017,Dean Kent,12184,Melbourne
+2017,Tim Smith,12514,Melbourne
 2017,Harley Balic,12512,Fremantle
 2017,Hayden Crozier,12088,Fremantle
 2017,Brady Grey,12396,Fremantle
@@ -52919,15 +52919,15 @@ Season,Player,ID,Team
 2017,Mitch Brown,11987,Essendon
 2017,Heath Hocking,11616,Essendon
 2017,Matthew Leuenberger,11593,Essendon
-2017,Kaiden Brand,12435,Hawthorn
-2017,Brendan Whitecross,11719,Hawthorn
 2017,Brayden Fiorini,12481,Gold Coast
 2017,Jarrod Harbrow,11555,Gold Coast
 2017,Brandon Matera,11915,Gold Coast
-2017,Tom Papley,12412,Sydney
+2017,Kaiden Brand,12435,Hawthorn
+2017,Brendan Whitecross,11719,Hawthorn
 2017,Sam Butler,3983,West Coast
 2017,Liam Duggan,12334,West Coast
 2017,Will Schofield,11605,West Coast
+2017,Tom Papley,12412,Sydney
 2017,Josh Dunkley,12408,Western Bulldogs
 2017,Clay Smith,12042,Western Bulldogs
 2017,Tomas Bugg,12016,Melbourne
@@ -52935,13 +52935,13 @@ Season,Player,ID,Team
 2017,Jake Spencer,11722,Melbourne
 2017,Jasper Pittard,11885,Port Adelaide
 2017,Matt White,4185,Port Adelaide
-2017,Conor McKenna,12391,Essendon
 2017,Zac Fisher,12520,Carlton
-2017,Ben Long,12521,St Kilda
+2017,Conor McKenna,12391,Essendon
 2017,Jamie Elliott,12083,Collingwood
-2017,Connor Menadue,12356,Richmond
+2017,Ben Long,12521,St Kilda
 2017,Claye Beams,11893,Brisbane Lions
 2017,Cedric Cox,12522,Brisbane Lions
+2017,Connor Menadue,12356,Richmond
 2017,Blake Hardwick,12469,Hawthorn
 2017,Tim OBrien,12242,Hawthorn
 2017,Aidyn Johnson,12525,Port Adelaide
@@ -52949,38 +52949,38 @@ Season,Player,ID,Team
 2017,Cameron Polson,12523,Carlton
 2017,Liam Dawson,12358,Brisbane Lions
 2017,Brad Crouch,12156,Adelaide
-2017,Ed Vickers-Willis,12524,North Melbourne
-2017,Mason Wood,12312,North Melbourne
 2017,Isaac Heeney,12326,Sydney
 2017,Lewis Melican,12526,Sydney
 2017,Gary Rohan,11842,Sydney
+2017,Ed Vickers-Willis,12524,North Melbourne
+2017,Mason Wood,12312,North Melbourne
 2017,Billy Longer,12051,St Kilda
 2017,Darren Minchington,12218,St Kilda
 2017,Aaron Black,12014,Geelong
 2017,Daniel Howe,12360,Hawthorn
+2017,Oleg Markov,12459,Richmond
 2017,Michael Hibberd,11938,Melbourne
 2017,Jay Kennedy Harris,12245,Melbourne
-2017,Oleg Markov,12459,Richmond
-2017,Daniel Wells,1427,Collingwood
 2017,Aaron Francis,12467,Essendon
 2017,Ben McNiece,12527,Essendon
+2017,Daniel Wells,1427,Collingwood
 2017,Bailey Dale,12354,Western Bulldogs
 2017,Bailey Williams,12441,Western Bulldogs
 2017,Jack Sinclair,12325,St Kilda
 2017,Koby Stevens,11852,St Kilda
-2017,Brandon Jack,12200,Sydney
-2017,James Rose,12389,Sydney
 2017,Nick Graham,12222,Carlton
 2017,Alex Silvagni,11810,Carlton
-2017,Kurt Mutimer,12528,West Coast
+2017,Brandon Jack,12200,Sydney
+2017,James Rose,12389,Sydney
 2017,Jed Anderson,12154,North Melbourne
 2017,Jesse Lonergan,12180,Gold Coast
 2017,Matt Shaw,11931,Gold Coast
-2017,Cameron Pedersen,11903,Melbourne
+2017,Kurt Mutimer,12528,West Coast
 2017,Tom Bellchambers,11675,Essendon
 2017,Matt Dea,11829,Essendon
-2017,Lynden Dunn,4166,Collingwood
+2017,Cameron Pedersen,11903,Melbourne
 2017,Jed Bews,12278,Geelong
+2017,Lynden Dunn,4166,Collingwood
 2017,Steven Morris,12033,Richmond
 2017,Stephen Coniglio,12028,Greater Western Sydney
 2017,Harry Himmelberg,12462,Greater Western Sydney
@@ -52992,9 +52992,9 @@ Season,Player,ID,Team
 2017,Brad Scheer,12530,Gold Coast
 2017,Jarrad McVeigh,3950,Sydney
 2017,Marco Paparone,12169,Brisbane Lions
-2017,David Myers,11663,Essendon
-2017,Matthew Taberner,12205,Fremantle
 2017,Josh Wagner,12424,Melbourne
+2017,Matthew Taberner,12205,Fremantle
+2017,David Myers,11663,Essendon
 2017,Fraser McInnes,12345,West Coast
 2017,Jack Redpath,12296,Western Bulldogs
 2017,Lukas Webb,12337,Western Bulldogs
@@ -53006,15 +53006,15 @@ Season,Player,ID,Team
 2017,Jake Kolodjashnij,12370,Geelong
 2017,Mark OConnor,12531,Geelong
 2017,Jake Batchelor,11889,Richmond
-2017,Brendon Ah Chee,12338,Port Adelaide
 2017,Keegan Brooksby,12362,Gold Coast
+2017,Brendon Ah Chee,12338,Port Adelaide
+2017,Scott Selwood,11644,Geelong
 2017,Tory Dickson,12043,Western Bulldogs
 2017,Mitch Wallis,11934,Western Bulldogs
-2017,Scott Selwood,11644,Geelong
 2017,Daniel McKenzie,12350,St Kilda
-2017,Shai Bolton,12535,Richmond
 2017,Matt de Boer,11746,Greater Western Sydney
 2017,Harry Perryman,12536,Greater Western Sydney
+2017,Shai Bolton,12535,Richmond
 2017,Matthew Hammelmann,12457,Brisbane Lions
 2017,Jordan Gallucci,12534,Adelaide
 2017,Hugh Greenwood,12533,Adelaide
@@ -53026,15 +53026,15 @@ Season,Player,ID,Team
 2017,Tim English,12537,Western Bulldogs
 2017,Jordan Roughead,11833,Western Bulldogs
 2017,Will Brodie,12541,Gold Coast
+2017,Matt Scharenberg,12384,Collingwood
 2017,Rhys Mathieson,12443,Brisbane Lions
 2017,Archie Smith,12472,Brisbane Lions
-2017,Matt Scharenberg,12384,Collingwood
+2017,Liam Sumner,12073,Carlton
 2017,Malcolm Karpany,12471,West Coast
 2017,Tim Mohr,12030,Greater Western Sydney
-2017,Liam Sumner,12073,Carlton
 2017,Jimmy Toumpas,12149,Port Adelaide
-2017,Ben Crocker,12436,Collingwood
 2017,Luke Ryan,12542,Fremantle
+2017,Ben Crocker,12436,Collingwood
 2017,Jonathon Beech,12543,Adelaide
 2017,Mackenzie Willis,12432,Gold Coast
 2017,Sam Collins,12444,Fremantle
@@ -53055,48 +53055,48 @@ Season,Player,ID,Team
 2017,Mitch White,12399,Melbourne
 2017,Ciaran Sheehan,12301,Carlton
 2017,Ryan Davis,11667,Gold Coast
-2017,Tyson Stengle,12552,Richmond
 2017,Jeremy Finlayson,12553,Greater Western Sydney
 2017,Wylie Buzza,12549,Geelong
 2017,Zach Guthrie,12551,Geelong
 2017,Sam Simpson,12550,Geelong
+2017,Tyson Stengle,12552,Richmond
 2017,Josh Thomas,12144,Collingwood
 2017,Scott Thompson,755,Adelaide
 2017,Trent McKenzie,11912,Gold Coast
 2017,Dan Nielson,12555,North Melbourne
 2017,Ryan Nyhuis,12554,Fremantle
-2017,Joe Atley,12556,Port Adelaide
 2017,Scott Lycett,11994,West Coast
+2017,Joe Atley,12556,Port Adelaide
 2017,Josh Battle,12558,St Kilda
 2017,Craig Bird,11635,Essendon
-2017,Cameron Zurhaar,12557,North Melbourne
 2017,Logan Austin,12450,Port Adelaide
+2017,Cameron Zurhaar,12557,North Melbourne
 2017,Michael Rischitelli,4047,Gold Coast
 2017,Nathan Broad,12456,Richmond
 2017,Dylan Buckley,12159,Carlton
 2017,Ciaran Byrne,12336,Carlton
 2017,Lewis Young,12559,Western Bulldogs
 2017,Alex Keath,12560,Adelaide
+2017,Jayden Laverde,12377,Essendon
 2017,Nick Larkey,12563,North Melbourne
 2017,Josh Williams,12562,North Melbourne
-2017,Jayden Laverde,12377,Essendon
 2017,Jack Trengove,11803,Melbourne
 2017,Jack Scrimshaw,12565,Gold Coast
-2017,Conor Glass,12561,Hawthorn
 2017,Rowan Marshall,12564,St Kilda
+2017,Conor Glass,12561,Hawthorn
 2017,Will Setterfield,12567,Greater Western Sydney
 2017,Rupert Wills,12468,Collingwood
 2017,Harry McKay,12566,Carlton
 2017,Dawson Simpson,11822,Greater Western Sydney
 2017,Brandon White,12486,St Kilda
 2017,Max Spencer,12568,Gold Coast
+2017,Paul Seedsman,12035,Adelaide
 2017,Luke Partington,12569,West Coast
 2017,Jacob Allison,12570,Brisbane Lions
 2017,Jarrad Jansen,12448,Brisbane Lions
 2017,Sam Skinner,12571,Brisbane Lions
-2017,Paul Seedsman,12035,Adelaide
-2017,Corey Maynard,12572,Melbourne
 2017,Brett Deledio,4068,Greater Western Sydney
+2017,Corey Maynard,12572,Melbourne
 2017,Daniel Currie,12257,Gold Coast
 2017,Jarrad Grant,11744,Gold Coast
 2017,Mitch Hallahan,12271,Gold Coast
@@ -53106,10 +53106,1719 @@ Season,Player,ID,Team
 2017,Todd Marshall,12575,Port Adelaide
 2017,Josh Daicos,12573,Collingwood
 2017,Josh Begley,12574,Essendon
+2017,Harley Bennell,11916,Fremantle
 2017,Jack Graham,12576,Richmond
 2017,Jacob Townsend,12023,Richmond
-2017,Harley Bennell,11916,Fremantle
 2017,Harry Morrison,12579,Hawthorn
 2017,Patrick Lipinski,12578,Western Bulldogs
 2017,Kayle Kirby,12577,Collingwood
 2017,Ben McKay,12580,North Melbourne
+2018,David Astbury,11828,Richmond
+2018,Shai Bolton,12535,Richmond
+2018,Dan Butler,12490,Richmond
+2018,Josh Caddy,12010,Richmond
+2018,Jason Castagna,12431,Richmond
+2018,Reece Conca,11888,Richmond
+2018,Trent Cotchin,11666,Richmond
+2018,Shane Edwards,11557,Richmond
+2018,Brandon Ellis,12034,Richmond
+2018,Corey Ellis,12346,Richmond
+2018,Jack Graham,12576,Richmond
+2018,Shaun Grigg,11594,Richmond
+2018,Dylan Grimes,11879,Richmond
+2018,Kane Lambert,12333,Richmond
+2018,Dustin Martin,11794,Richmond
+2018,Kamdyn McIntosh,12317,Richmond
+2018,Toby Nankervis,12374,Richmond
+2018,Alex Rance,11733,Richmond
+2018,Jack Riewoldt,11576,Richmond
+2018,Jayden Short,12418,Richmond
+2018,Jacob Townsend,12023,Richmond
+2018,Nick Vlastuin,12174,Richmond
+2018,Ciaran Byrne,12336,Carlton
+2018,Levi Casboult,12114,Carlton
+2018,Patrick Cripps,12261,Carlton
+2018,Charlie Curnow,12421,Carlton
+2018,Ed Curnow,11883,Carlton
+2018,Paddy Dow,12582,Carlton
+2018,Zac Fisher,12520,Carlton
+2018,Jarrod Garlett,5488,Carlton
+2018,Liam Jones,11866,Carlton
+2018,Matthew Kennedy,12455,Carlton
+2018,Matthew Kreuzer,11645,Carlton
+2018,Jed Lamb,12182,Carlton
+2018,Caleb Marchbank,12369,Carlton
+2018,Aaron Mullett,12008,Carlton
+2018,Marc Murphy,4148,Carlton
+2018,Sam Petrevski-Seton,12487,Carlton
+2018,Lachie Plowman,12142,Carlton
+2018,Jack Silvagni,12458,Carlton
+2018,Kade Simpson,1456,Carlton
+2018,Dale Thomas,4152,Carlton
+2018,Jacob Weitering,12402,Carlton
+2018,Matthew Wright,11929,Carlton
+2018,Josh Begley,12574,Essendon
+2018,Tom Bellchambers,11675,Essendon
+2018,Mitch Brown,11987,Essendon
+2018,Joe Daniher,12199,Essendon
+2018,Matt Dea,11829,Essendon
+2018,Brendon Goddard,1443,Essendon
+2018,Josh Green,11960,Essendon
+2018,Michael Hartley,12419,Essendon
+2018,Dyson Heppell,11896,Essendon
+2018,Cale Hooker,11702,Essendon
+2018,Michael Hurley,11715,Essendon
+2018,Kyle Langford,12349,Essendon
+2018,Anthony McDonald-Tipungwuti,12407,Essendon
+2018,Andrew McGrath,12491,Essendon
+2018,Conor McKenna,12391,Essendon
+2018,Zach Merrett,12241,Essendon
+2018,Darcy Parish,12406,Essendon
+2018,Adam Saad,12330,Essendon
+2018,Devon Smith,12029,Essendon
+2018,James Stewart,12232,Essendon
+2018,Jake Stringer,12167,Essendon
+2018,David Zaharakis,11729,Essendon
+2018,Rory Atkins,12381,Adelaide
+2018,Eddie Betts,4060,Adelaide
+2018,Luke Brown,12106,Adelaide
+2018,Matt Crouch,12258,Adelaide
+2018,Tom Doedee,12583,Adelaide
+2018,Richard Douglas,2381,Adelaide
+2018,Cam Ellis-Yolmen,12283,Adelaide
+2018,Darcy Fogarty,12584,Adelaide
+2018,Bryce Gibbs,11535,Adelaide
+2018,Hugh Greenwood,12533,Adelaide
+2018,Curtly Hampton,12020,Adelaide
+2018,Kyle Hartigan,6623,Adelaide
+2018,Sam Jacobs,11708,Adelaide
+2018,Josh Jenkins,12074,Adelaide
+2018,Jake Kelly,12335,Adelaide
+2018,Rory Laird,12165,Adelaide
+2018,David Mackay,11634,Adelaide
+2018,Mitch McGovern,12404,Adelaide
+2018,Lachlan Murphy,12585,Adelaide
+2018,Paul Seedsman,12035,Adelaide
+2018,Rory Sloane,11792,Adelaide
+2018,Daniel Talia,11989,Adelaide
+2018,Blake Acres,12276,St Kilda
+2018,David Armitage,11570,St Kilda
+2018,Jack Billings,12249,St Kilda
+2018,Nathan Brown,11627,St Kilda
+2018,Josh Bruce,12065,St Kilda
+2018,Jake Carlisle,11871,St Kilda
+2018,Hunter Clark,12591,St Kilda
+2018,Jarryn Geary,11630,St Kilda
+2018,Jade Gresham,12415,St Kilda
+2018,Ben Long,12521,St Kilda
+2018,Billy Longer,12051,St Kilda
+2018,Paddy McCartin,12339,St Kilda
+2018,Tim Membrey,12300,St Kilda
+2018,Jack Newnes,12050,St Kilda
+2018,Dylan Roberton,11839,St Kilda
+2018,Sebastian Ross,12132,St Kilda
+2018,Shane Savage,11793,St Kilda
+2018,Jack Sinclair,12325,St Kilda
+2018,Jack Steele,12368,St Kilda
+2018,Jack Steven,11791,St Kilda
+2018,Koby Stevens,11852,St Kilda
+2018,Jimmy Webster,12188,St Kilda
+2018,Harris Andrews,12340,Brisbane Lions
+2018,Dayne Beams,11728,Brisbane Lions
+2018,Tom Bell,12115,Brisbane Lions
+2018,Jarrod Berry,12519,Brisbane Lions
+2018,Charlie Cameron,12277,Brisbane Lions
+2018,Allen Christensen,11920,Brisbane Lions
+2018,Darcy Gardiner,12267,Brisbane Lions
+2018,Eric Hipwood,12454,Brisbane Lions
+2018,Luke Hodge,1134,Brisbane Lions
+2018,Ryan Lester,11894,Brisbane Lions
+2018,Stefan Martin,11684,Brisbane Lions
+2018,Sam Mayes,12162,Brisbane Lions
+2018,Hugh McCluggage,12518,Brisbane Lions
+2018,Daniel McStay,12291,Brisbane Lions
+2018,Cam Rayner,0,Brisbane Lions
+2018,Daniel Rich,11725,Brisbane Lions
+2018,Nick Robertson,12264,Brisbane Lions
+2018,Mitch Robinson,11710,Brisbane Lions
+2018,Lewis Taylor,12252,Brisbane Lions
+2018,Josh Walker,12109,Brisbane Lions
+2018,Alex Witherden,12546,Brisbane Lions
+2018,Dayne Zorko,12076,Brisbane Lions
+2018,Dom Barry,12294,Port Adelaide
+2018,Travis Boak,11583,Port Adelaide
+2018,Riley Bonner,12483,Port Adelaide
+2018,Darcy Byrne-Jones,12422,Port Adelaide
+2018,Tom Clurey,12238,Port Adelaide
+2018,Charlie Dixon,11914,Port Adelaide
+2018,Brad Ebert,11639,Port Adelaide
+2018,Sam Gray,12262,Port Adelaide
+2018,Hamish Hartlett,11740,Port Adelaide
+2018,Dan Houston,12495,Port Adelaide
+2018,Dougal Howard,12420,Port Adelaide
+2018,Tom Jonas,12002,Port Adelaide
+2018,Todd Marshall,12575,Port Adelaide
+2018,Steven Motlop,11818,Port Adelaide
+2018,Jared Polec,11927,Port Adelaide
+2018,Sam Powell-Pepper,12494,Port Adelaide
+2018,Tom Rockliff,11787,Port Adelaide
+2018,Paddy Ryder,4144,Port Adelaide
+2018,Jack Watts,11765,Port Adelaide
+2018,Justin Westhoff,11579,Port Adelaide
+2018,Ollie Wines,12150,Port Adelaide
+2018,Chad Wingard,12047,Port Adelaide
+2018,Hayden Ballantyne,11770,Fremantle
+2018,Bailey Banfield,12588,Fremantle
+2018,Connor Blakely,12397,Fremantle
+2018,Andrew Brayshaw,12589,Fremantle
+2018,Nat Fyfe,11834,Fremantle
+2018,Bradley Hill,12060,Fremantle
+2018,Michael Johnson,4083,Fremantle
+2018,Shane Kersten,12287,Fremantle
+2018,Ed Langdon,12393,Fremantle
+2018,Brandon Matera,11915,Fremantle
+2018,Cam McCarthy,12315,Fremantle
+2018,David Mundy,4088,Fremantle
+2018,Lachie Neale,12055,Fremantle
+2018,Alex Pearce,12352,Fremantle
+2018,Danyle Pearce,4137,Fremantle
+2018,Luke Ryan,12542,Fremantle
+2018,Aaron Sandilands,1421,Fremantle
+2018,Cam Sutcliffe,0,Fremantle
+2018,Matthew Taberner,12205,Fremantle
+2018,Darcy Tucker,12426,Fremantle
+2018,Michael Walters,11763,Fremantle
+2018,Nathan Wilson,12024,Fremantle
+2018,Ben Ainsworth,12498,Gold Coast
+2018,Jack Bowes,12499,Gold Coast
+2018,Sam Day,11947,Gold Coast
+2018,Brayden Fiorini,12481,Gold Coast
+2018,Jarrod Harbrow,11555,Gold Coast
+2018,Nick Holman,12307,Gold Coast
+2018,Jesse Joyce,12449,Gold Coast
+2018,Kade Kolodjashnij,12256,Gold Coast
+2018,Tom Lynch,11948,Gold Coast
+2018,Jarryd Lyons,12067,Gold Coast
+2018,Darcy Macpherson,12438,Gold Coast
+2018,Jack Martin,12236,Gold Coast
+2018,Steven May,11940,Gold Coast
+2018,Touk Miller,12331,Gold Coast
+2018,Michael Rischitelli,4047,Gold Coast
+2018,Matt Rosa,4133,Gold Coast
+2018,Alex Sexton,12080,Gold Coast
+2018,David Swallow,11919,Gold Coast
+2018,Rory Thompson,11992,Gold Coast
+2018,Lachie Weller,12385,Gold Coast
+2018,Jarrod Witts,12177,Gold Coast
+2018,Aaron Young,12068,Gold Coast
+2018,Jed Anderson,12154,North Melbourne
+2018,Shaun Atley,11902,North Melbourne
+2018,Ben Brown,12289,North Melbourne
+2018,Ryan Clarke,12461,North Melbourne
+2018,Ben Cunnington,11835,North Melbourne
+2018,Luke Davies-Uniacke,12590,North Melbourne
+2018,Trent Dumont,12343,North Melbourne
+2018,Todd Goldstein,11686,North Melbourne
+2018,Billy Hartung,12274,North Melbourne
+2018,Shaun Higgins,4180,North Melbourne
+2018,Nathan Hrovat,12190,North Melbourne
+2018,Ben Jacobs,11952,North Melbourne
+2018,Jamie Macmillan,11862,North Melbourne
+2018,Luke McDonald,12246,North Melbourne
+2018,Jy Simpkin,12502,North Melbourne
+2018,Robbie Tarrant,11859,North Melbourne
+2018,Scott Thompson,11636,North Melbourne
+2018,Kayne Turner,12304,North Melbourne
+2018,Ed Vickers-Willis,12524,North Melbourne
+2018,Jarrad Waite,1418,North Melbourne
+2018,Marley Williams,12084,North Melbourne
+2018,Jack Ziebell,11724,North Melbourne
+2018,Luke Breust,11954,Hawthorn
+2018,Shaun Burgoyne,1126,Hawthorn
+2018,Ryan Burton,12477,Hawthorn
+2018,Taylor Duryea,12163,Hawthorn
+2018,James Frawley,11575,Hawthorn
+2018,Jack Gunston,11845,Hawthorn
+2018,Blake Hardwick,12469,Hawthorn
+2018,Ricky Henderson,11832,Hawthorn
+2018,Daniel Howe,12360,Hawthorn
+2018,Jarman Impey,12237,Hawthorn
+2018,Ben McEvoy,11682,Hawthorn
+2018,Tom Mitchell,12196,Hawthorn
+2018,Tim OBrien,12242,Hawthorn
+2018,Jaeger OMeara,12141,Hawthorn
+2018,Paul Puopolo,11942,Hawthorn
+2018,Cyril Rioli,11632,Hawthorn
+2018,Jarryd Roughead,4078,Hawthorn
+2018,Ryan Schoenmakers,11720,Hawthorn
+2018,Liam Shiels,11760,Hawthorn
+2018,James Sicily,12332,Hawthorn
+2018,Isaac Smith,11941,Hawthorn
+2018,Ben Stratton,11824,Hawthorn
+2018,Taylor Adams,12066,Collingwood
+2018,James Aish,12250,Collingwood
+2018,Mason Cox,12428,Collingwood
+2018,Jack Crisp,12061,Collingwood
+2018,Ben Crocker,12436,Collingwood
+2018,Lynden Dunn,4166,Collingwood
+2018,Brodie Grundy,12217,Collingwood
+2018,Will Hoskin-Elliott,12026,Collingwood
+2018,Jeremy Howe,11967,Collingwood
+2018,Tom Langdon,12233,Collingwood
+2018,Brayden Maynard,12371,Collingwood
+2018,Darcy Moore,12372,Collingwood
+2018,Sam Murray,12586,Collingwood
+2018,Scott Pendlebury,4182,Collingwood
+2018,Tom Phillips,12452,Collingwood
+2018,Ben Reid,11589,Collingwood
+2018,Steele Sidebottom,11751,Collingwood
+2018,Josh Smith,12427,Collingwood
+2018,Jaidyn Stephenson,12587,Collingwood
+2018,Josh Thomas,12144,Collingwood
+2018,Adam Treloar,12054,Collingwood
+2018,Travis Varcoe,11549,Collingwood
+2018,Jeremy Cameron,12017,Greater Western Sydney
+2018,Stephen Coniglio,12028,Greater Western Sydney
+2018,Aidan Corr,12181,Greater Western Sydney
+2018,Phil Davis,11825,Greater Western Sydney
+2018,Matt de Boer,11746,Greater Western Sydney
+2018,Brett Deledio,4068,Greater Western Sydney
+2018,Jeremy Finlayson,12553,Greater Western Sydney
+2018,Toby Greene,12025,Greater Western Sydney
+2018,Nick Haynes,12091,Greater Western Sydney
+2018,Harry Himmelberg,12462,Greater Western Sydney
+2018,Josh Kelly,12255,Greater Western Sydney
+2018,Zac Langdon,12599,Greater Western Sydney
+2018,Daniel Lloyd,12532,Greater Western Sydney
+2018,Rory Lobb,12282,Greater Western Sydney
+2018,Jonathon Patton,12096,Greater Western Sydney
+2018,Sam Reid,11705,Greater Western Sydney
+2018,Heath Shaw,4132,Greater Western Sydney
+2018,Dylan Shiel,12022,Greater Western Sydney
+2018,Tim Taranto,12504,Greater Western Sydney
+2018,Adam Tomlinson,12027,Greater Western Sydney
+2018,Callan Ward,11677,Greater Western Sydney
+2018,Lachie Whitfield,12143,Greater Western Sydney
+2018,Shane Biggs,12228,Western Bulldogs
+2018,Marcus Bontempelli,12269,Western Bulldogs
+2018,Zaine Cordy,12392,Western Bulldogs
+2018,Hayden Crozier,12088,Western Bulldogs
+2018,Luke Dahlhaus,11974,Western Bulldogs
+2018,Bailey Dale,12354,Western Bulldogs
+2018,Josh Dunkley,12408,Western Bulldogs
+2018,Tim English,12537,Western Bulldogs
+2018,Billy Gowers,12593,Western Bulldogs
+2018,Mitch Honeychurch,12293,Western Bulldogs
+2018,Lachie Hunter,12203,Western Bulldogs
+2018,Jason Johannisen,12122,Western Bulldogs
+2018,Tom Liberatore,11898,Western Bulldogs
+2018,Jack Macrae,12166,Western Bulldogs
+2018,Toby McLean,12363,Western Bulldogs
+2018,Aaron Naughton,12594,Western Bulldogs
+2018,Fletcher Roberts,12126,Western Bulldogs
+2018,Jordan Roughead,11833,Western Bulldogs
+2018,Matt Suckling,11718,Western Bulldogs
+2018,Jackson Trengove,11812,Western Bulldogs
+2018,Bailey Williams,12441,Western Bulldogs
+2018,Easton Wood,11788,Western Bulldogs
+2018,Bayley Fritsch,12598,Melbourne
+2018,Jeff Garlett,11711,Melbourne
+2018,Max Gawn,11966,Melbourne
+2018,Mitch Hannan,12492,Melbourne
+2018,James Harmes,12379,Melbourne
+2018,Michael Hibberd,11938,Melbourne
+2018,Jesse Hogan,12321,Melbourne
+2018,Jayden Hunt,4729,Melbourne
+2018,Neville Jetta,11723,Melbourne
+2018,Nathan Jones,2447,Melbourne
+2018,Jake Lever,12351,Melbourne
+2018,Jordan Lewis,4077,Melbourne
+2018,Corey Maynard,12572,Melbourne
+2018,Oscar McDonald,12394,Melbourne
+2018,Jake Melksham,11820,Melbourne
+2018,Alex Neal-Bullen,12367,Melbourne
+2018,Clayton Oliver,12410,Melbourne
+2018,Cameron Pedersen,11903,Melbourne
+2018,Christian Petracca,12430,Melbourne
+2018,Christian Salem,12272,Melbourne
+2018,Bernie Vince,4151,Melbourne
+2018,Josh Wagner,12424,Melbourne
+2018,Gary Ablett,1105,Geelong
+2018,Jed Bews,12278,Geelong
+2018,Mark Blicavs,12153,Geelong
+2018,Mitch Duncan,11798,Geelong
+2018,Lachie Fogarty,12596,Geelong
+2018,Cory Gregson,12320,Geelong
+2018,Cameron Guthrie,11884,Geelong
+2018,Zach Guthrie,12551,Geelong
+2018,Tom Hawkins,11548,Geelong
+2018,Tim Kelly,12595,Geelong
+2018,Jake Kolodjashnij,12370,Geelong
+2018,Sam Menegola,12464,Geelong
+2018,Daniel Menzel,11873,Geelong
+2018,Jordan Murdoch,12099,Geelong
+2018,Brandan Parfitt,12506,Geelong
+2018,James Parsons,12513,Geelong
+2018,Esava Ratugolea,12597,Geelong
+2018,Joel Selwood,11538,Geelong
+2018,Zac Smith,11909,Geelong
+2018,Tom Stewart,12505,Geelong
+2018,Harry Taylor,11643,Geelong
+2018,Zach Tuohy,11973,Geelong
+2018,Tom Barrass,12383,West Coast
+2018,Jamie Cripps,11937,West Coast
+2018,Jack Darling,11905,West Coast
+2018,Liam Duggan,12334,West Coast
+2018,Andrew Gaff,11904,West Coast
+2018,Shannon Hurn,4162,West Coast
+2018,Lewis Jetta,11804,West Coast
+2018,Mark LeCras,4114,West Coast
+2018,Scott Lycett,11994,West Coast
+2018,Chris Masten,11638,West Coast
+2018,Jeremy McGovern,12273,West Coast
+2018,Nic Naitanui,11768,West Coast
+2018,Jackson Nelson,12328,West Coast
+2018,Jack Redden,11780,West Coast
+2018,Liam Ryan,12600,West Coast
+2018,Will Schofield,11605,West Coast
+2018,Dom Sheed,12253,West Coast
+2018,Brad Sheppard,11843,West Coast
+2018,Luke Shuey,11805,West Coast
+2018,Daniel Venables,12602,West Coast
+2018,Jake Waterman,12601,West Coast
+2018,Elliot Yeo,12087,West Coast
+2018,Harry Cunningham,12015,Sydney
+2018,Oliver Florent,12497,Sydney
+2018,Robbie Fox,12510,Sydney
+2018,Lance Franklin,4065,Sydney
+2018,Heath Grundy,1401,Sydney
+2018,Will Hayward,12509,Sydney
+2018,Isaac Heeney,12326,Sydney
+2018,George Hewett,12411,Sydney
+2018,Kieren Jack,11546,Sydney
+2018,Zak Jones,12288,Sydney
+2018,Josh Kennedy,11672,Sydney
+2018,Jake Lloyd,12268,Sydney
+2018,Jarrad McVeigh,3950,Sydney
+2018,Lewis Melican,12526,Sydney
+2018,Callum Mills,12413,Sydney
+2018,Nic Newman,12508,Sydney
+2018,Tom Papley,12412,Sydney
+2018,Luke Parker,11953,Sydney
+2018,Dane Rampe,12140,Sydney
+2018,Callum Sinclair,12158,Sydney
+2018,Nick Smith,11653,Sydney
+2018,Dean Towers,12297,Sydney
+2018,Wayne Milera,12405,Adelaide
+2018,Taylor Walker,11713,Adelaide
+2018,Bachar Houli,11566,Richmond
+2018,David Cuningham,12476,Carlton
+2018,Cameron OShea,11887,Carlton
+2018,Cameron Polson,12523,Carlton
+2018,Aaron Hall,12041,Gold Coast
+2018,Tim Broomhead,12284,Collingwood
+2018,Callum Brown,12545,Collingwood
+2018,Matt Scharenberg,12384,Collingwood
+2018,Tom Scully,11802,Greater Western Sydney
+2018,Rohan Bewick,11895,Brisbane Lions
+2018,Cedric Cox,12522,Brisbane Lions
+2018,Rhys Mathieson,12443,Brisbane Lions
+2018,Tomas Bugg,12016,Melbourne
+2018,Dom Tyson,12032,Melbourne
+2018,Adam Cerra,12603,Fremantle
+2018,Mitch Crowden,12604,Fremantle
+2018,Joel Hamling,12359,Fremantle
+2018,Stephen Hill,11716,Fremantle
+2018,Caleb Daniel,12373,Western Bulldogs
+2018,Lin Jong,12125,Western Bulldogs
+2018,Ed Richards,12605,Western Bulldogs
+2018,Lukas Webb,12337,Western Bulldogs
+2018,Willie Rioli,12606,West Coast
+2018,Dan Hannebery,11783,Sydney
+2018,Gary Rohan,11842,Sydney
+2018,Robbie Gray,11578,Port Adelaide
+2018,Nakia Cockatoo,12319,Geelong
+2018,Patrick Dangerfield,11700,Geelong
+2018,Jack Henry,12607,Geelong
+2018,Mark OConnor,12531,Geelong
+2018,Rhys Stanley,11847,Geelong
+2018,Kaiden Brand,12435,Hawthorn
+2018,Tom Cutler,12265,Brisbane Lions
+2018,Sam Frost,12119,Melbourne
+2018,Dean Kent,12184,Melbourne
+2018,Majak Daw,12168,North Melbourne
+2018,Pearce Hanley,11704,Gold Coast
+2018,Tom Sheridan,12137,Fremantle
+2018,Nick Coffield,12608,St Kilda
+2018,Luke Dunstan,12247,St Kilda
+2018,Rowan Marshall,12564,St Kilda
+2018,Brandon White,12486,St Kilda
+2018,Nathan Wright,12160,St Kilda
+2018,Tom Lynch,11865,Adelaide
+2018,Sam Reid,11880,Sydney
+2018,Jacob Hopper,12440,Greater Western Sydney
+2018,Harry Perryman,12536,Greater Western Sydney
+2018,Jack Higgins,12609,Richmond
+2018,Sam Lloyd,12263,Richmond
+2018,Will Langford,12214,Hawthorn
+2018,Harry Morrison,12579,Hawthorn
+2018,Tory Dickson,12043,Western Bulldogs
+2018,Jack Redpath,12296,Western Bulldogs
+2018,Mitch Wallis,11934,Western Bulldogs
+2018,Mark Baguley,12107,Essendon
+2018,Orazio Fantasia,12302,Essendon
+2018,David Myers,11663,Essendon
+2018,Mark Hutchings,12187,West Coast
+2018,Scott Selwood,11644,Geelong
+2018,Jordan de Goey,12318,Collingwood
+2018,Ryan Griffen,4080,Greater Western Sydney
+2018,Dawson Simpson,11822,Greater Western Sydney
+2018,Dion Prestia,11917,Richmond
+2018,Zac Bailey,12610,Brisbane Lions
+2018,Aliir Aliir,12433,Sydney
+2018,Nick Graham,12222,Carlton
+2018,Lochie OBrien,12611,Carlton
+2018,Josh Kennedy,4169,West Coast
+2018,Matt Guelfi,12612,Essendon
+2018,Karl Amon,12357,Port Adelaide
+2018,Trent McKenzie,11912,Port Adelaide
+2018,Conor Glass,12561,Hawthorn
+2018,David Mirra,12613,Hawthorn
+2018,Angus Brayshaw,12322,Melbourne
+2018,Jordan Cunico,12538,Geelong
+2018,Sam Gilbert,4178,St Kilda
+2018,Tom Hickey,12003,St Kilda
+2018,Jack Lonie,12324,St Kilda
+2018,Harrison Marsh,12445,Sydney
+2018,Jordan Gallucci,12534,Adelaide
+2018,Riley Knight,12375,Adelaide
+2018,Andy Otten,11678,Adelaide
+2018,Myles Poholke,12614,Adelaide
+2018,Maverick Weller,11922,St Kilda
+2018,Sam Kerridge,12052,Carlton
+2018,Harry McKay,12566,Carlton
+2018,Andrew Phillips,12075,Carlton
+2018,Sam Rowe,12157,Carlton
+2018,Tom Cole,12446,West Coast
+2018,Jack Hombsch,12021,Port Adelaide
+2018,Jake Neade,12151,Port Adelaide
+2018,Lindsay Thomas,11540,Port Adelaide
+2018,George Horlin-Smith,12053,Geelong
+2018,Jackson Thurlow,12185,Geelong
+2018,Taylin Duman,12615,Fremantle
+2018,Tom Boyd,12270,Western Bulldogs
+2018,Patrick Lipinski,12578,Western Bulldogs
+2018,Cameron Zurhaar,12557,North Melbourne
+2018,James Cousins,12539,Hawthorn
+2018,Jacob Allison,12570,Brisbane Lions
+2018,Ryan Bastinac,11811,Brisbane Lions
+2018,Jesse Lonergan,12180,Gold Coast
+2018,Billy Stretch,12353,Melbourne
+2018,Sam Weideman,12475,Melbourne
+2018,Nathan Broad,12456,Richmond
+2018,Jackson Merrett,12136,Essendon
+2018,Dan Robinson,12361,Sydney
+2018,Ben Ronke,12616,Sydney
+2018,Aidyn Johnson,12525,Port Adelaide
+2018,Nick Shipley,12618,Greater Western Sydney
+2018,Oscar McInerney,12617,Brisbane Lions
+2018,James Worpel,12619,Hawthorn
+2018,Michael Barlow,11809,Gold Coast
+2018,Max Spencer,12568,Gold Coast
+2018,Patrick Ambrose,12239,Essendon
+2018,Jayden Laverde,12377,Essendon
+2018,Matthew Leuenberger,11593,Essendon
+2018,Ben McNiece,12527,Essendon
+2018,Kobe Mutch,12621,Essendon
+2018,Tom McDonald,12009,Melbourne
+2018,Charlie Spargo,12622,Melbourne
+2018,Flynn Appleby,12620,Collingwood
+2018,Jarryd Blair,11855,Collingwood
+2018,Chris Mayne,11642,Collingwood
+2018,Jack Petruccelle,12623,West Coast
+2018,Stewart Crameri,11872,Geelong
+2018,Dylan Buckley,12159,Greater Western Sydney
+2018,Lachlan Keeffe,11991,Greater Western Sydney
+2018,Lewis Young,12559,Western Bulldogs
+2018,Callum Ah Chee,12414,Gold Coast
+2018,Charlie Ballard,12625,Gold Coast
+2018,Brayden Crossley,12624,Gold Coast
+2018,Brad Scheer,12530,Gold Coast
+2018,Brendan Whitecross,11719,Hawthorn
+2018,Jasper Pittard,11885,Port Adelaide
+2018,Mason Wood,12312,North Melbourne
+2018,Sam Wright,11755,North Melbourne
+2018,Brennan Cox,12544,Fremantle
+2018,Ethan Hughes,12395,Fremantle
+2018,Matt Eagles,12626,Brisbane Lions
+2018,Tom McCartin,12627,Sydney
+2018,Isaac Cumming,12629,Greater Western Sydney
+2018,Brendon Ah Chee,12338,West Coast
+2018,Brayden Ainsworth,12628,West Coast
+2018,Fraser McInnes,12345,West Coast
+2018,Darcy Lang,12286,Carlton
+2018,Shaun McKernan,11774,Essendon
+2018,Jack Leslie,12309,Gold Coast
+2018,Ryan Nyhuis,12554,Fremantle
+2018,Ed Phillips,12630,St Kilda
+2018,Daniel Wells,1427,Collingwood
+2018,Sam Gibson,12093,Adelaide
+2018,Tim Mohr,12030,Greater Western Sydney
+2018,Jacob Heron,12634,Gold Coast
+2018,Dylan Clarke,12632,Essendon
+2018,Jordan Ridley,12631,Essendon
+2018,Bailey Rice,12633,St Kilda
+2018,Alex Fasolo,11977,Collingwood
+2018,Pat Kerr,12635,Carlton
+2018,Tim Smith,12514,Melbourne
+2018,Jack Viney,12147,Melbourne
+2018,Mitch Lewis,12636,Hawthorn
+2018,Josh Daicos,12573,Collingwood
+2018,Levi Greenwood,11745,Collingwood
+2018,Josh Schache,12416,Western Bulldogs
+2018,Roarke Smith,12390,Western Bulldogs
+2018,Connor Menadue,12356,Richmond
+2018,Callum Moore,12480,Richmond
+2018,Logan Austin,12450,St Kilda
+2018,Daniel McKenzie,12350,St Kilda
+2018,Ryley Stoddart,12638,Sydney
+2018,Aaron Black,12014,Geelong
+2018,Jamaine Jones,12637,Geelong
+2018,Matt Buntine,12082,Greater Western Sydney
+2018,Jonathon Ceglar,12210,Hawthorn
+2018,Sam Durdin,12515,North Melbourne
+2018,Dale Morris,4084,Western Bulldogs
+2018,Will Brodie,12541,Gold Coast
+2018,Wylie Buzza,12549,Geelong
+2018,Lincoln McCarthy,12090,Geelong
+2018,Paul Ahern,12642,North Melbourne
+2018,Tom Murphy,12643,North Melbourne
+2018,Ben Keays,12434,Brisbane Lions
+2018,Brody Mihocek,12639,Collingwood
+2018,Michael Apeness,12295,Fremantle
+2018,Stefan Giro,12641,Fremantle
+2018,Scott Jones,12640,Fremantle
+2018,Sam Taylor,12644,Greater Western Sydney
+2018,Anthony Miles,12059,Richmond
+2018,Josh Battle,12558,St Kilda
+2018,Mason Redman,12437,Essendon
+2018,Joel Smith,12493,Melbourne
+2018,Jarrod Brander,12646,West Coast
+2018,Sean Lemmens,12234,Gold Coast
+2018,Josh Schoenfeld,12466,Gold Coast
+2018,Kyle Cheney,11721,Adelaide
+2018,Patrick Wilson,12645,Adelaide
+2018,Ryan Garthwaite,12647,Richmond
+2018,Daniel Rioli,12403,Richmond
+2018,Jacob Dawson,12648,Gold Coast
+2018,Peter Wright,12366,Gold Coast
+2018,Marcus Adams,12409,Western Bulldogs
+2018,James Rose,12389,Sydney
+2018,Brad Lynch,12650,Western Bulldogs
+2018,Quinton Narkle,12651,Geelong
+2018,Jarrod Pickett,12489,Carlton
+2018,Jack Trengove,11803,Port Adelaide
+2018,Wil Powell,12652,Gold Coast
+2018,Brayden Sier,12649,Collingwood
+2018,Harry Petty,12653,Melbourne
+2018,Darragh Joyce,12654,St Kilda
+2018,Travis Colyer,11821,Essendon
+2018,Jake Barrett,12400,Brisbane Lions
+2018,Teia Miles,12507,Hawthorn
+2018,Jonathan ORourke,12212,Hawthorn
+2018,Sean Darcy,12547,Fremantle
+2018,Jake Long,12479,Essendon
+2018,Oscar Allen,12655,West Coast
+2018,Nathan Vardy,11955,West Coast
+2018,Brent Daniels,12656,Greater Western Sydney
+2018,Alex Keath,12560,Adelaide
+2018,Sam Simpson,12550,Geelong
+2018,Matt Shaw,11931,Carlton
+2018,Jay Kennedy Harris,12245,Melbourne
+2018,Adam Kennedy,12031,Greater Western Sydney
+2018,Alex Morgan,12657,North Melbourne
+2018,Colin ORiordan,12658,Sydney
+2018,Darcy Cameron,12660,Sydney
+2018,Lachie Henderson,11637,Geelong
+2018,Matthew Lobbe,11836,Carlton
+2018,Jarrod Lienert,12659,Port Adelaide
+2018,Aaron Francis,12467,Essendon
+2018,Jordan Dawson,12516,Sydney
+2018,Liam Baker,12661,Richmond
+2018,Will Walker,12662,North Melbourne
+2018,Fergus Greene,12663,Western Bulldogs
+2018,Kane Farrell,12664,Port Adelaide
+2018,Ryan Abbott,12666,Geelong
+2018,Brandon Starcevich,12668,Brisbane Lions
+2018,Brodie Smith,11891,Adelaide
+2018,Alex Johnson,11925,Sydney
+2018,Jack Madgen,12665,Collingwood
+2018,Nathan Freeman,12667,St Kilda
+2018,Aiden Bonar,12669,Greater Western Sydney
+2018,Aaron Vandenberg,12323,Melbourne
+2018,Brady Grey,12396,Fremantle
+2018,Ben Paton,12671,St Kilda
+2018,Lewis Pierce,12451,St Kilda
+2018,Conor Nash,12670,Hawthorn
+2018,Marc Pittonet,12417,Hawthorn
+2018,Ivan Soldo,12529,Richmond
+2018,Adam Oxley,12202,Collingwood
+2018,Sam Switkowski,12672,Fremantle
+2018,Nathan Murphy,12673,Collingwood
+2018,Hugh Goddard,12382,St Kilda
+2018,Tom De Koning,12674,Carlton
+2018,Billy Frampton,12676,Port Adelaide
+2018,Elliott Himmelberg,12675,Adelaide
+2018,Zac Williams,12175,Greater Western Sydney
+2018,Tyson Goldsack,11568,Collingwood
+2019,Patrick Cripps,12261,Carlton
+2019,David Cuningham,12476,Carlton
+2019,Charlie Curnow,12421,Carlton
+2019,Ed Curnow,11883,Carlton
+2019,Paddy Dow,12582,Carlton
+2019,Alex Fasolo,11977,Carlton
+2019,Zac Fisher,12520,Carlton
+2019,Jarrod Garlett,5488,Carlton
+2019,Michael Gibbons,12685,Carlton
+2019,Liam Jones,11866,Carlton
+2019,Mitch McGovern,12404,Carlton
+2019,Harry McKay,12566,Carlton
+2019,Marc Murphy,4148,Carlton
+2019,Nic Newman,12508,Carlton
+2019,Sam Petrevski-Seton,12487,Carlton
+2019,Andrew Phillips,12075,Carlton
+2019,Lachie Plowman,12142,Carlton
+2019,Will Setterfield,12567,Carlton
+2019,Kade Simpson,1456,Carlton
+2019,Dale Thomas,4152,Carlton
+2019,Sam Walsh,12684,Carlton
+2019,Jacob Weitering,12402,Carlton
+2019,David Astbury,11828,Richmond
+2019,Noah Balta,12686,Richmond
+2019,Nathan Broad,12456,Richmond
+2019,Dan Butler,12490,Richmond
+2019,Trent Cotchin,11666,Richmond
+2019,Shane Edwards,11557,Richmond
+2019,Jack Graham,12576,Richmond
+2019,Dylan Grimes,11879,Richmond
+2019,Jack Higgins,12609,Richmond
+2019,Bachar Houli,11566,Richmond
+2019,Kane Lambert,12333,Richmond
+2019,Tom Lynch,11948,Richmond
+2019,Dustin Martin,11794,Richmond
+2019,Kamdyn McIntosh,12317,Richmond
+2019,Toby Nankervis,12374,Richmond
+2019,Dion Prestia,11917,Richmond
+2019,Alex Rance,11733,Richmond
+2019,Jack Riewoldt,11576,Richmond
+2019,Daniel Rioli,12403,Richmond
+2019,Jayden Short,12418,Richmond
+2019,Nick Vlastuin,12174,Richmond
+2019,Maverick Weller,11922,Richmond
+2019,James Aish,12250,Collingwood
+2019,Dayne Beams,11728,Collingwood
+2019,Callum Brown,12545,Collingwood
+2019,Mason Cox,12428,Collingwood
+2019,Jack Crisp,12061,Collingwood
+2019,Jordan de Goey,12318,Collingwood
+2019,Jamie Elliott,12083,Collingwood
+2019,Brodie Grundy,12217,Collingwood
+2019,Jeremy Howe,11967,Collingwood
+2019,Tom Langdon,12233,Collingwood
+2019,Brayden Maynard,12371,Collingwood
+2019,Chris Mayne,11642,Collingwood
+2019,Brody Mihocek,12639,Collingwood
+2019,Darcy Moore,12372,Collingwood
+2019,Scott Pendlebury,4182,Collingwood
+2019,Tom Phillips,12452,Collingwood
+2019,Jordan Roughead,11833,Collingwood
+2019,Steele Sidebottom,11751,Collingwood
+2019,Jaidyn Stephenson,12587,Collingwood
+2019,Josh Thomas,12144,Collingwood
+2019,Adam Treloar,12054,Collingwood
+2019,Travis Varcoe,11549,Collingwood
+2019,Gary Ablett,1105,Geelong
+2019,Tom Atkins,12690,Geelong
+2019,Mark Blicavs,12153,Geelong
+2019,Jordan Clark,12688,Geelong
+2019,Charlie Constable,12687,Geelong
+2019,Luke Dahlhaus,11974,Geelong
+2019,Patrick Dangerfield,11700,Geelong
+2019,Mitch Duncan,11798,Geelong
+2019,Tom Hawkins,11548,Geelong
+2019,Jack Henry,12607,Geelong
+2019,Tim Kelly,12595,Geelong
+2019,Jake Kolodjashnij,12370,Geelong
+2019,Sam Menegola,12464,Geelong
+2019,Gryan Miers,12689,Geelong
+2019,Mark OConnor,12531,Geelong
+2019,Brandan Parfitt,12506,Geelong
+2019,Esava Ratugolea,12597,Geelong
+2019,Gary Rohan,11842,Geelong
+2019,Joel Selwood,11538,Geelong
+2019,Rhys Stanley,11847,Geelong
+2019,Tom Stewart,12505,Geelong
+2019,Harry Taylor,11643,Geelong
+2019,Angus Brayshaw,12322,Melbourne
+2019,Bayley Fritsch,12598,Melbourne
+2019,Sam Frost,12119,Melbourne
+2019,Max Gawn,11966,Melbourne
+2019,James Harmes,12379,Melbourne
+2019,Michael Hibberd,11938,Melbourne
+2019,Marty Hore,12694,Melbourne
+2019,Jayden Hunt,4729,Melbourne
+2019,Neville Jetta,11723,Melbourne
+2019,Nathan Jones,2447,Melbourne
+2019,Oscar McDonald,12394,Melbourne
+2019,Tom McDonald,12009,Melbourne
+2019,Jake Melksham,11820,Melbourne
+2019,Alex Neal-Bullen,12367,Melbourne
+2019,Clayton Oliver,12410,Melbourne
+2019,Christian Petracca,12430,Melbourne
+2019,Christian Salem,12272,Melbourne
+2019,Charlie Spargo,12622,Melbourne
+2019,Tom Sparrow,12693,Melbourne
+2019,Jack Viney,12147,Melbourne
+2019,Corey Wagner,12453,Melbourne
+2019,Sam Weideman,12475,Melbourne
+2019,Karl Amon,12357,Port Adelaide
+2019,Travis Boak,11583,Port Adelaide
+2019,Riley Bonner,12483,Port Adelaide
+2019,Ryan Burton,12477,Port Adelaide
+2019,Zak Butters,12698,Port Adelaide
+2019,Darcy Byrne-Jones,12422,Port Adelaide
+2019,Tom Clurey,12238,Port Adelaide
+2019,Willem Drew,12695,Port Adelaide
+2019,Xavier Duursma,12696,Port Adelaide
+2019,Brad Ebert,11639,Port Adelaide
+2019,Robbie Gray,11578,Port Adelaide
+2019,Dan Houston,12495,Port Adelaide
+2019,Tom Jonas,12002,Port Adelaide
+2019,Scott Lycett,11994,Port Adelaide
+2019,Todd Marshall,12575,Port Adelaide
+2019,Steven Motlop,11818,Port Adelaide
+2019,Sam Powell-Pepper,12494,Port Adelaide
+2019,Tom Rockliff,11787,Port Adelaide
+2019,Connor Rozee,12697,Port Adelaide
+2019,Paddy Ryder,4144,Port Adelaide
+2019,Jack Watts,11765,Port Adelaide
+2019,Justin Westhoff,11579,Port Adelaide
+2019,Rory Atkins,12381,Adelaide
+2019,Eddie Betts,4060,Adelaide
+2019,Brad Crouch,12156,Adelaide
+2019,Matt Crouch,12258,Adelaide
+2019,Tom Doedee,12583,Adelaide
+2019,Richard Douglas,2381,Adelaide
+2019,Bryce Gibbs,11535,Adelaide
+2019,Sam Jacobs,11708,Adelaide
+2019,Josh Jenkins,12074,Adelaide
+2019,Chayce Jones,12691,Adelaide
+2019,Alex Keath,12560,Adelaide
+2019,Jake Kelly,12335,Adelaide
+2019,Riley Knight,12375,Adelaide
+2019,Rory Laird,12165,Adelaide
+2019,Tom Lynch,11865,Adelaide
+2019,David Mackay,11634,Adelaide
+2019,Wayne Milera,12405,Adelaide
+2019,Lachlan Murphy,12585,Adelaide
+2019,Rory Sloane,11792,Adelaide
+2019,Brodie Smith,11891,Adelaide
+2019,Daniel Talia,11989,Adelaide
+2019,Taylor Walker,11713,Adelaide
+2019,Luke Breust,11954,Hawthorn
+2019,Shaun Burgoyne,1126,Hawthorn
+2019,Jonathon Ceglar,12210,Hawthorn
+2019,James Cousins,12539,Hawthorn
+2019,James Frawley,11575,Hawthorn
+2019,Jack Gunston,11845,Hawthorn
+2019,Blake Hardwick,12469,Hawthorn
+2019,Ricky Henderson,11832,Hawthorn
+2019,Jarman Impey,12237,Hawthorn
+2019,Ben McEvoy,11682,Hawthorn
+2019,David Mirra,12613,Hawthorn
+2019,Harry Morrison,12579,Hawthorn
+2019,Conor Nash,12670,Hawthorn
+2019,Jaeger OMeara,12141,Hawthorn
+2019,Paul Puopolo,11942,Hawthorn
+2019,Jarryd Roughead,4078,Hawthorn
+2019,Jack Scrimshaw,12565,Hawthorn
+2019,Liam Shiels,11760,Hawthorn
+2019,James Sicily,12332,Hawthorn
+2019,Isaac Smith,11941,Hawthorn
+2019,Ben Stratton,11824,Hawthorn
+2019,James Worpel,12619,Hawthorn
+2019,Marcus Bontempelli,12269,Western Bulldogs
+2019,Zaine Cordy,12392,Western Bulldogs
+2019,Hayden Crozier,12088,Western Bulldogs
+2019,Caleb Daniel,12373,Western Bulldogs
+2019,Tory Dickson,12043,Western Bulldogs
+2019,Josh Dunkley,12408,Western Bulldogs
+2019,Taylor Duryea,12163,Western Bulldogs
+2019,Tim English,12537,Western Bulldogs
+2019,Billy Gowers,12593,Western Bulldogs
+2019,Lachie Hunter,12203,Western Bulldogs
+2019,Tom Liberatore,11898,Western Bulldogs
+2019,Sam Lloyd,12263,Western Bulldogs
+2019,Jack Macrae,12166,Western Bulldogs
+2019,Toby McLean,12363,Western Bulldogs
+2019,Aaron Naughton,12594,Western Bulldogs
+2019,Ed Richards,12605,Western Bulldogs
+2019,Josh Schache,12416,Western Bulldogs
+2019,Bailey Smith,12692,Western Bulldogs
+2019,Matt Suckling,11718,Western Bulldogs
+2019,Mitch Wallis,11934,Western Bulldogs
+2019,Bailey Williams,12441,Western Bulldogs
+2019,Easton Wood,11788,Western Bulldogs
+2019,Aliir Aliir,12433,Sydney
+2019,Nick Blakey,12699,Sydney
+2019,Ryan Clarke,12461,Sydney
+2019,Harry Cunningham,12015,Sydney
+2019,Jordan Dawson,12516,Sydney
+2019,Oliver Florent,12497,Sydney
+2019,Lance Franklin,4065,Sydney
+2019,Heath Grundy,1401,Sydney
+2019,Will Hayward,12509,Sydney
+2019,Isaac Heeney,12326,Sydney
+2019,George Hewett,12411,Sydney
+2019,Zak Jones,12288,Sydney
+2019,Josh Kennedy,11672,Sydney
+2019,Jake Lloyd,12268,Sydney
+2019,Jarrad McVeigh,3950,Sydney
+2019,Lewis Melican,12526,Sydney
+2019,Callum Mills,12413,Sydney
+2019,Tom Papley,12412,Sydney
+2019,Luke Parker,11953,Sydney
+2019,Dane Rampe,12140,Sydney
+2019,Sam Reid,11880,Sydney
+2019,Callum Sinclair,12158,Sydney
+2019,Harris Andrews,12340,Brisbane Lions
+2019,Zac Bailey,12610,Brisbane Lions
+2019,Ryan Bastinac,11811,Brisbane Lions
+2019,Jarrod Berry,12519,Brisbane Lions
+2019,Charlie Cameron,12277,Brisbane Lions
+2019,Darcy Gardiner,12267,Brisbane Lions
+2019,Eric Hipwood,12454,Brisbane Lions
+2019,Luke Hodge,1134,Brisbane Lions
+2019,Jarryd Lyons,12067,Brisbane Lions
+2019,Stefan Martin,11684,Brisbane Lions
+2019,Rhys Mathieson,12443,Brisbane Lions
+2019,Lincoln McCarthy,12090,Brisbane Lions
+2019,Hugh McCluggage,12518,Brisbane Lions
+2019,Oscar McInerney,12617,Brisbane Lions
+2019,Daniel McStay,12291,Brisbane Lions
+2019,Lachie Neale,12055,Brisbane Lions
+2019,Cam Rayner,12592,Brisbane Lions
+2019,Daniel Rich,11725,Brisbane Lions
+2019,Mitch Robinson,11710,Brisbane Lions
+2019,Josh Walker,12109,Brisbane Lions
+2019,Alex Witherden,12546,Brisbane Lions
+2019,Dayne Zorko,12076,Brisbane Lions
+2019,Oscar Allen,12655,West Coast
+2019,Tom Barrass,12383,West Coast
+2019,Jarrod Brander,12646,West Coast
+2019,Tom Cole,12446,West Coast
+2019,Jack Darling,11905,West Coast
+2019,Liam Duggan,12334,West Coast
+2019,Tom Hickey,12003,West Coast
+2019,Shannon Hurn,4162,West Coast
+2019,Mark Hutchings,12187,West Coast
+2019,Lewis Jetta,11804,West Coast
+2019,Chris Masten,11638,West Coast
+2019,Jeremy McGovern,12273,West Coast
+2019,Jack Petruccelle,12623,West Coast
+2019,Jack Redden,11780,West Coast
+2019,Liam Ryan,12600,West Coast
+2019,Dom Sheed,12253,West Coast
+2019,Brad Sheppard,11843,West Coast
+2019,Luke Shuey,11805,West Coast
+2019,Nathan Vardy,11955,West Coast
+2019,Daniel Venables,12602,West Coast
+2019,Jake Waterman,12601,West Coast
+2019,Elliot Yeo,12087,West Coast
+2019,Josh Battle,12558,St Kilda
+2019,Jack Billings,12249,St Kilda
+2019,Josh Bruce,12065,St Kilda
+2019,Luke Dunstan,12247,St Kilda
+2019,Jarryn Geary,11630,St Kilda
+2019,Jade Gresham,12415,St Kilda
+2019,Darragh Joyce,12654,St Kilda
+2019,Dean Kent,12184,St Kilda
+2019,Ben Long,12521,St Kilda
+2019,Jack Lonie,12324,St Kilda
+2019,Daniel McKenzie,12350,St Kilda
+2019,Tim Membrey,12300,St Kilda
+2019,Jack Newnes,12050,St Kilda
+2019,Matthew Parker,12702,St Kilda
+2019,Lewis Pierce,12451,St Kilda
+2019,Sebastian Ross,12132,St Kilda
+2019,Shane Savage,11793,St Kilda
+2019,Jack Sinclair,12325,St Kilda
+2019,Jack Steele,12368,St Kilda
+2019,Jack Steven,11791,St Kilda
+2019,Jimmy Webster,12188,St Kilda
+2019,Callum Wilkie,12703,St Kilda
+2019,Ben Ainsworth,12498,Gold Coast
+2019,Charlie Ballard,12625,Gold Coast
+2019,Jack Bowes,12499,Gold Coast
+2019,Chris Burgess,12705,Gold Coast
+2019,Sam Collins,12444,Gold Coast
+2019,Brayden Fiorini,12481,Gold Coast
+2019,Pearce Hanley,11704,Gold Coast
+2019,Jarrod Harbrow,11555,Gold Coast
+2019,Jack Hombsch,12021,Gold Coast
+2019,George Horlin-Smith,12053,Gold Coast
+2019,Jack Lukosius,12704,Gold Coast
+2019,Darcy Macpherson,12438,Gold Coast
+2019,Jack Martin,12236,Gold Coast
+2019,Anthony Miles,12059,Gold Coast
+2019,Touk Miller,12331,Gold Coast
+2019,Jordan Murdoch,12099,Gold Coast
+2019,Wil Powell,12652,Gold Coast
+2019,Alex Sexton,12080,Gold Coast
+2019,David Swallow,11919,Gold Coast
+2019,Lachie Weller,12385,Gold Coast
+2019,Jarrod Witts,12177,Gold Coast
+2019,Peter Wright,12366,Gold Coast
+2019,Jeremy Cameron,12017,Greater Western Sydney
+2019,Stephen Coniglio,12028,Greater Western Sydney
+2019,Brent Daniels,12656,Greater Western Sydney
+2019,Phil Davis,11825,Greater Western Sydney
+2019,Matt de Boer,11746,Greater Western Sydney
+2019,Brett Deledio,4068,Greater Western Sydney
+2019,Jeremy Finlayson,12553,Greater Western Sydney
+2019,Toby Greene,12025,Greater Western Sydney
+2019,Harry Himmelberg,12462,Greater Western Sydney
+2019,Jacob Hopper,12440,Greater Western Sydney
+2019,Lachlan Keeffe,11991,Greater Western Sydney
+2019,Adam Kennedy,12031,Greater Western Sydney
+2019,Daniel Lloyd,12532,Greater Western Sydney
+2019,Harry Perryman,12536,Greater Western Sydney
+2019,Sam Reid,11705,Greater Western Sydney
+2019,Heath Shaw,4132,Greater Western Sydney
+2019,Dawson Simpson,11822,Greater Western Sydney
+2019,Tim Taranto,12504,Greater Western Sydney
+2019,Sam Taylor,12644,Greater Western Sydney
+2019,Adam Tomlinson,12027,Greater Western Sydney
+2019,Lachie Whitfield,12143,Greater Western Sydney
+2019,Zac Williams,12175,Greater Western Sydney
+2019,Patrick Ambrose,12239,Essendon
+2019,Mark Baguley,12107,Essendon
+2019,Tom Bellchambers,11675,Essendon
+2019,Mitch Brown,11987,Essendon
+2019,Orazio Fantasia,12302,Essendon
+2019,Aaron Francis,12467,Essendon
+2019,Matt Guelfi,12612,Essendon
+2019,Dyson Heppell,11896,Essendon
+2019,Michael Hurley,11715,Essendon
+2019,Kyle Langford,12349,Essendon
+2019,Anthony McDonald-Tipungwuti,12407,Essendon
+2019,Andrew McGrath,12491,Essendon
+2019,Conor McKenna,12391,Essendon
+2019,Shaun McKernan,11774,Essendon
+2019,Zach Merrett,12241,Essendon
+2019,David Myers,11663,Essendon
+2019,Jordan Ridley,12631,Essendon
+2019,Adam Saad,12330,Essendon
+2019,Dylan Shiel,12022,Essendon
+2019,Devon Smith,12029,Essendon
+2019,Jake Stringer,12167,Essendon
+2019,David Zaharakis,11729,Essendon
+2019,Hayden Ballantyne,11770,Fremantle
+2019,Bailey Banfield,12588,Fremantle
+2019,Andrew Brayshaw,12589,Fremantle
+2019,Adam Cerra,12603,Fremantle
+2019,Travis Colyer,11821,Fremantle
+2019,Reece Conca,11888,Fremantle
+2019,Sean Darcy,12547,Fremantle
+2019,Nat Fyfe,11834,Fremantle
+2019,Joel Hamling,12359,Fremantle
+2019,Bradley Hill,12060,Fremantle
+2019,Ethan Hughes,12395,Fremantle
+2019,Ed Langdon,12393,Fremantle
+2019,Rory Lobb,12282,Fremantle
+2019,Cam McCarthy,12315,Fremantle
+2019,David Mundy,4088,Fremantle
+2019,Alex Pearce,12352,Fremantle
+2019,Luke Ryan,12542,Fremantle
+2019,Lachie Schultz,12700,Fremantle
+2019,Matthew Taberner,12205,Fremantle
+2019,Darcy Tucker,12426,Fremantle
+2019,Michael Walters,11763,Fremantle
+2019,Nathan Wilson,12024,Fremantle
+2019,Shaun Atley,11902,North Melbourne
+2019,Ben Brown,12289,North Melbourne
+2019,Ben Cunnington,11835,North Melbourne
+2019,Luke Davies-Uniacke,12590,North Melbourne
+2019,Trent Dumont,12343,North Melbourne
+2019,Todd Goldstein,11686,North Melbourne
+2019,Aaron Hall,12041,North Melbourne
+2019,Shaun Higgins,4180,North Melbourne
+2019,Jamie Macmillan,11862,North Melbourne
+2019,Luke McDonald,12246,North Melbourne
+2019,Ben McKay,12580,North Melbourne
+2019,Jasper Pittard,11885,North Melbourne
+2019,Jared Polec,11927,North Melbourne
+2019,Bailey Scott,12701,North Melbourne
+2019,Jy Simpkin,12502,North Melbourne
+2019,Robbie Tarrant,11859,North Melbourne
+2019,Kayne Turner,12304,North Melbourne
+2019,Dom Tyson,12032,North Melbourne
+2019,Ed Vickers-Willis,12524,North Melbourne
+2019,Marley Williams,12084,North Melbourne
+2019,Mason Wood,12312,North Melbourne
+2019,Jack Ziebell,11724,North Melbourne
+2019,Jason Castagna,12431,Richmond
+2019,Brandon Ellis,12034,Richmond
+2019,Oleg Markov,12459,Richmond
+2019,Levi Greenwood,11745,Collingwood
+2019,Colin ORiordan,12658,Sydney
+2019,Ben Ronke,12616,Sydney
+2019,Kyle Hartigan,6623,Adelaide
+2019,Paul Seedsman,12035,Adelaide
+2019,Darcy Parish,12406,Essendon
+2019,Blake Acres,12276,St Kilda
+2019,Nathan Brown,11627,St Kilda
+2019,Rowan Marshall,12564,St Kilda
+2019,Cameron Polson,12523,Carlton
+2019,Kade Kolodjashnij,12256,Melbourne
+2019,Jay Lockhart,12706,Melbourne
+2019,Steven May,11940,Melbourne
+2019,Josh Kennedy,4169,West Coast
+2019,Josh Smith,12427,West Coast
+2019,Matt Buntine,12082,Greater Western Sydney
+2019,Nick Haynes,12091,Greater Western Sydney
+2019,Tom Campbell,12097,North Melbourne
+2019,Tarryn Thomas,12707,North Melbourne
+2019,Scott Thompson,11636,North Melbourne
+2019,Tom Scully,11802,Hawthorn
+2019,Lewis Young,12559,Western Bulldogs
+2019,Nick Holman,12307,Gold Coast
+2019,Jesse Joyce,12449,Gold Coast
+2019,Jesse Hogan,12321,Fremantle
+2019,Reilly OBrien,12473,Adelaide
+2019,Lachie Henderson,11637,Geelong
+2019,Josh Wagner,12424,Melbourne
+2019,Zac Clarke,11771,Essendon
+2019,Kobe Mutch,12621,Essendon
+2019,Levi Casboult,12114,Carlton
+2019,Matthew Lobbe,11836,Carlton
+2019,Caleb Marchbank,12369,Carlton
+2019,Lochie OBrien,12611,Carlton
+2019,Tom McCartin,12627,Sydney
+2019,Jackson Thurlow,12185,Sydney
+2019,Josh Kelly,12255,Greater Western Sydney
+2019,Shane Mumford,11656,Greater Western Sydney
+2019,Tom Sheridan,12137,Greater Western Sydney
+2019,Ryan Garthwaite,12647,Richmond
+2019,Sydney Stack,12708,Richmond
+2019,Sam Gray,12262,Port Adelaide
+2019,Dougal Howard,12420,Port Adelaide
+2019,Ollie Wines,12150,Port Adelaide
+2019,Taylor Adams,12066,Collingwood
+2019,Jamie Cripps,11937,West Coast
+2019,Andrew Gaff,11904,West Coast
+2019,Josh Rotham,12709,West Coast
+2019,Dylan Moore,12710,Hawthorn
+2019,Chad Wingard,12047,Hawthorn
+2019,Taylin Duman,12615,Fremantle
+2019,Brandon Matera,11915,Fremantle
+2019,Hunter Clark,12591,St Kilda
+2019,Kieren Jack,11546,Sydney
+2019,Justin McInerney,12711,Sydney
+2019,Braydon Preuss,12500,Melbourne
+2019,Billy Stretch,12353,Melbourne
+2019,Jason Johannisen,12122,Western Bulldogs
+2019,Callan Ward,11677,Greater Western Sydney
+2019,Cale Hooker,11702,Essendon
+2019,Mason Redman,12437,Essendon
+2019,Allen Christensen,11920,Brisbane Lions
+2019,Nick Robertson,12264,Brisbane Lions
+2019,Liam Baker,12661,Richmond
+2019,Shai Bolton,12535,Richmond
+2019,Josh Caddy,12010,Richmond
+2019,Connor Menadue,12356,Richmond
+2019,Jack Ross,12712,Richmond
+2019,Paul Ahern,12642,North Melbourne
+2019,Jed Anderson,12154,North Melbourne
+2019,Cameron Zurhaar,12557,North Melbourne
+2019,Cam Ellis-Yolmen,12283,Adelaide
+2019,Myles Poholke,12614,Adelaide
+2019,Sam Switkowski,12672,Fremantle
+2019,Ben Paton,12671,St Kilda
+2019,Daniel Howe,12360,Hawthorn
+2019,Sam Wright,11755,North Melbourne
+2019,Joe Daniher,12199,Essendon
+2019,Brayden Ham,12713,Essendon
+2019,Will Schofield,11605,West Coast
+2019,Jackson Hately,12715,Greater Western Sydney
+2019,Brennan Cox,12544,Fremantle
+2019,Jordan Lewis,4077,Melbourne
+2019,James Rowbottom,12714,Sydney
+2019,Will Hayes,12716,Western Bulldogs
+2019,Lachie Young,12717,Western Bulldogs
+2019,Matthew Kreuzer,11645,Carlton
+2019,Jack Silvagni,12458,Carlton
+2019,Hugh Greenwood,12533,Adelaide
+2019,Elliott Himmelberg,12675,Adelaide
+2019,Will Brodie,12541,Gold Coast
+2019,Kaiden Brand,12435,Hawthorn
+2019,Mitch Lewis,12636,Hawthorn
+2019,Cameron Guthrie,11884,Geelong
+2019,Jeff Garlett,11711,Melbourne
+2019,Tim Smith,12514,Melbourne
+2019,Will Hoskin-Elliott,12026,Collingwood
+2019,Jarrod Lienert,12659,Port Adelaide
+2019,Nathan Hrovat,12190,North Melbourne
+2019,Nick Larkey,12563,North Melbourne
+2019,Josh Corbett,12719,Gold Coast
+2019,Noah Answerth,12718,Brisbane Lions
+2019,Tom Cutler,12265,Brisbane Lions
+2019,Ryan Lester,11894,Brisbane Lions
+2019,Lewis Taylor,12252,Brisbane Lions
+2019,Billy Longer,12051,St Kilda
+2019,Jordan Gallucci,12534,Adelaide
+2019,Aidan Corr,12181,Greater Western Sydney
+2019,Ryan Nyhuis,12554,Fremantle
+2019,Jackson Trengove,11812,Western Bulldogs
+2019,Tim OBrien,12242,Hawthorn
+2019,Zach Tuohy,11973,Geelong
+2019,Ben Reid,11589,Collingwood
+2019,Declan Keilty,12720,Melbourne
+2019,Isaac Cumming,12629,Greater Western Sydney
+2019,Jonathon Marsh,12386,St Kilda
+2019,Robbie Fox,12510,Sydney
+2019,Aaron Young,12068,Gold Coast
+2019,Liam Stocker,12721,Carlton
+2019,Tom Williamson,12517,Carlton
+2019,Taylor Garner,12220,North Melbourne
+2019,Zach Guthrie,12551,Geelong
+2019,Rupert Wills,12468,Collingwood
+2019,Fletcher Roberts,12126,Western Bulldogs
+2019,Sean Lemmens,12234,Gold Coast
+2019,Ed Phillips,12630,St Kilda
+2019,Matthew Broadbent,11782,Port Adelaide
+2019,Kane Farrell,12664,Port Adelaide
+2019,Aidyn Johnson,12525,Port Adelaide
+2019,Luke Brown,12106,Adelaide
+2019,Sam Durdin,12515,North Melbourne
+2019,Curtis Taylor,12722,North Melbourne
+2019,Zac Langdon,12599,Greater Western Sydney
+2019,Willie Rioli,12606,West Coast
+2019,Oskar Baker,12723,Melbourne
+2019,Harry Petty,12653,Melbourne
+2019,Robbie Young,12726,St Kilda
+2019,Mitch Hinge,12727,Brisbane Lions
+2019,Ryan Abbott,12666,Geelong
+2019,Darcy Fort,12724,Geelong
+2019,Josh Begley,12574,Essendon
+2019,Ben McNiece,12527,Essendon
+2019,Connor Blakely,12397,Fremantle
+2019,Joe Atley,12556,Port Adelaide
+2019,Billy Frampton,12676,Port Adelaide
+2019,Joel Garner,12725,Port Adelaide
+2019,Ben King,12728,Gold Coast
+2019,Ivan Soldo,12529,Richmond
+2019,Conor Glass,12561,Hawthorn
+2019,Harrison Macreadie,12488,Carlton
+2019,Jack Madgen,12665,Collingwood
+2019,Daniel Wells,1427,Collingwood
+2019,Marc Pittonet,12417,Hawthorn
+2019,Peter Ladhams,12729,Port Adelaide
+2019,Bailey Dale,12354,Western Bulldogs
+2019,Patrick Lipinski,12578,Western Bulldogs
+2019,Jackson Nelson,12328,West Coast
+2019,Callum Coleman-Jones,12730,Richmond
+2019,Jayden Laverde,12377,Essendon
+2019,James Parsons,12513,Geelong
+2019,Matthew Kennedy,12455,Carlton
+2019,Brett Bewley,12731,Fremantle
+2019,Josh Schoenfeld,12466,Gold Coast
+2019,Zac Smith,11909,Geelong
+2019,Daniel Menzel,11873,Sydney
+2019,Ben Keays,12434,Brisbane Lions
+2019,Archie Smith,12472,Brisbane Lions
+2019,Mitch Hannan,12492,Melbourne
+2019,Jay Kennedy Harris,12245,Melbourne
+2019,Nick Coffield,12608,St Kilda
+2019,Dylan Clarke,12632,Essendon
+2019,Darcy Lang,12286,Carlton
+2019,Ryan Gardner,12732,Western Bulldogs
+2019,Patrick Naish,12733,Richmond
+2019,Jacob Townsend,12023,Richmond
+2019,Jacob Allison,12570,Brisbane Lions
+2019,James Rose,12389,Sydney
+2019,Brayden Sier,12649,Collingwood
+2019,Jake Lever,12351,Melbourne
+2019,Mabior Chol,12485,Richmond
+2019,Callum Ah Chee,12414,Gold Coast
+2019,Sam Day,11947,Gold Coast
+2019,Corey Ellis,12346,Gold Coast
+2019,David Armitage,11570,St Kilda
+2019,Nick Hind,12734,St Kilda
+2019,Brandon White,12486,St Kilda
+2019,Stephen Hill,11716,Fremantle
+2019,Griffin Logue,12511,Fremantle
+2019,Hamish Hartlett,11740,Port Adelaide
+2019,Jake Stein,12735,Greater Western Sydney
+2019,Jarrod Cameron,12736,West Coast
+2019,Jake Carlisle,11871,St Kilda
+2019,Dan Hannebery,11783,St Kilda
+2019,Charlie Dixon,11914,Port Adelaide
+2019,Roarke Smith,12390,Western Bulldogs
+2019,Martin Gleeson,12240,Essendon
+2019,Jed Bews,12278,Geelong
+2019,Lachie Fogarty,12596,Geelong
+2019,Ben Davis,12737,Adelaide
+2019,Oliver Hanrahan,12738,Hawthorn
+2019,Nic Naitanui,11768,West Coast
+2019,Brad Scheer,12530,Gold Coast
+2019,Josh Daicos,12573,Collingwood
+2019,Matt Scharenberg,12384,Collingwood
+2019,Kyron Hayden,12739,North Melbourne
+2019,Brandon Starcevich,12668,Brisbane Lions
+2019,Isaac Quaynor,12740,Collingwood
+2019,Jacob Heron,12634,Gold Coast
+2019,Derek Eggmolesse-Smith,12741,Richmond
+2019,Mitch Crowden,12604,Fremantle
+2019,Aaron Sandilands,1421,Fremantle
+2019,Brendon Ah Chee,12338,West Coast
+2019,Kyle Dunkley,12742,Melbourne
+2019,Marcus Adams,12409,Brisbane Lions
+2019,Ben Crocker,12436,Collingwood
+2019,John Noble,12743,Collingwood
+2019,Hugh Goddard,12382,Carlton
+2019,Grant Birchall,4149,Hawthorn
+2019,Michael Rischitelli,4047,Gold Coast
+2019,Tyson Stengle,12552,Adelaide
+2019,Bobby Hill,12744,Greater Western Sydney
+2019,Cam Sutcliffe,12104,Port Adelaide
+2019,Michael Hartley,12419,Essendon
+2019,Will Snelling,12484,Essendon
+2019,Josh Deluca,12548,Carlton
+2019,Jacob Dawson,12648,Gold Coast
+2019,Flynn Appleby,12620,Collingwood
+2019,Hayden McLean,12745,Sydney
+2019,Ryley Stoddart,12638,Sydney
+2019,Francis Watson,12746,West Coast
+2019,Doulton Langlands,12747,St Kilda
+2019,Andy Otten,11678,Adelaide
+2019,Patrick Wilson,12645,Adelaide
+2019,Dale Morris,4084,Western Bulldogs
+2019,Rhylee West,12748,Western Bulldogs
+2019,Scott Selwood,11644,Geelong
+2019,Aiden Bonar,12669,Greater Western Sydney
+2019,Connor Idun,12750,Greater Western Sydney
+2019,Jason Carter,12749,Fremantle
+2019,Darcy Fogarty,12584,Adelaide
+2019,Angus Schumacher,12751,Carlton
+2019,Jye Caldwell,12755,Greater Western Sydney
+2019,Changkuoth Jiath,12752,Hawthorn
+2019,James Bell,12753,Sydney
+2019,Caleb Graham,12754,Gold Coast
+2019,Quinton Narkle,12651,Geelong
+2019,Kade Chandler,12756,Melbourne
+2019,Brandon Zerk-Thatcher,12757,Essendon
+2019,Zach Sproule,12758,Greater Western Sydney
+2019,Tom Jok,12759,Essendon
+2019,Sam Rowe,12157,St Kilda
+2019,Cedric Cox,12522,Brisbane Lions
+2019,Trent McKenzie,11912,Port Adelaide
+2019,Hugh Dixon,12760,Fremantle
+2019,Scott Jones,12640,Fremantle
+2019,Marlion Pickett,12761,Richmond
+2020,David Astbury,11828,Richmond
+2020,Liam Baker,12661,Richmond
+2020,Shai Bolton,12535,Richmond
+2020,Nathan Broad,12456,Richmond
+2020,Josh Caddy,12010,Richmond
+2020,Jason Castagna,12431,Richmond
+2020,Trent Cotchin,11666,Richmond
+2020,Shane Edwards,11557,Richmond
+2020,Jack Graham,12576,Richmond
+2020,Dylan Grimes,11879,Richmond
+2020,Kane Lambert,12333,Richmond
+2020,Tom Lynch,11948,Richmond
+2020,Dustin Martin,11794,Richmond
+2020,Toby Nankervis,12374,Richmond
+2020,Marlion Pickett,12761,Richmond
+2020,Dion Prestia,11917,Richmond
+2020,Jack Riewoldt,11576,Richmond
+2020,Daniel Rioli,12403,Richmond
+2020,Jayden Short,12418,Richmond
+2020,Ivan Soldo,12529,Richmond
+2020,Sydney Stack,12708,Richmond
+2020,Nick Vlastuin,12174,Richmond
+2020,Levi Casboult,12114,Carlton
+2020,Patrick Cripps,12261,Carlton
+2020,David Cuningham,12476,Carlton
+2020,Ed Curnow,11883,Carlton
+2020,Sam Docherty,12170,Carlton
+2020,Paddy Dow,12582,Carlton
+2020,Zac Fisher,12520,Carlton
+2020,Michael Gibbons,12685,Carlton
+2020,Liam Jones,11866,Carlton
+2020,Matthew Kreuzer,11645,Carlton
+2020,Jack Martin,12236,Carlton
+2020,Mitch McGovern,12404,Carlton
+2020,Marc Murphy,4148,Carlton
+2020,Nic Newman,12508,Carlton
+2020,Jack Newnes,12050,Carlton
+2020,Sam Petrevski-Seton,12487,Carlton
+2020,Lachie Plowman,12142,Carlton
+2020,Will Setterfield,12567,Carlton
+2020,Jack Silvagni,12458,Carlton
+2020,Kade Simpson,1456,Carlton
+2020,Sam Walsh,12684,Carlton
+2020,Jacob Weitering,12402,Carlton
+2020,Marcus Bontempelli,12269,Western Bulldogs
+2020,Josh Bruce,12065,Western Bulldogs
+2020,Ben Cavarra,12764,Western Bulldogs
+2020,Zaine Cordy,12392,Western Bulldogs
+2020,Hayden Crozier,12088,Western Bulldogs
+2020,Bailey Dale,12354,Western Bulldogs
+2020,Caleb Daniel,12373,Western Bulldogs
+2020,Josh Dunkley,12408,Western Bulldogs
+2020,Tim English,12537,Western Bulldogs
+2020,Ryan Gardner,12732,Western Bulldogs
+2020,Lachie Hunter,12203,Western Bulldogs
+2020,Jason Johannisen,12122,Western Bulldogs
+2020,Alex Keath,12560,Western Bulldogs
+2020,Sam Lloyd,12263,Western Bulldogs
+2020,Jack Macrae,12166,Western Bulldogs
+2020,Aaron Naughton,12594,Western Bulldogs
+2020,Bailey Smith,12692,Western Bulldogs
+2020,Matt Suckling,11718,Western Bulldogs
+2020,Mitch Wallis,11934,Western Bulldogs
+2020,Bailey Williams,12441,Western Bulldogs
+2020,Easton Wood,11788,Western Bulldogs
+2020,Lewis Young,12559,Western Bulldogs
+2020,Taylor Adams,12066,Collingwood
+2020,Callum Brown,12545,Collingwood
+2020,Tyler Brown,12763,Collingwood
+2020,Mason Cox,12428,Collingwood
+2020,Jack Crisp,12061,Collingwood
+2020,Josh Daicos,12573,Collingwood
+2020,Jordan de Goey,12318,Collingwood
+2020,Jamie Elliott,12083,Collingwood
+2020,Brodie Grundy,12217,Collingwood
+2020,Will Hoskin-Elliott,12026,Collingwood
+2020,Jeremy Howe,11967,Collingwood
+2020,Jack Madgen,12665,Collingwood
+2020,Brayden Maynard,12371,Collingwood
+2020,Chris Mayne,11642,Collingwood
+2020,Brody Mihocek,12639,Collingwood
+2020,Darcy Moore,12372,Collingwood
+2020,John Noble,12743,Collingwood
+2020,Scott Pendlebury,4182,Collingwood
+2020,Tom Phillips,12452,Collingwood
+2020,Jordan Roughead,11833,Collingwood
+2020,Steele Sidebottom,11751,Collingwood
+2020,Josh Thomas,12144,Collingwood
+2020,Tom Bellchambers,11675,Essendon
+2020,Tom Cutler,12265,Essendon
+2020,Orazio Fantasia,12302,Essendon
+2020,Aaron Francis,12467,Essendon
+2020,Matt Guelfi,12612,Essendon
+2020,Michael Hurley,11715,Essendon
+2020,Kyle Langford,12349,Essendon
+2020,Jayden Laverde,12377,Essendon
+2020,Anthony McDonald-Tipungwuti,12407,Essendon
+2020,Andrew McGrath,12491,Essendon
+2020,Zach Merrett,12241,Essendon
+2020,Darcy Parish,12406,Essendon
+2020,Mason Redman,12437,Essendon
+2020,Jordan Ridley,12631,Essendon
+2020,Adam Saad,12330,Essendon
+2020,Dylan Shiel,12022,Essendon
+2020,Devon Smith,12029,Essendon
+2020,Will Snelling,12484,Essendon
+2020,Jake Stringer,12167,Essendon
+2020,Jacob Townsend,12023,Essendon
+2020,David Zaharakis,11729,Essendon
+2020,Brandon Zerk-Thatcher,12757,Essendon
+2020,James Aish,12250,Fremantle
+2020,Bailey Banfield,12588,Fremantle
+2020,Brett Bewley,12731,Fremantle
+2020,Andrew Brayshaw,12589,Fremantle
+2020,Adam Cerra,12603,Fremantle
+2020,Travis Colyer,11821,Fremantle
+2020,Reece Conca,11888,Fremantle
+2020,Brennan Cox,12544,Fremantle
+2020,Mitch Crowden,12604,Fremantle
+2020,Sean Darcy,12547,Fremantle
+2020,Taylin Duman,12615,Fremantle
+2020,Nat Fyfe,11834,Fremantle
+2020,Ethan Hughes,12395,Fremantle
+2020,Rory Lobb,12282,Fremantle
+2020,Griffin Logue,12511,Fremantle
+2020,Cam McCarthy,12315,Fremantle
+2020,Luke Ryan,12542,Fremantle
+2020,Lachie Schultz,12700,Fremantle
+2020,Sam Sturt,12765,Fremantle
+2020,Matthew Taberner,12205,Fremantle
+2020,Darcy Tucker,12426,Fremantle
+2020,Michael Walters,11763,Fremantle
+2020,Rory Atkins,12381,Adelaide
+2020,Luke Brown,12106,Adelaide
+2020,Brad Crouch,12156,Adelaide
+2020,Matt Crouch,12258,Adelaide
+2020,Ben Davis,12737,Adelaide
+2020,Darcy Fogarty,12584,Adelaide
+2020,Billy Frampton,12676,Adelaide
+2020,Bryce Gibbs,11535,Adelaide
+2020,Chayce Jones,12691,Adelaide
+2020,Jake Kelly,12335,Adelaide
+2020,Rory Laird,12165,Adelaide
+2020,Tom Lynch,11865,Adelaide
+2020,Fischer McAsey,12762,Adelaide
+2020,Wayne Milera,12405,Adelaide
+2020,Lachlan Murphy,12585,Adelaide
+2020,Reilly OBrien,12473,Adelaide
+2020,Paul Seedsman,12035,Adelaide
+2020,Rory Sloane,11792,Adelaide
+2020,Brodie Smith,11891,Adelaide
+2020,Tyson Stengle,12552,Adelaide
+2020,Daniel Talia,11989,Adelaide
+2020,Taylor Walker,11713,Adelaide
+2020,Aliir Aliir,12433,Sydney
+2020,Nick Blakey,12699,Sydney
+2020,Kaiden Brand,12435,Sydney
+2020,Harry Cunningham,12015,Sydney
+2020,Jordan Dawson,12516,Sydney
+2020,Oliver Florent,12497,Sydney
+2020,Sam Gray,12262,Sydney
+2020,Will Hayward,12509,Sydney
+2020,Isaac Heeney,12326,Sydney
+2020,Josh Kennedy,11672,Sydney
+2020,Jake Lloyd,12268,Sydney
+2020,Tom McCartin,12627,Sydney
+2020,Justin McInerney,12711,Sydney
+2020,Callum Mills,12413,Sydney
+2020,Sam Naismith,12313,Sydney
+2020,Colin ORiordan,12658,Sydney
+2020,Tom Papley,12412,Sydney
+2020,Luke Parker,11953,Sydney
+2020,Dane Rampe,12140,Sydney
+2020,Ben Ronke,12616,Sydney
+2020,James Rowbottom,12714,Sydney
+2020,Lewis Taylor,12252,Sydney
+2020,Ben Ainsworth,12498,Gold Coast
+2020,Noah Anderson,12767,Gold Coast
+2020,Jack Bowes,12499,Gold Coast
+2020,Will Brodie,12541,Gold Coast
+2020,Connor Budarick,12769,Gold Coast
+2020,Sam Collins,12444,Gold Coast
+2020,Sam Day,11947,Gold Coast
+2020,Brandon Ellis,12034,Gold Coast
+2020,Brayden Fiorini,12481,Gold Coast
+2020,Caleb Graham,12754,Gold Coast
+2020,Hugh Greenwood,12533,Gold Coast
+2020,Nick Holman,12307,Gold Coast
+2020,Jesse Joyce,12449,Gold Coast
+2020,Ben King,12728,Gold Coast
+2020,Sean Lemmens,12234,Gold Coast
+2020,Jack Lukosius,12704,Gold Coast
+2020,Darcy Macpherson,12438,Gold Coast
+2020,Touk Miller,12331,Gold Coast
+2020,Matt Rowell,12768,Gold Coast
+2020,David Swallow,11919,Gold Coast
+2020,Lachie Weller,12385,Gold Coast
+2020,Jarrod Witts,12177,Gold Coast
+2020,Karl Amon,12357,Port Adelaide
+2020,Travis Boak,11583,Port Adelaide
+2020,Ryan Burton,12477,Port Adelaide
+2020,Zak Butters,12698,Port Adelaide
+2020,Darcy Byrne-Jones,12422,Port Adelaide
+2020,Tom Clurey,12238,Port Adelaide
+2020,Xavier Duursma,12696,Port Adelaide
+2020,Brad Ebert,11639,Port Adelaide
+2020,Mitch Georgiades,12766,Port Adelaide
+2020,Robbie Gray,11578,Port Adelaide
+2020,Hamish Hartlett,11740,Port Adelaide
+2020,Dan Houston,12495,Port Adelaide
+2020,Tom Jonas,12002,Port Adelaide
+2020,Jarrod Lienert,12659,Port Adelaide
+2020,Scott Lycett,11994,Port Adelaide
+2020,Todd Marshall,12575,Port Adelaide
+2020,Trent McKenzie,11912,Port Adelaide
+2020,Steven Motlop,11818,Port Adelaide
+2020,Sam Powell-Pepper,12494,Port Adelaide
+2020,Tom Rockliff,11787,Port Adelaide
+2020,Connor Rozee,12697,Port Adelaide
+2020,Justin Westhoff,11579,Port Adelaide
+2020,Jeremy Cameron,12017,Greater Western Sydney
+2020,Stephen Coniglio,12028,Greater Western Sydney
+2020,Aidan Corr,12181,Greater Western Sydney
+2020,Isaac Cumming,12629,Greater Western Sydney
+2020,Brent Daniels,12656,Greater Western Sydney
+2020,Phil Davis,11825,Greater Western Sydney
+2020,Matt de Boer,11746,Greater Western Sydney
+2020,Jeremy Finlayson,12553,Greater Western Sydney
+2020,Tom Green,12770,Greater Western Sydney
+2020,Toby Greene,12025,Greater Western Sydney
+2020,Nick Haynes,12091,Greater Western Sydney
+2020,Harry Himmelberg,12462,Greater Western Sydney
+2020,Jacob Hopper,12440,Greater Western Sydney
+2020,Sam Jacobs,11708,Greater Western Sydney
+2020,Josh Kelly,12255,Greater Western Sydney
+2020,Adam Kennedy,12031,Greater Western Sydney
+2020,Zac Langdon,12599,Greater Western Sydney
+2020,Daniel Lloyd,12532,Greater Western Sydney
+2020,Harry Perryman,12536,Greater Western Sydney
+2020,Heath Shaw,4132,Greater Western Sydney
+2020,Sam Taylor,12644,Greater Western Sydney
+2020,Lachie Whitfield,12143,Greater Western Sydney
+2020,Gary Ablett,1105,Geelong
+2020,Tom Atkins,12690,Geelong
+2020,Mark Blicavs,12153,Geelong
+2020,Jordan Clark,12688,Geelong
+2020,Luke Dahlhaus,11974,Geelong
+2020,Patrick Dangerfield,11700,Geelong
+2020,Mitch Duncan,11798,Geelong
+2020,Darcy Fort,12724,Geelong
+2020,Cameron Guthrie,11884,Geelong
+2020,Zach Guthrie,12551,Geelong
+2020,Tom Hawkins,11548,Geelong
+2020,Jack Henry,12607,Geelong
+2020,Sam Menegola,12464,Geelong
+2020,Gryan Miers,12689,Geelong
+2020,Quinton Narkle,12651,Geelong
+2020,Mark OConnor,12531,Geelong
+2020,Esava Ratugolea,12597,Geelong
+2020,Gary Rohan,11842,Geelong
+2020,Joel Selwood,11538,Geelong
+2020,Tom Stewart,12505,Geelong
+2020,Harry Taylor,11643,Geelong
+2020,Zach Tuohy,11973,Geelong
+2020,Paul Ahern,12642,North Melbourne
+2020,Jed Anderson,12154,North Melbourne
+2020,Shaun Atley,11902,North Melbourne
+2020,Ben Brown,12289,North Melbourne
+2020,Ben Cunnington,11835,North Melbourne
+2020,Trent Dumont,12343,North Melbourne
+2020,Todd Goldstein,11686,North Melbourne
+2020,Aaron Hall,12041,North Melbourne
+2020,Shaun Higgins,4180,North Melbourne
+2020,Nick Larkey,12563,North Melbourne
+2020,Jamie Macmillan,11862,North Melbourne
+2020,Luke McDonald,12246,North Melbourne
+2020,Tom Murphy,12643,North Melbourne
+2020,Jasper Pittard,11885,North Melbourne
+2020,Jared Polec,11927,North Melbourne
+2020,Jy Simpkin,12502,North Melbourne
+2020,Robbie Tarrant,11859,North Melbourne
+2020,Curtis Taylor,12722,North Melbourne
+2020,Tarryn Thomas,12707,North Melbourne
+2020,Josh Walker,12109,North Melbourne
+2020,Jack Ziebell,11724,North Melbourne
+2020,Cameron Zurhaar,12557,North Melbourne
+2020,Jack Billings,12249,St Kilda
+2020,Dan Butler,12490,St Kilda
+2020,Hunter Clark,12591,St Kilda
+2020,Luke Dunstan,12247,St Kilda
+2020,Jarryn Geary,11630,St Kilda
+2020,Jade Gresham,12415,St Kilda
+2020,Dan Hannebery,11783,St Kilda
+2020,Bradley Hill,12060,St Kilda
+2020,Dougal Howard,12420,St Kilda
+2020,Zak Jones,12288,St Kilda
+2020,Dean Kent,12184,St Kilda
+2020,Max King,12773,St Kilda
+2020,Ben Long,12521,St Kilda
+2020,Jack Lonie,12324,St Kilda
+2020,Rowan Marshall,12564,St Kilda
+2020,Tim Membrey,12300,St Kilda
+2020,Ben Paton,12671,St Kilda
+2020,Dylan Roberton,11839,St Kilda
+2020,Sebastian Ross,12132,St Kilda
+2020,Paddy Ryder,4144,St Kilda
+2020,Jack Steele,12368,St Kilda
+2020,Callum Wilkie,12703,St Kilda
+2020,Luke Breust,11954,Hawthorn
+2020,Shaun Burgoyne,1126,Hawthorn
+2020,Jonathon Ceglar,12210,Hawthorn
+2020,James Frawley,11575,Hawthorn
+2020,Sam Frost,12119,Hawthorn
+2020,Jack Gunston,11845,Hawthorn
+2020,Oliver Hanrahan,12738,Hawthorn
+2020,Ricky Henderson,11832,Hawthorn
+2020,Ben McEvoy,11682,Hawthorn
+2020,Tom Mitchell,12196,Hawthorn
+2020,Harry Morrison,12579,Hawthorn
+2020,Tim OBrien,12242,Hawthorn
+2020,Jaeger OMeara,12141,Hawthorn
+2020,Jonathon Patton,12096,Hawthorn
+2020,Paul Puopolo,11942,Hawthorn
+2020,Tom Scully,11802,Hawthorn
+2020,Liam Shiels,11760,Hawthorn
+2020,James Sicily,12332,Hawthorn
+2020,Isaac Smith,11941,Hawthorn
+2020,Ben Stratton,11824,Hawthorn
+2020,Chad Wingard,12047,Hawthorn
+2020,James Worpel,12619,Hawthorn
+2020,Marcus Adams,12409,Brisbane Lions
+2020,Harris Andrews,12340,Brisbane Lions
+2020,Noah Answerth,12718,Brisbane Lions
+2020,Zac Bailey,12610,Brisbane Lions
+2020,Jarrod Berry,12519,Brisbane Lions
+2020,Charlie Cameron,12277,Brisbane Lions
+2020,Darcy Gardiner,12267,Brisbane Lions
+2020,Eric Hipwood,12454,Brisbane Lions
+2020,Jarryd Lyons,12067,Brisbane Lions
+2020,Stefan Martin,11684,Brisbane Lions
+2020,Lincoln McCarthy,12090,Brisbane Lions
+2020,Hugh McCluggage,12518,Brisbane Lions
+2020,Oscar McInerney,12617,Brisbane Lions
+2020,Daniel McStay,12291,Brisbane Lions
+2020,Lachie Neale,12055,Brisbane Lions
+2020,Cam Rayner,12592,Brisbane Lions
+2020,Daniel Rich,11725,Brisbane Lions
+2020,Deven Robertson,12774,Brisbane Lions
+2020,Mitch Robinson,11710,Brisbane Lions
+2020,Brandon Starcevich,12668,Brisbane Lions
+2020,Alex Witherden,12546,Brisbane Lions
+2020,Dayne Zorko,12076,Brisbane Lions
+2020,Brendon Ah Chee,12338,West Coast
+2020,Tom Barrass,12383,West Coast
+2020,Jarrod Brander,12646,West Coast
+2020,Jamie Cripps,11937,West Coast
+2020,Jack Darling,11905,West Coast
+2020,Liam Duggan,12334,West Coast
+2020,Andrew Gaff,11904,West Coast
+2020,Tom Hickey,12003,West Coast
+2020,Shannon Hurn,4162,West Coast
+2020,Lewis Jetta,11804,West Coast
+2020,Tim Kelly,12595,West Coast
+2020,Josh Kennedy,4169,West Coast
+2020,Jeremy McGovern,12273,West Coast
+2020,Nic Naitanui,11768,West Coast
+2020,Jackson Nelson,12328,West Coast
+2020,Jack Petruccelle,12623,West Coast
+2020,Jack Redden,11780,West Coast
+2020,Liam Ryan,12600,West Coast
+2020,Dom Sheed,12253,West Coast
+2020,Brad Sheppard,11843,West Coast
+2020,Luke Shuey,11805,West Coast
+2020,Elliot Yeo,12087,West Coast
+2020,Toby Bedford,12772,Melbourne
+2020,Angus Brayshaw,12322,Melbourne
+2020,Mitch Brown,11987,Melbourne
+2020,Bayley Fritsch,12598,Melbourne
+2020,Max Gawn,11966,Melbourne
+2020,James Harmes,12379,Melbourne
+2020,Michael Hibberd,11938,Melbourne
+2020,Neville Jetta,11723,Melbourne
+2020,Ed Langdon,12393,Melbourne
+2020,Jake Lever,12351,Melbourne
+2020,Jay Lockhart,12706,Melbourne
+2020,Steven May,11940,Melbourne
+2020,Oscar McDonald,12394,Melbourne
+2020,Tom McDonald,12009,Melbourne
+2020,Jake Melksham,11820,Melbourne
+2020,Alex Neal-Bullen,12367,Melbourne
+2020,Clayton Oliver,12410,Melbourne
+2020,Christian Petracca,12430,Melbourne
+2020,Kysaiah Pickett,12771,Melbourne
+2020,Charlie Spargo,12622,Melbourne
+2020,Adam Tomlinson,12027,Melbourne
+2020,Jack Viney,12147,Melbourne
