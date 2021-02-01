@@ -46,11 +46,11 @@ bad_finals <- afldata %>%
 
 # re-scrape these matches
 bad_finals_urls <- bad_finals$Date %>%
-  purrr::map(~get_afltables_urls(lubridate::ymd(.x) - 1, lubridate::ymd(.x) + 1)) %>%
+  purrr::map(~fitzRoy:::get_afltables_urls(lubridate::ymd(.x) - 1, lubridate::ymd(.x) + 1)) %>%
   purrr::reduce(c)
 
 bad_finals_data <- bad_finals_urls %>%
-  fitzRoy::scrape_afltables_match()
+  fitzRoy:::scrape_afltables_match()
 
 # add match id and filter our non bad matches (some dates had 2 matches)
 bad_finals_data <- bad_finals_data %>% 
@@ -179,15 +179,8 @@ afldata <- afldata %>%
 
 
 # Get new data
-old_dat <- scrape_afltables_match(old_urls) %>%
+old_dat <- fitzRoy:::scrape_afltables_match(old_urls) %>%
   left_join(bad_dat, by = c("Season", "Round", "Home.team", "Away.team"))
-
-
-
-
-
-
-
 
 # Now let's save to 2018
 afldata <- afldata %>%
@@ -235,11 +228,17 @@ maxdate <- max(afldata$Date)
 # Fix scrape not returning ID's
 
 # get new results
-urls <- get_afltables_urls(maxdate + 1, Sys.Date())
-df <- scrape_afltables_match(urls)
+urls <- fitzRoy:::get_afltables_urls(maxdate + 1, Sys.Date())
+
+safe_scrape <- purrr::safely(fitzRoy:::scrape_afltables_match)
+
+df_dat <- urls %>%
+  map(safe_scrape)
+
+df <- df_dat %>% purrr::map_dfr(~.x$result)
 
 df <- df %>%
-  mutate_if(is.numeric, ~ ifelse(is.na(.), 0, .)) %>%
+  mutate(across(where(is.numeric), ~ ifelse(is.na(.x), 0, .))) %>%
   mutate(
     Date = lubridate::ymd(format(Date, "%Y-%m-%d")),
     Local.start.time = as.integer(Local.start.time)
@@ -250,6 +249,8 @@ df <- df %>%
 # join with afltables
 afldata <- afldata %>%
   bind_rows(df)
+
+afldata <- afldata %>% distinct()
 
 write_rds(afldata, here::here("data-raw", "afl_tables_playerstats", "afldata.rds"))
 save(afldata, file = here::here("data-raw", "afl_tables_playerstats", "afldata.rda"))
