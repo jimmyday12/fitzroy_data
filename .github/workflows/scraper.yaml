@@ -14,8 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@master
-      - name: Install packages
-        run: Rscript -e 'install.packages()'
       - name: Install dependencies
         run: |
           Rscript -e 'install.packages(c("devtools", "tidyverse", "here", "fst"))' \
