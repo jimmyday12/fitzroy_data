@@ -11,7 +11,7 @@ library(fitzRoy)
 #source(here::here("data-raw", "Match_ids", "find_ids.R"))
 
 # player_stats ------------------------------------------------------------
-source(here::here("data-raw", "player_stats", "scrape_footywire_basic.R"))
+#source(here::here("data-raw", "player_stats", "scrape_footywire_basic.R"))
 source(here::here("data-raw", "afl_tables_playerstats", "weekly-scrape-playerstats-afltables.R"))
 
 # Match results -----------------------------------------------------------

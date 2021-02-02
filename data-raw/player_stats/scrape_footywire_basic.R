@@ -11,8 +11,13 @@ player_stats <- player_stats %>%
   ungroup() %>% 
   distinct()
 
+
+load(here::here("data-raw", "player_stats", "player_stats.rda"))
+
 # Write data using devtools
 #devtools::use_data(player_stats, overwrite = TRUE)
 save(player_stats, file = here::here("data-raw", "player_stats", "player_stats.rda"), version = 2)
 fst::write_fst(player_stats, path = here::here("data-raw", "player_stats", "player_stats.fst"))
 fst::write_fst(player_stats, path = here::here("data-raw", "player_stats", "player_stats_full.fst"), compress = 100)
+
+
