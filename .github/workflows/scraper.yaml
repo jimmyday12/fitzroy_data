@@ -1,6 +1,10 @@
 name: get new data
 
 on:
+  push:
+    branches:
+      - main
+      - master
   schedule:
     - cron: "0 13 * * *"
 
@@ -11,7 +15,11 @@ jobs:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@master
       - name: Install packages
-        run: Rscript -e 'install.packages(c("fitzRoy", "tidyverse", "here", "fst"))'
+        run: Rscript -e 'install.packages()'
+      - name: Install dependencies
+        run: |
+          Rscript -e 'install.packages(c("devtools", "tidyverse", "here", "fst"))' \
+                  -e 'devtools::install_github("jimmyday12/fitzRoy")'
       - name: Get data
         run: Rscript -e 'source(here::here("data-raw", "weekly_data_process.R"), echo = TRUE)'
       - name: Commit
