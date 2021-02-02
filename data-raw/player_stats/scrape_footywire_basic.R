@@ -1,16 +1,10 @@
 # Script to get data from footywire - adapted from Rob's earlier one
 library(fitzRoy)
-library(dplyr)
 library(fst)
 
 # Run function on range of id's ----
 # I've got a list of ID's that I scraped in a file called id_data.rda
 player_stats <- update_footywire_stats(check_existing = TRUE)
-
-# remove duplicate games if exist
-player_stats <- distinct(player_stats)
-
-
 
 # Write data using devtools
 #devtools::use_data(player_stats, overwrite = TRUE)
