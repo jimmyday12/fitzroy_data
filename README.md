@@ -1,4 +1,4 @@
-![get new data](https://github.com/jimmyday12/fitzroy_data/workflows/get%20new%20data/badge.svg)
+[![get new data](https://github.com/jimmyday12/fitzroy_data/workflows/get%20new%20data/badge.svg)](https://github.com/jimmyday12/fitzroy_data/actions?query=workflow%3A%22get+new+data%22)
 # fitzroy_data
 
 This repository houses data that is used by the [fitzRoy](https://github.com/jimmyday12/fitzroy) R package. It is updated at midnight each night by a custom Github Action CRON job. 
