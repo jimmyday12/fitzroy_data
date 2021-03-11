@@ -5,8 +5,35 @@ library(dplyr)
 
 # Run function on range of id's ----
 # I've got a list of ID's that I scraped in a file called id_data.rda
+rescrape = FALSE
 
-player_stats <- fetch_player_stats_footywire(season = NULL, round_number = NULL, check_existing = TRUE)
+player_stats <- fetch_player_stats_footywire(season = NULL, 
+                                             round_number = NULL, 
+                                             check_existing = TRUE)
+if (rescrape){
+  
+  
+  player_stats_existing <- player_stats
+  player_stats_re_scrape<- fetch_player_stats_footywire(season = NULL, 
+                                                        round_number = NULL, 
+                                                        check_existing = FALSE)
+  player_stats_re_scrape <- player_stats_re_scrape %>%
+    rename(GA = GA...15) %>%
+    select(-GA...28) %>%
+    select(-GA...35) 
+  
+  save(player_stats_re_scrape, 
+       file = here::here("data-raw", "player_stats", "player_stats_re_scrape.rda"), 
+       version = 2)
+  
+ 
+  
+  player_stats_re_scrape <- player_stats_re_scrape %>% 
+    ungroup() %>% 
+    distinct()
+  
+  player_stats <- player_stats_re_scrape
+}
 
 player_stats <- player_stats %>% 
   ungroup() %>% 
@@ -16,7 +43,17 @@ player_stats <- player_stats %>%
 
 # Write data using devtools
 #devtools::use_data(player_stats, overwrite = TRUE)
-save(player_stats, file = here::here("data-raw", "player_stats", "player_stats.rda"), version = 2)
-save(player_stats, file = here::here("data-raw", "player_stats", "player_stats_end2020.rda"), version = 2)
-fst::write_fst(player_stats, path = here::here("data-raw", "player_stats", "player_stats.fst"))
-fst::write_fst(player_stats, path = here::here("data-raw", "player_stats", "player_stats_full.fst"), compress = 100)
+save(player_stats, 
+     file = here::here("data-raw", "player_stats", "player_stats.rda"), 
+     version = 2)
+
+save(player_stats, 
+     file = here::here("data-raw", "player_stats", "player_stats_end2020.rda"), 
+     version = 2)
+
+fst::write_fst(player_stats, 
+               path = here::here("data-raw", "player_stats", "player_stats.fst"))
+
+fst::write_fst(player_stats, 
+               path = here::here("data-raw", "player_stats", "player_stats_full.fst"), 
+               compress = 100)
