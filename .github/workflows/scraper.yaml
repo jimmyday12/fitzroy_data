@@ -11,18 +11,14 @@ on:
 jobs:
   scrape-and-commit:
     runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@master
-      - name: Install Dependencies - devtools
-        run: Rscript -e 'install.packages("devtools")'
-      - name: Install Dependencies - tidyverse
-        run: Rscript -e 'install.packages("tidyverse")'
-      - name: Install Dependencies - here
-        run: Rscript -e 'install.packages("here")'
-      - name: Install Dependencies - fst
-        run: Rscript -e 'install.packages("fst")'
-      - name: Install Dependencies - fitzRoy
+      - name: Install Dependencies
+        run: Rscript -e 'install.packages(c("devtools", "tidyverse", "here", "fst"))'
+      - name: Install fitzRoy
         run: Rscript -e 'devtools::install_github("jimmyday12/fitzRoy")'
       - name: Get data
         run: Rscript -e 'source(here::here("data-raw", "weekly_data_process.R"), echo = TRUE)'
