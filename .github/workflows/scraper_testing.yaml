@@ -1,0 +1,25 @@
+name: gdebugging
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  scrape-and-commit:
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@master
+      - name: Install Dependencies - devtools
+        run: Rscript -e 'install.packages("devtools")'
+      - name: Install Dependencies - dplyr
+        run: Rscript -e 'devtools::install_github("tidyverse/dplyr")'
+      - name: Commit
+        run: |
+          git config --global user.name 'James Day'
+          git config --global user.email '17557361+jimmyday12@users.noreply.github.com'
+          git add .
+          git commit -m 'updating weekly_data_process' || echo "No changes to commit"
+          git push || echo "No changes to commit"
