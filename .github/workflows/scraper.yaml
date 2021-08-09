@@ -16,7 +16,10 @@ jobs:
       - uses: r-lib/actions/setup-r@master
       - name: Install dependencies
         run: |
-          Rscript -e 'install.packages(c("devtools", "tidyverse", "here", "fst"))' \
+          Rscript -e 'install.packages(c("devtools"))' 
+                  -e 'install.packages(c("tidyverse"))' 
+                  -e 'install.packages(c("here"))' 
+                  -e 'install.packages(c("fst"))' 
                   -e 'devtools::install_github("jimmyday12/fitzRoy")'
       - name: Get data
         run: Rscript -e 'source(here::here("data-raw", "weekly_data_process.R"), echo = TRUE)'
