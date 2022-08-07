@@ -4,7 +4,9 @@ library(dplyr)
 
 # Run function on range of id's ----
 # I've got a list of ID's that I scraped in a file called id_data.rda
-afldata <- fetch_player_stats_afltables()
+end_year <- as.numeric(format(Sys.Date(), "%Y"))
+seasons <- 1897:end_year
+afldata <- fetch_player_stats_afltables(seasons)
 
 # remove duplicate games if exist
 afldata <- distinct(afldata)
