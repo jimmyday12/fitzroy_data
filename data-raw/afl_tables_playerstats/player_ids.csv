@@ -55262,7 +55262,7 @@ Season,Player,ID,Team
 2021,Tom Stewart,12505,Geelong
 2021,Ned Cahill,12799,Essendon
 2021,Jye Caldwell,12755,Essendon
-2021,Nikolas Cox,12852,Essendon
+2021,Nik Cox,12852,Essendon
 2021,Tom Cutler,12265,Essendon
 2021,Sam Draper,12810,Essendon
 2021,Aaron Francis,12467,Essendon
@@ -55404,13 +55404,13 @@ Season,Player,ID,Team
 2021,Stephen Coniglio,12028,Greater Western Sydney
 2021,Isaac Cumming,12629,Greater Western Sydney
 2021,Phil Davis,11825,Greater Western Sydney
-2021,Matthew de Boer,11746,Greater Western Sydney
+2021,Matt de Boer,11746,Greater Western Sydney
 2021,Matt Flynn,12870,Greater Western Sydney
-2021,Tom Green,12770,Greater Western Sydney
 2021,Toby Greene,12025,Greater Western Sydney
+2021,Tom Green,12770,Greater Western Sydney
 2021,Nick Haynes,12091,Greater Western Sydney
 2021,Bobby Hill,12744,Greater Western Sydney
-2021,Harrison Himmelberg,12462,Greater Western Sydney
+2021,Harry Himmelberg,12462,Greater Western Sydney
 2021,Jacob Hopper,12440,Greater Western Sydney
 2021,Connor Idun,12750,Greater Western Sydney
 2021,Lachlan Keeffe,11991,Greater Western Sydney
@@ -55480,7 +55480,7 @@ Season,Player,ID,Team
 2021,Ben King,12728,Gold Coast
 2021,Sean Lemmens,12234,Gold Coast
 2021,Jack Lukosius,12704,Gold Coast
-2021,Darcy MacPherson,12438,Gold Coast
+2021,Darcy Macpherson,12438,Gold Coast
 2021,Oleg Markov,12459,Gold Coast
 2021,Touk Miller,12331,Gold Coast
 2021,Wil Powell,12652,Gold Coast
@@ -55637,7 +55637,7 @@ Season,Player,ID,Team
 2021,Jesse Hogan,12321,Greater Western Sydney
 2021,Lachie Whitfield,12143,Greater Western Sydney
 2021,Ryan Byrnes,12802,St Kilda
-2021,Patrick Ryder,4144,St Kilda
+2021,Paddy Ryder,4144,St Kilda
 2021,Damon Greaves,12840,Hawthorn
 2021,Jack Gunston,11845,Hawthorn
 2021,Emerson Jeka,12896,Hawthorn
@@ -55715,6 +55715,7 @@ Season,Player,ID,Team
 2021,Aaron Vandenberg,12323,Melbourne
 2021,Luke Pedlar,12921,Adelaide
 2021,Eddie Ford,12922,North Melbourne
+2021,Eddie Ford,12932,North Melbourne
 2021,Ben Davis,12737,Adelaide
 2021,Bailey Banfield,12588,Fremantle
 2021,Dean Kent,12184,St Kilda
@@ -55732,7 +55733,6 @@ Season,Player,ID,Team
 2021,Mark Hutchings,12187,West Coast
 2021,Cooper Sharman,12929,St Kilda
 2021,Charlie Curnow,12421,Carlton
-2021,Eddie Ford,12932,North Melbourne
 2021,Nathan Kreuger,12930,Geelong
 2021,Joel Jeffrey,12933,Gold Coast
 2021,Jake Bowey,12931,Melbourne
@@ -56425,3 +56425,6 @@ Season,Player,ID,Team
 2022,Mac Andrew,13019,Gold Coast
 2022,Jye Menzie,13017,Essendon
 2022,Kallan Dawson,13018,North Melbourne
+2022,Jai Serong,13022,Hawthorn
+2022,Sam Darcy,13021,Western Bulldogs
+2022,Toby McLean,12363,Western Bulldogs
