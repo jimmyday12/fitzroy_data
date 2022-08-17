@@ -22,9 +22,48 @@ ends <- c((starts - 1)[-1], max(seasons))
 
 purrr::walk2(starts, ends, scrape_and_save)
 
+
+fnames <- list.files(path = here::here("data-raw", "afl_tables_playerstats", "re-scrape"), 
+                     pattern = "*.parquet")
+
+dat_new <- fnames %>%
+  purrr::map_chr(~here::here("data-raw", "afl_tables_playerstats", "re-scrape", .x)) %>%
+  purrr::map_dfr(read_parquet)
+
+dat_new <- dat_new %>%
+  dplyr::mutate_at(., c("Jumper.No."), as.character)
+
+dat_new <- dat_new %>%
+  dplyr::group_by(.data$ID) %>%
+  dplyr::mutate(
+    First.name = dplyr::first(.data$First.name),
+    Surname = dplyr::first(.data$Surname)
+  )
+
+# fix for finals names being incorrect
+dat_new$Round[dat$Round == "Grand Final"] <- "GF"
+dat_new$Round[dat$Round == "Elimination Final"] <- "EF"
+dat_new$Round[dat$Round == "Preliminary Final"] <- "PF"
+dat_new$Round[dat$Round == "Qualifying Final"] <- "QF"
+dat_new$Round[dat$Round == "Semi Final"] <- "SF"
+
+# fix for trailing spaces in venues, causing duplicated venue names
+dat_new <- dat_new %>%
+  dplyr::mutate(Venue = stringr::str_squish(.data$Venue))
+
 # remove duplicate games if exist
-# afldata <- distinct(afldata)
-# 
+afldata <- distinct(dat_new)
+
+dupes <- janitor::get_dupes(dat_new)
+
+afldata %>%
+  filter(Season == 2017) %>%
+  mutate(Round = as.integer((Round))) %>%
+  group_by(Season, Round) %>%
+  summarise(games = n_distinct(Home.team)) %>%
+  arrange(Round) %>%
+  print(n = Inf)
+
 # # Write ids file
 # id <- afldata %>%
 #   ungroup() %>%
