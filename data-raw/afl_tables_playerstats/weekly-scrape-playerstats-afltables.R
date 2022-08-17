@@ -8,16 +8,24 @@ library(readr)
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
 seasons <- 1897:(end_year - 1)
 
-afldata_old <- fetch_player_stats_afltables(seasons)
+#afldata_old <- fetch_player_stats_afltables(seasons)
 
-afldata_new <- fetch_player_stats_afltables(end_year, 
+afldata_new <- fetch_player_stats_afltables(1897:end_year, 
                                             rescrape = TRUE, 
-                                            rescrape_start_season = end_year)
+                                            rescrape_start_season = (end_year - 1))
 
-afldata <- bind_rows(afldata_old, afldata_new)
+#afldata <- bind_rows(afldata_old, afldata_new)
 
 # remove duplicate games if exist
-afldata <- distinct(afldata)
+afldata <- distinct(afldata_new)
+
+# afldata %>%
+#   select(Season, Round, Date, First.name , Surname , ID , Playing.for) %>%
+#   filter(First.name == "Eddie", Surname == "Ford") 
+# 
+# afldata %>%
+#   select(Season, Round, Date, First.name , Surname , ID , Playing.for) %>%
+#   filter(First.name == "Brayden", Surname == "Cook")
 
 #afldata %>%
 #  filter(Season == 2022) %>%
@@ -46,3 +54,4 @@ save(afldata, file = here::here("data-raw", "afl_tables_playerstats", "afldata.r
 
 
 #x <- readRDS(here::here("data-raw", "afl_tables_playerstats", "afldata.rds"))
+
