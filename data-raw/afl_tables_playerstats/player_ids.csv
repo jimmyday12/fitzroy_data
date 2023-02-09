@@ -55750,7 +55750,7 @@ Season,Player,ID,Team
 2021,Alex Davies,12942,Gold Coast
 2021,Lachlan Gollant,12939,Adelaide
 2021,Phoenix Spicer,12940,North Melbourne
-2022,Heber Quinton,0,Melbourne
+2022,Toby Bedford,12772,Melbourne
 2022,Jake Bowey,12931,Melbourne
 2022,Angus Brayshaw,12322,Melbourne
 2022,Ben Brown,12289,Melbourne
@@ -55796,13 +55796,14 @@ Season,Player,ID,Team
 2022,Laitham Vandermeer,12776,Western Bulldogs
 2022,Cody Weightman,12800,Western Bulldogs
 2022,Bailey Williams,12441,Western Bulldogs
-2022,Heber Quinton,0,Carlton
+2022,Adam Cerra,12603,Carlton
 2022,Patrick Cripps,12261,Carlton
 2022,Charlie Curnow,12421,Carlton
 2022,Tom De Koning,12674,Carlton
 2022,Sam Docherty,12170,Carlton
 2022,Corey Durdin,12936,Carlton
 2022,Zac Fisher,12520,Carlton
+2022,George Hewett,12411,Carlton
 2022,Matthew Kennedy,12455,Carlton
 2022,Jack Martin,12236,Carlton
 2022,Oscar McDonald,12394,Carlton
@@ -55826,7 +55827,7 @@ Season,Player,ID,Team
 2022,Jason Castagna,12431,Richmond
 2022,Trent Cotchin,11666,Richmond
 2022,Shane Edwards,11557,Richmond
-2022,Heber Quinton,0,Richmond
+2022,Josh Gibcus,12947,Richmond
 2022,Jack Graham,12576,Richmond
 2022,Dylan Grimes,11879,Richmond
 2022,Tom Lynch,11948,Richmond
@@ -55839,12 +55840,14 @@ Season,Player,ID,Team
 2022,Daniel Rioli,12403,Richmond
 2022,Jack Ross,12712,Richmond
 2022,Jayden Short,12418,Richmond
+2022,Ivan Soldo,12529,Richmond
+2022,Robbie Tarrant,11859,Richmond
 2022,Josh Battle,12558,St Kilda
 2022,Dan Butler,12490,St Kilda
 2022,Ryan Byrnes,12802,St Kilda
 2022,Brad Crouch,12156,St Kilda
 2022,Jade Gresham,12415,St Kilda
-2022,Heber Quinton,0,St Kilda
+2022,Jack Hayes,12949,St Kilda
 2022,Jack Higgins,12609,St Kilda
 2022,Bradley Hill,12060,St Kilda
 2022,Dougal Howard,12420,St Kilda
@@ -55853,9 +55856,12 @@ Season,Player,ID,Team
 2022,Rowan Marshall,12564,St Kilda
 2022,Daniel McKenzie,12350,St Kilda
 2022,Tim Membrey,12300,St Kilda
+2022,Mitch Owens,12948,St Kilda
+2022,Ben Paton,12671,St Kilda
 2022,Sebastian Ross,12132,St Kilda
 2022,Jack Sinclair,12325,St Kilda
 2022,Jack Steele,12368,St Kilda
+2022,Nasiah Wanganeen-Milera,12950,St Kilda
 2022,Jimmy Webster,12188,St Kilda
 2022,Callum Wilkie,12703,St Kilda
 2022,Mason Wood,12312,St Kilda
@@ -55865,13 +55871,14 @@ Season,Player,ID,Team
 2022,Mason Cox,12428,Collingwood
 2022,Jack Crisp,12061,Collingwood
 2022,Josh Daicos,12573,Collingwood
-2022,Heber Quinton,0,Collingwood
+2022,Nick Daicos,12943,Collingwood
 2022,Jordan de Goey,12318,Collingwood
 2022,Jamie Elliott,12083,Collingwood
 2022,Jack Ginnivan,12927,Collingwood
 2022,Brodie Grundy,12217,Collingwood
 2022,Oliver Henry,12851,Collingwood
 2022,Jeremy Howe,11967,Collingwood
+2022,Patrick Lipinski,12578,Collingwood
 2022,Jack Madgen,12665,Collingwood
 2022,Beau McCreery,12876,Collingwood
 2022,Brody Mihocek,12639,Collingwood
@@ -55901,10 +55908,10 @@ Season,Player,ID,Team
 2022,Joel Selwood,11538,Geelong
 2022,Isaac Smith,11941,Geelong
 2022,Rhys Stanley,11847,Geelong
-2022,Heber Quinton,0,Geelong
+2022,Tyson Stengle,12552,Geelong
 2022,Tom Stewart,12505,Geelong
 2022,Zach Tuohy,11973,Geelong
-2022,Heber Quinton,0,Essendon
+2022,Kaine Baldwin,12944,Essendon
 2022,Jye Caldwell,12755,Essendon
 2022,Nik Cox,12852,Essendon
 2022,Tom Cutler,12265,Essendon
@@ -55913,8 +55920,10 @@ Season,Player,ID,Team
 2022,Brayden Ham,12713,Essendon
 2022,Dyson Heppell,11896,Essendon
 2022,Nick Hind,12734,Essendon
+2022,Jake Kelly,12335,Essendon
 2022,Kyle Langford,12349,Essendon
 2022,Jayden Laverde,12377,Essendon
+2022,Nic Martin,12945,Essendon
 2022,Andrew McGrath,12491,Essendon
 2022,Zach Merrett,12241,Essendon
 2022,Darcy Parish,12406,Essendon
@@ -55926,7 +55935,7 @@ Season,Player,ID,Team
 2022,James Stewart,12232,Essendon
 2022,Peter Wright,12366,Essendon
 2022,Lachie Ash,12782,Greater Western Sydney
-2022,Heber Quinton,0,Greater Western Sydney
+2022,Jarrod Brander,12646,Greater Western Sydney
 2022,Tanner Bruhn,12871,Greater Western Sydney
 2022,Stephen Coniglio,12028,Greater Western Sydney
 2022,Isaac Cumming,12629,Greater Western Sydney
@@ -55958,7 +55967,7 @@ Season,Player,ID,Team
 2022,Isaac Heeney,12326,Sydney
 2022,Tom Hickey,12003,Sydney
 2022,Josh Kennedy,11672,Sydney
-2022,Heber Quinton,0,Sydney
+2022,Paddy McCartin,12339,Sydney
 2022,Tom McCartin,12627,Sydney
 2022,Logan McDonald,12861,Sydney
 2022,Justin McInerney,12711,Sydney
@@ -55968,17 +55977,19 @@ Season,Player,ID,Team
 2022,Luke Parker,11953,Sydney
 2022,Dane Rampe,12140,Sydney
 2022,James Rowbottom,12714,Sydney
+2022,Angus Sheldrick,12951,Sydney
 2022,Dylan Stephens,12796,Sydney
 2022,Sam Wicks,12818,Sydney
 2022,Marcus Adams,12409,Brisbane Lions
 2022,Callum Ah Chee,12414,Brisbane Lions
 2022,Harris Andrews,12340,Brisbane Lions
-2022,Heber Quinton,0,Brisbane Lions
+2022,Noah Answerth,12718,Brisbane Lions
 2022,Zac Bailey,12610,Brisbane Lions
 2022,Jarrod Berry,12519,Brisbane Lions
 2022,Charlie Cameron,12277,Brisbane Lions
 2022,Nakia Cockatoo,12319,Brisbane Lions
 2022,Joe Daniher,12199,Brisbane Lions
+2022,Darcy Fort,12724,Brisbane Lions
 2022,Darcy Gardiner,12267,Brisbane Lions
 2022,Jarryd Lyons,12067,Brisbane Lions
 2022,Lincoln McCarthy,12090,Brisbane Lions
@@ -55986,6 +55997,7 @@ Season,Player,ID,Team
 2022,Oscar McInerney,12617,Brisbane Lions
 2022,Daniel McStay,12291,Brisbane Lions
 2022,Lachie Neale,12055,Brisbane Lions
+2022,Cam Rayner,12592,Brisbane Lions
 2022,Daniel Rich,11725,Brisbane Lions
 2022,Mitch Robinson,11710,Brisbane Lions
 2022,Harry Sharp,12864,Brisbane Lions
@@ -56000,7 +56012,7 @@ Season,Player,ID,Team
 2022,Darcy Byrne-Jones,12422,Port Adelaide
 2022,Willem Drew,12695,Port Adelaide
 2022,Xavier Duursma,12696,Port Adelaide
-2022,Heber Quinton,0,Port Adelaide
+2022,Jeremy Finlayson,12553,Port Adelaide
 2022,Mitch Georgiades,12766,Port Adelaide
 2022,Robbie Gray,11578,Port Adelaide
 2022,Dan Houston,12495,Port Adelaide
@@ -56009,6 +56021,7 @@ Season,Player,ID,Team
 2022,Scott Lycett,11994,Port Adelaide
 2022,Todd Marshall,12575,Port Adelaide
 2022,Trent McKenzie,11912,Port Adelaide
+2022,Jackson Mead,12946,Port Adelaide
 2022,Steven Motlop,11818,Port Adelaide
 2022,Sam Powell-Pepper,12494,Port Adelaide
 2022,Connor Rozee,12697,Port Adelaide
@@ -56019,7 +56032,8 @@ Season,Player,ID,Team
 2022,Blake Hardwick,12469,Hawthorn
 2022,Changkuoth Jiath,12752,Hawthorn
 2022,Mitch Lewis,12636,Hawthorn
-2022,Heber Quinton,0,Hawthorn
+2022,Max Lynch,12837,Hawthorn
+2022,Connor Macdonald,12954,Hawthorn
 2022,Finn Maginness,12843,Hawthorn
 2022,Tom Mitchell,12196,Hawthorn
 2022,Dylan Moore,12710,Hawthorn
@@ -56031,13 +56045,17 @@ Season,Player,ID,Team
 2022,Ned Reeves,12906,Hawthorn
 2022,Jack Scrimshaw,12565,Hawthorn
 2022,Liam Shiels,11760,Hawthorn
+2022,James Sicily,12332,Hawthorn
+2022,Josh Ward,12955,Hawthorn
 2022,Chad Wingard,12047,Hawthorn
 2022,James Worpel,12619,Hawthorn
-2022,Heber Quinton,0,North Melbourne
+2022,Callum Coleman-Jones,12730,North Melbourne
 2022,Aidan Corr,12181,North Melbourne
 2022,Luke Davies-Uniacke,12590,North Melbourne
 2022,Todd Goldstein,11686,North Melbourne
+2022,Hugh Greenwood,12533,North Melbourne
 2022,Aaron Hall,12041,North Melbourne
+2022,Jason Horne-Francis,12956,North Melbourne
 2022,Nick Larkey,12563,North Melbourne
 2022,Charlie Lazzaro,12865,North Melbourne
 2022,Jack Mahony,12787,North Melbourne
@@ -56056,7 +56074,8 @@ Season,Player,ID,Team
 2022,Cameron Zurhaar,12557,North Melbourne
 2022,Luke Brown,12106,Adelaide
 2022,Jordon Butts,12829,Adelaide
-2022,Heber Quinton,0,Adelaide
+2022,Matt Crouch,12258,Adelaide
+2022,Jordan Dawson,12516,Adelaide
 2022,Tom Doedee,12583,Adelaide
 2022,Darcy Fogarty,12584,Adelaide
 2022,Elliott Himmelberg,12675,Adelaide
@@ -56065,19 +56084,23 @@ Season,Player,ID,Team
 2022,Ben Keays,12434,Adelaide
 2022,Ned McHenry,12775,Adelaide
 2022,Andrew McPherson,12791,Adelaide
+2022,Wayne Milera,12405,Adelaide
 2022,Nick Murray,12872,Adelaide
 2022,Reilly OBrien,12473,Adelaide
+2022,Josh Rachele,12953,Adelaide
 2022,James Rowe,12850,Adelaide
 2022,Harry Schoenberg,12813,Adelaide
 2022,Lachlan Sholl,12814,Adelaide
 2022,Rory Sloane,11792,Adelaide
 2022,Brodie Smith,11891,Adelaide
+2022,Jake Soligo,12952,Adelaide
 2022,Riley Thilthorpe,12892,Adelaide
 2022,Blake Acres,12276,Fremantle
 2022,Bailey Banfield,12588,Fremantle
 2022,Andrew Brayshaw,12589,Fremantle
-2022,Heber Quinton,0,Fremantle
+2022,Will Brodie,12541,Fremantle
 2022,Heath Chapman,12875,Fremantle
+2022,Jordan Clark,12688,Fremantle
 2022,Travis Colyer,11821,Fremantle
 2022,Brennan Cox,12544,Fremantle
 2022,Michael Frederick,12801,Fremantle
@@ -56096,20 +56119,24 @@ Season,Player,ID,Team
 2022,Michael Walters,11763,Fremantle
 2022,Hayden Young,12777,Fremantle
 2022,Tom Barrass,12383,West Coast
-2022,Heber Quinton,0,West Coast
+2022,Hugh Dixon,12760,West Coast
 2022,Harry Edwards,12811,West Coast
 2022,Luke Foley,12847,West Coast
 2022,Andrew Gaff,11904,West Coast
+2022,Brady Hough,12957,West Coast
 2022,Shannon Hurn,4162,West Coast
 2022,Jamaine Jones,12637,West Coast
 2022,Josh Kennedy,4169,West Coast
 2022,Zac Langdon,12599,West Coast
 2022,Jeremy McGovern,12273,West Coast
+2022,Patrick Naish,12733,West Coast
 2022,Nic Naitanui,11768,West Coast
 2022,Jackson Nelson,12328,West Coast
 2022,Xavier ONeill,12832,West Coast
+2022,Sam Petrevski-Seton,12487,West Coast
 2022,Jack Petruccelle,12623,West Coast
 2022,Jack Redden,11780,West Coast
+2022,Willie Rioli,12606,West Coast
 2022,Josh Rotham,12709,West Coast
 2022,Jake Waterman,12601,West Coast
 2022,Bailey Williams,12836,West Coast
@@ -56117,7 +56144,8 @@ Season,Player,ID,Team
 2022,Ben Ainsworth,12498,Gold Coast
 2022,Noah Anderson,12767,Gold Coast
 2022,Charlie Ballard,12625,Gold Coast
-2022,Heber Quinton,0,Gold Coast
+2022,Levi Casboult,12114,Gold Coast
+2022,Mabior Chol,12485,Gold Coast
 2022,Sam Collins,12444,Gold Coast
 2022,Alex Davies,12942,Gold Coast
 2022,Brandon Ellis,12034,Gold Coast
@@ -56148,13 +56176,17 @@ Season,Player,ID,Team
 2022,Quinton Narkle,12651,Geelong
 2022,Darcy Cameron,12660,Collingwood
 2022,Will Hoskin-Elliott,12026,Collingwood
+2022,Nathan Kreuger,12930,Collingwood
 2022,Brayden Cook,12932,Adelaide
 2022,Lachlan Gollant,12939,Adelaide
 2022,Luke Pedlar,12921,Adelaide
 2022,Sam Durham,12925,Essendon
 2022,Aaron Francis,12467,Essendon
 2022,Jake Stringer,12167,Essendon
+2022,Tex Wanganeen,12958,Essendon
 2022,Jaxon Prior,12874,Brisbane Lions
+2022,Josh Sinn,12959,Port Adelaide
+2022,Sam Skinner,12571,Port Adelaide
 2022,Luke Breust,11954,Hawthorn
 2022,Ben McEvoy,11682,Hawthorn
 2022,Rory Atkins,12381,Gold Coast
@@ -56164,12 +56196,18 @@ Season,Player,ID,Team
 2022,Jared Polec,11927,North Melbourne
 2022,Josh Walker,12109,North Melbourne
 2022,Brayden Ainsworth,12628,West Coast
+2022,Aaron Black,12963,West Coast
 2022,Jack Darling,11905,West Coast
+2022,Angus Litherland,12254,West Coast
 2022,Liam Duggan,12334,West Coast
 2022,Luke Edwards,12911,West Coast
+2022,Stefan Giro,12641,West Coast
+2022,Callum Jamieson,12961,West Coast
 2022,Tim Kelly,12595,West Coast
+2022,Declan Mountford,12501,West Coast
 2022,Liam Ryan,12600,West Coast
 2022,Luke Shuey,11805,West Coast
+2022,Jack Williams,12962,West Coast
 2022,Alex Witherden,12546,West Coast
 2022,Thomson Dow,12835,Richmond
 2022,Kamdyn McIntosh,12317,Richmond
@@ -56180,7 +56218,9 @@ Season,Player,ID,Team
 2022,James Aish,12250,Fremantle
 2022,Sean Darcy,12547,Fremantle
 2022,Joel Hamling,12359,Fremantle
+2022,Nathan ODriscoll,12960,Fremantle
 2022,Darragh Joyce,12654,St Kilda
+2022,Jarrod Lienert,12659,St Kilda
 2022,Cooper Sharman,12929,St Kilda
 2022,Mitch Wallis,11934,Western Bulldogs
 2022,Joel Amartey,12844,Sydney
@@ -56195,38 +56235,48 @@ Season,Player,ID,Team
 2022,Jed McEntee,12924,Port Adelaide
 2022,Adam Kennedy,12031,Greater Western Sydney
 2022,James Peatling,12934,Greater Western Sydney
+2022,Braydon Preuss,12500,Greater Western Sydney
 2022,Jake Stein,12735,Greater Western Sydney
 2022,Josh Corbett,12719,Gold Coast
 2022,Brayden Maynard,12371,Collingwood
+2022,Reef McInnes,12964,Collingwood
 2022,Eddie Ford,12922,North Melbourne
+2022,Jordan Boyd,12965,Carlton
+2022,Lewis Young,12559,Carlton
 2022,Will Day,12794,Hawthorn
 2022,Daniel Howe,12360,Hawthorn
 2022,Ben Long,12521,St Kilda
 2022,Patrick Ryder,4144,St Kilda
 2022,Connor West,12926,West Coast
+2022,Neil Erasmus,12966,Fremantle
 2022,Matthew Taberner,12205,Fremantle
 2022,Brandon Walker,12914,Fremantle
 2022,Miles Bergman,12867,Port Adelaide
 2022,Tom Clurey,12238,Port Adelaide
+2022,Trent Dumont,12343,Port Adelaide
 2022,Jake Lever,12351,Melbourne
 2022,Gryan Miers,12689,Geelong
 2022,Mark OConnor,12531,Geelong
 2022,Tom Fullarton,12833,Brisbane Lions
 2022,Deven Robertson,12774,Brisbane Lions
 2022,James Bell,12753,Sydney
+2022,Peter Ladhams,12729,Sydney
 2022,Sam Reid,11880,Sydney
 2022,Atu Bosenavulagi,12793,North Melbourne
+2022,Flynn Perez,12841,North Melbourne
 2022,Callum Brown,12545,Collingwood
 2022,Louis Butler,12785,Western Bulldogs
 2022,Lachlan McNeil,12854,Western Bulldogs
-2022,Heber Quinton,0,Western Bulldogs
+2022,Tim OBrien,12242,Western Bulldogs
 2022,Will Snelling,12484,Essendon
 2022,Alec Waterman,12878,Essendon
 2022,Brandon Zerk-Thatcher,12757,Essendon
 2022,Taylor Walker,11713,Adelaide
 2022,Jarman Impey,12237,Hawthorn
+2022,Marcus Windhager,12967,St Kilda
 2022,Jy Farrar,12848,Gold Coast
 2022,Malcolm Rosas,12903,Gold Coast
+2022,Kai Lohmann,12968,Brisbane Lions
 2022,Jordan Roughead,11833,Collingwood
 2022,Riley Garcia,12907,Western Bulldogs
 2022,Jamie Cripps,11937,West Coast
@@ -56236,43 +56286,67 @@ Season,Player,ID,Team
 2022,Shane McAdam,12783,Adelaide
 2022,Nick Vlastuin,12174,Richmond
 2022,Harry Petty,12653,Melbourne
+2022,Finn Callaghan,12969,Greater Western Sydney
 2022,Matthew Cottrell,12822,Carlton
 2022,Paddy Dow,12582,Carlton
 2022,Jack Newnes,12050,Carlton
 2022,Luke Parks,12880,Carlton
+2022,Sam Hayes,12971,Port Adelaide
+2022,Ben Hobbs,12970,Essendon
 2022,Jacob Koschitzke,12859,Hawthorn
 2022,Toby Greene,12025,Greater Western Sydney
 2022,Stefan Martin,11684,Western Bulldogs
+2022,Robbie McComb,12972,Western Bulldogs
 2022,Rhylee West,12748,Western Bulldogs
 2022,Will Hamill,12781,Adelaide
 2022,Jackson Hately,12715,Adelaide
 2022,Kane Farrell,12664,Port Adelaide
+2022,Luke Strnadica,12973,West Coast
+2022,Paul Curtis,12975,North Melbourne
+2022,Oliver Dempsey,12974,Geelong
 2022,Connor Budarick,12769,Gold Coast
 2022,Chris Burgess,12705,Gold Coast
 2022,Keidean Coleman,12838,Brisbane Lions
 2022,Riley Collier-Dawkins,12897,Richmond
 2022,Rhyan Mansell,12883,Richmond
+2022,Luke Dunstan,12247,Melbourne
+2022,Greg Clark,12980,West Coast
 2022,Kane Lambert,12333,Richmond
 2022,Maurice Rioli,12935,Richmond
 2022,Sydney Stack,12708,Richmond
+2022,Cooper Hamilton,12981,Greater Western Sydney
 2022,Kade Chandler,12756,Melbourne
 2022,Jake Melksham,11820,Melbourne
 2022,Lachlan Bramble,12916,Hawthorn
+2022,Jackson Callow,12978,Hawthorn
+2022,Jack Carroll,12976,Carlton
 2022,Liam Stocker,12721,Carlton
+2022,Miller Bergman,12979,North Melbourne
+2022,Tom Campbell,12097,St Kilda
+2022,Aiden Begg,12977,Collingwood
 2022,Zach Reid,12889,Essendon
 2022,Tom Papley,12412,Sydney
 2022,James Madden,12898,Brisbane Lions
 2022,Buku Khamis,12900,Western Bulldogs
+2022,Jye Amiss,12983,Fremantle
 2022,Jed Anderson,12154,North Melbourne
 2022,Ryan Clarke,12461,Sydney
+2022,Rory Thompson,11992,Gold Coast
+2022,Mitch Knevitt,12986,Geelong
+2022,Cooper Stephens,12985,Geelong
 2022,Nick Bryan,12899,Essendon
+2022,Alastair Lord,12982,Essendon
 2022,Tom Berry,12780,Brisbane Lions
 2022,Ryan Lester,11894,Brisbane Lions
 2022,Jack Payne,12819,Brisbane Lions
+2022,Jake Florenca,12984,West Coast
 2022,Zak Jones,12288,St Kilda
 2022,Finlay Macrae,12888,Collingwood
 2022,Caleb Poulter,12895,Collingwood
+2022,Luke Cleary,12987,Western Bulldogs
 2022,Jordon Sweet,12890,Western Bulldogs
+2022,Sam Butler,12988,Hawthorn
+2022,Bigoa Nyuon,12989,Richmond
 2022,Kyron Hayden,12739,North Melbourne
 2022,Orazio Fantasia,12302,Port Adelaide
 2022,Jack Billings,12249,St Kilda
@@ -56281,39 +56355,82 @@ Season,Player,ID,Team
 2022,Joel Jeffrey,12933,Gold Coast
 2022,Conor Stone,12886,Greater Western Sydney
 2022,Brodie Kemp,12937,Carlton
+2022,Jesse Motlop,12990,Carlton
 2022,Gary Rohan,11842,Geelong
 2022,Zach Sproule,12758,Greater Western Sydney
+2022,Jacob Wehr,12991,Greater Western Sydney
 2022,Kyle Hartigan,6623,Hawthorn
 2022,Nathan Murphy,12673,Collingwood
 2022,Robbie Fox,12510,Sydney
+2022,Matt Roberts,12994,Sydney
+2022,Noah Cumberland,12993,Richmond
+2022,Shannon Neale,12992,Geelong
+2022,Charlie Constable,12687,Gold Coast
 2022,Charlie Dixon,11914,Port Adelaide
 2022,Harry Jones,12853,Essendon
+2022,Patrick Parnell,12995,Adelaide
 2022,Sam Day,11947,Gold Coast
 2022,Mitch Brown,11987,Melbourne
 2022,Mitch Crowden,12604,Fremantle
 2022,Ethan Hughes,12395,Fremantle
+2022,Judson Clarke,12997,Richmond
+2022,Caleb Marchbank,12369,Carlton
 2022,Nat Fyfe,11834,Fremantle
 2022,Josh Morris,12795,Hawthorn
 2022,Michael Hibberd,11938,Melbourne
+2022,Daniel Turner,12996,Melbourne
+2022,Sam Durdin,12515,Carlton
 2022,Hunter Clark,12591,St Kilda
+2022,Massimo DAmbrosio,12998,Essendon
+2022,Brynn Teakle,12999,Port Adelaide
+2022,Rhett Bazzo,13000,West Coast
 2022,Dom Sheed,12253,West Coast
 2022,Sam Menegola,12464,Geelong
+2022,Ryan Angwin,13001,Greater Western Sydney
 2022,Jason Johannisen,12122,Western Bulldogs
 2022,Jack Bowes,12499,Gold Coast
+2022,James Tunstill,13005,Brisbane Lions
+2022,James Blanck,13003,Hawthorn
 2022,Josh Honey,12825,Carlton
 2022,Lewis Taylor,12252,Sydney
+2022,Jackson Archer,13004,North Melbourne
+2022,Isaac Chugg,13002,Collingwood
 2022,Trey Ruscoe,12815,Collingwood
 2022,Callum Brown,12910,Greater Western Sydney
+2022,Dominic Bedendo,13006,Western Bulldogs
 2022,Tom Highmore,12868,St Kilda
+2022,Hewago Paul Oea,13010,Gold Coast
+2022,James Tsitas,13009,Gold Coast
 2022,Phoenix Spicer,12940,North Melbourne
+2022,Zane Trew,13008,West Coast
 2022,Nathan Wilson,12024,Fremantle
+2022,Jase Burgoyne,13007,Port Adelaide
+2022,Josh Carmichael,13011,Collingwood
 2022,Rhys Mathieson,12443,Brisbane Lions
+2022,Carter Michael,13012,Brisbane Lions
 2022,Ben Davis,12737,Adelaide
+2022,Will Hayes,12716,Carlton
 2022,Josh Bruce,12065,Western Bulldogs
+2022,Ash Johnson,13013,Collingwood
+2022,Tyler Sonsie,13014,Richmond
+2022,Jai Culley,13015,West Coast
+2022,Elijah Hollands,13016,Gold Coast
 2022,Kieren Briggs,12904,Greater Western Sydney
+2022,Leek Aleer,13020,Greater Western Sydney
 2022,Dan Hannebery,11783,St Kilda
 2022,Emerson Jeka,12896,Hawthorn
+2022,Jonathon Ceglar,12210,Geelong
 2022,Josh Worrell,12912,Adelaide
+2022,Mac Andrew,13019,Gold Coast
+2022,Jye Menzie,13017,Essendon
+2022,Kallan Dawson,13018,North Melbourne
+2022,Jai Serong,13022,Hawthorn
+2022,Sam Darcy,13021,Western Bulldogs
 2022,Toby McLean,12363,Western Bulldogs
 2022,Ben Cunnington,11835,North Melbourne
 2022,Charlie Comben,12938,North Melbourne
+2022,Josh Goater,13025,North Melbourne
+2022,Michael Hurley,11715,Essendon
+2022,Ned Long,13023,Hawthorn
+2022,Jack Saunders,13024,Hawthorn
+2022,Darcy Wilmot,13026,Brisbane Lions

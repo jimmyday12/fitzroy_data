@@ -1,5 +1,6 @@
 # Weekly Script to update data
 #devtools::load_all(".")
+#devtools::install_github("jimmyday12/fitzRoy", ref = "issue-189")
 library(here)
 library(tidyverse)
 library(fitzRoy)
