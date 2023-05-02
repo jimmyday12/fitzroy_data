@@ -1,6 +1,7 @@
 name: get new data
 
 on:
+  workflow_dispatch
   push:
     branches:
       - main
