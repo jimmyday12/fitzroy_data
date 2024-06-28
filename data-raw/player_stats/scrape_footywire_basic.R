@@ -5,7 +5,7 @@ library(dplyr)
 
 # Run function on range of id's ----
 # I've got a list of ID's that I scraped in a file called id_data.rda
-rescrape = FALSE
+rescrape = TRUE
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
 seasons <- 1897:end_year
 
