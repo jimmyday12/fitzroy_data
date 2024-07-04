@@ -22,7 +22,7 @@ jobs:
       - name: Install fitzRoy
         run: Rscript -e 'devtools::install_github("jimmyday12/fitzRoy")'
       - name: Get data
-        run: Rscript -e 'source(here::here("scripts", "footwire_weekly_script.R"), echo = TRUE)'
+        run: Rscript -e 'source(here::here("scripts", "footywire_weekly_script.R"), echo = TRUE)'
       - name: Commit
         run: |
           git config user.name github-actions
