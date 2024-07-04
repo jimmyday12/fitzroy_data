@@ -1,4 +1,4 @@
-name: get new data
+name: fetch afltables data weekly
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
       - main
       - master
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 20 * * 2"
 
 jobs:
   scrape-and-commit:
@@ -22,7 +22,7 @@ jobs:
       - name: Install fitzRoy
         run: Rscript -e 'devtools::install_github("jimmyday12/fitzRoy")'
       - name: Get data
-        run: Rscript -e 'source(here::here("data-raw", "weekly_data_process.R"), echo = TRUE)'
+        run: Rscript -e 'source(here::here("scripts", "afltables_weekly_script.R"), echo = TRUE)'
       - name: Commit
         run: |
           git config user.name github-actions

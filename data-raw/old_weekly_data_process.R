@@ -1,3 +1,5 @@
+#### Note these have been replaced by simplified scripts in the "scripts" folder ####
+
 # Weekly Script to update data
 
 #devtools::install_github("jimmyday12/fitzRoy")
