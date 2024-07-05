@@ -44,8 +44,11 @@ id <- afldata %>%
   select(Season, Player, ID, Team) %>%
   distinct()
 
-
+# Old data, will remove these soon
 write_csv(id, here::here("data-raw", "afl_tables_playerstats", "player_ids.csv"))
 write_rds(afldata, here::here("data-raw", "afl_tables_playerstats", "afldata.rds"))
 save(afldata, file = here::here("data-raw", "afl_tables_playerstats", "afldata.rda"))
 
+# New data location
+write_csv(id, here::here("data-raw-2", "afltables_player_ids.csv"))
+save(afldata, file = here::here("data-raw-2", "afltables_player_stats.rda"))

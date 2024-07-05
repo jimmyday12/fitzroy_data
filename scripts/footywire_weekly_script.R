@@ -45,21 +45,15 @@ player_stats <- player_stats %>%
   distinct()
 
 ## Saving data
+# Old data - will remove this soon
 cli::cli_progress_step("Saving footywire player stats")
 save(player_stats, 
      file = here::here("data-raw", "player_stats", "player_stats.rda"), 
      version = 2)
 
+
+# New data location
 save(player_stats, 
-     file = here::here("data-raw", "player_stats", "player_stats_end2020.rda"), 
+     file = here::here("data-raw-2", "footywire_player_stats.rda"), 
      version = 2)
-
-fst::write_fst(player_stats, 
-               path = here::here("data-raw", "player_stats", "player_stats.fst"))
-
-fst::write_fst(player_stats, 
-               path = here::here("data-raw", "player_stats", "player_stats_full.fst"), 
-               compress = 100)
-
-
 
