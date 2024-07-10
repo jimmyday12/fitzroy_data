@@ -22,7 +22,7 @@ rescrape = TRUE
 cli::cli_progress_step("Fetching afltables player stats")
 afldata_new <- fetch_player_stats_afltables(1897:end_year, 
                                             rescrape = rescrape, 
-                                            rescrape_start_season = (end_year - 1))
+                                            rescrape_start_season = 1897)
 
 
 ## Tidy data
