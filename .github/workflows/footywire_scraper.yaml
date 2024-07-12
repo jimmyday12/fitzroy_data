@@ -23,10 +23,15 @@ jobs:
         run: Rscript -e 'devtools::install_github("jimmyday12/fitzRoy")'
       - name: Get data
         run: Rscript -e 'source(here::here("scripts", "footywire_weekly_script.R"), echo = TRUE)'
-      - name: Commit
+      - name: Configure Git
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+      - name: Pull latest changes
+        run: |
+          git pull origin main
+      - name: Commit
+        run: |
           git add .
           git commit -m 'updating weekly_data_process' || echo "No changes to commit"
           git push || echo "No changes to commit"
