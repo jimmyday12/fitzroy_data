@@ -13,7 +13,7 @@ library(fst)
 
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
-seasons <- 1897:end_year
+seasons <- (end_year-1):end_year
 rescrape = TRUE
 
 # Player stats - footywire -----------------------------------------------------
