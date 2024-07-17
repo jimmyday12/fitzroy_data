@@ -13,16 +13,17 @@ library(fst)
 
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
-seasons <- 1897:end_year
+seasons <- 1897:1928
+rescrape_start_season <- min(seasons)
 rescrape = TRUE
 
 # Player Stats - afltables -----------------------------------------------------
 
 ## Fetch data
 cli::cli_progress_step("Fetching afltables player stats")
-afldata_new <- fetch_player_stats_afltables(1897:end_year, 
+afldata_new <- fetch_player_stats_afltables(seasons, 
                                             rescrape = rescrape, 
-                                            rescrape_start_season = 1897)
+                                            rescrape_start_season = rescrape_start_season)
 
 
 ## Tidy data
