@@ -13,7 +13,7 @@ library(fst)
 
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
-seasons <- 1929:1960
+seasons <- 1961:1992
 rescrape_start_season <- min(seasons)
 rescrape = TRUE
 
