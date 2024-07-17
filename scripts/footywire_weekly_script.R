@@ -48,12 +48,10 @@ player_stats <- player_stats %>%
 
 ## Save rescrape
 cli::cli_progress_step("Saving rescraped footywire player stats")
-save(player_stats_re_scrape,
+save(player_stats,
      file = here::here("data-raw", "player_stats", "player_stats_re_scrape.rda"),
      version = 2
 )
-
-player_stats <- player_stats_re_scrape
 
 ## Saving data
 # Old data - will remove this soon
