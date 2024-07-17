@@ -1,7 +1,6 @@
 # Weekly Script for AFL tables data
-# This script runs weekly on a CRON Job on Github. The data is sometimes used in the 
+# This script runs weekly on a CRON Job on Github. The data is sometimes used in the
 # fitzRoy package to cache data rather than having to scrape the websites regularly
-
 
 # Setup --------------------------------------------
 # Libraries
@@ -13,36 +12,46 @@ library(fst)
 
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
+total_seasons <- 1897:end_year
 seasons <- 1929:1960
 rescrape_start_season <- min(seasons)
-rescrape = TRUE
+rescrape <- TRUE
 
 # Player Stats - afltables -----------------------------------------------------
 
 ## Fetch data
 cli::cli_progress_step("Fetching afltables player stats")
-afldata_new <- fetch_player_stats_afltables(seasons, 
-                                            rescrape = rescrape, 
-                                            rescrape_start_season = rescrape_start_season)
 
+afldata_old <- fetch_player_stats_afltables(total_seasons)
+
+afldata_old <- afldata_old %>% dplyr::filter(!Season %in% seasons)
+
+afldata_new <- fetch_player_stats_afltables(
+  seasons,
+  rescrape = rescrape,
+  rescrape_start_season = rescrape_start_season
+)
+
+
+afldata <- dplyr::bind_rows(afldata_old, afldata_new)
 
 ## Tidy data
 cli::cli_progress_step("Tidying afltables player stats")
 
 # remove duplicate games if exist
-afldata <- distinct(afldata_new)
+afldata <- distinct(afldata)
 
 ## Save data
 cli::cli_progress_step("Saving afltables player stats")
 
 # Write ids file
 id <- afldata %>%
-  ungroup() %>%
-  mutate(
+  dplyr::ungroup() %>%
+  dplyr::mutate(
     Player = paste(First.name, Surname),
     Team = Playing.for
   ) %>%
-  select(Season, Player, ID, Team) %>%
+  dplyr::select(Season, Player, ID, Team) %>%
   distinct()
 
 # Old data, will remove these soon
