@@ -36,8 +36,8 @@ if (rescrape) {
     round_number = NULL,
     check_existing = FALSE
   )
-  
-  player_stats <- dplyr::bind_rows(player_stats_existing,player_stats_re_scrape)
+
+  player_stats <- dplyr::bind_rows(player_stats_existing, player_stats_re_scrape)
 }
 
 
@@ -49,21 +49,21 @@ player_stats <- player_stats %>%
 ## Save rescrape
 cli::cli_progress_step("Saving rescraped footywire player stats")
 save(player_stats,
-     file = here::here("data-raw", "player_stats", "player_stats_re_scrape.rda"),
-     version = 2
+  file = here::here("data-raw", "player_stats", "player_stats_re_scrape.rda"),
+  version = 2
 )
 
 ## Saving data
 # Old data - will remove this soon
 cli::cli_progress_step("Saving footywire player stats")
 save(player_stats,
-     file = here::here("data-raw", "player_stats", "player_stats.rda"),
-     version = 2
+  file = here::here("data-raw", "player_stats", "player_stats.rda"),
+  version = 2
 )
 
 
 # New data location
 save(player_stats,
-     file = here::here("data-raw-2", "footywire_player_stats.rda"),
-     version = 2
+  file = here::here("data-raw-2", "footywire_player_stats.rda"),
+  version = 2
 )
