@@ -34,6 +34,7 @@ afldata_new <- fetch_player_stats_afltables(
 
 afldata <- dplyr::bind_rows(afldata_old, afldata_new)
 
+
 ## Tidy data
 cli::cli_progress_step("Tidying afltables player stats")
 
