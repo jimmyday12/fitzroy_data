@@ -2,7 +2,6 @@
 # This script runs weekly on a CRON Job on Github. The data is sometimes used in the
 # fitzRoy package to cache data rather than having to scrape the websites regularly
 
-
 # Setup --------------------------------------------
 # Libraries
 library(here)
@@ -40,7 +39,6 @@ if (rescrape) {
   player_stats <- dplyr::bind_rows(player_stats_existing, player_stats_re_scrape)
 }
 
-
 cli::cli_progress_step("Tidying footywire player stats")
 player_stats <- player_stats %>%
   ungroup() %>%
@@ -60,7 +58,6 @@ save(player_stats,
   file = here::here("data-raw", "player_stats", "player_stats.rda"),
   version = 2
 )
-
 
 # New data location
 save(player_stats,
