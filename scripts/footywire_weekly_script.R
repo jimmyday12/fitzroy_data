@@ -2,7 +2,6 @@
 # This script runs weekly on a CRON Job on Github. The data is sometimes used in the
 # fitzRoy package to cache data rather than having to scrape the websites regularly
 
-
 # Setup --------------------------------------------
 # Libraries
 library(here)

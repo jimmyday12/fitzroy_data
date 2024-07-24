@@ -32,7 +32,6 @@ afldata_new <- fetch_player_stats_afltables(
   rescrape_start_season = rescrape_start_season
 )
 
-
 afldata <- dplyr::bind_rows(afldata_old, afldata_new)
 
 ## Tidy data
