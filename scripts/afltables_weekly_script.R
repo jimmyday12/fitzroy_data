@@ -13,7 +13,7 @@ library(fst)
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
 total_seasons <- 1897:end_year
-seasons <- 1993:2024
+seasons <- (end_year-1):end_year
 rescrape_start_season <- min(seasons)
 rescrape <- TRUE
 
@@ -33,7 +33,6 @@ afldata_new <- fetch_player_stats_afltables(
 )
 
 afldata <- dplyr::bind_rows(afldata_old, afldata_new)
-
 
 ## Tidy data
 cli::cli_progress_step("Tidying afltables player stats")
