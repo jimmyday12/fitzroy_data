@@ -17,6 +17,10 @@ seasons <- (end_year-1):end_year
 rescrape_start_season <- min(seasons)
 rescrape <- TRUE
 
+# Update IDs
+
+source('./scripts/player_mapping_afltables.R')
+
 # Player Stats - afltables -----------------------------------------------------
 
 ## Fetch data
