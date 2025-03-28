@@ -27,7 +27,7 @@ library(janitor)
 library(fitzRoy)
 
 # Ensure the package data is loaded
-player_mapping_afltables <- readRDS(here::here("data-raw", "afl_tables_playerstats", "player_mapping_afltables.rds"))
+player_mapping_afltables <-  readr::read_csv(here::here("data-raw", "afl_tables_playerstats", "player_mapping_afltables.csv"))
 
 # Define the URL
 url <- "https://afltables.com/afl/stats/biglists/bg10.txt"
@@ -190,6 +190,9 @@ if (nrow(player_mapping_afltables) == nrow(data_clean)) {
   
   # New data location
   saveRDS(player_mapping_afltables, here::here("data-raw-2", "player_mapping_afltables.rds"))
+  
+  # Use CSV going forward
+  readr::write_csv(player_mapping_afltables, here::here("data-raw", "afl_tables_playerstats", "player_mapping_afltables.csv"))
 }
 
 
