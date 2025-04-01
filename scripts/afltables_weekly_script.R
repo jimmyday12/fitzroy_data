@@ -148,7 +148,10 @@ if (nrow(player_mapping_afltables) == nrow(data_clean)) {
   
   # Initialize a new column 'ID' with NA values
   player_urls_tibble <- player_urls_tibble %>%
-    dplyr::mutate(ID = NA_integer_)
+    dplyr::mutate(
+      ID = NA_integer_,
+      suffix = suffix %>% as.double()
+        )
   
   # manually adjust IDs and urls
   player_urls_tibble <- player_urls_tibble %>%
