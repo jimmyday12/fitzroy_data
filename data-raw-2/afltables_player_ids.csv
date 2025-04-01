@@ -57751,9 +57751,9 @@ Season,Player,ID,Team
 2024,Jacob Bauer,13079,Richmond
 2024,Sam Weideman,12475,Essendon
 2024,Nathan ODriscoll,12960,Fremantle
-2024,Liam Reidy,NA,Fremantle
-2024,Cooper Lord,NA,Carlton
-2024,Ashton Moir,NA,Carlton
+2024,Liam Reidy,13172,Fremantle
+2024,Cooper Lord,13170,Carlton
+2024,Ashton Moir,13171,Carlton
 2024,Rhett Bazzo,13000,West Coast
 2024,Arthur Jones,13046,Western Bulldogs
 2025,Taylor Adams,12066,Sydney
@@ -57762,7 +57762,7 @@ Season,Player,ID,Team
 2025,Braeden Campbell,12863,Sydney
 2025,Oliver Florent,12497,Sydney
 2025,Brodie Grundy,12217,Sydney
-2025,Tom Hanily,NA,Sydney
+2025,Tom Hanily,13173,Sydney
 2025,Will Hayward,12509,Sydney
 2025,Isaac Heeney,12326,Sydney
 2025,James Jordon,12860,Sydney
@@ -57818,7 +57818,7 @@ Season,Player,ID,Team
 2025,Darcy Jones,13131,Greater Western Sydney
 2025,Lachlan Keeffe,11991,Greater Western Sydney
 2025,Josh Kelly,12255,Greater Western Sydney
-2025,James Leake,NA,Greater Western Sydney
+2025,James Leake,13174,Greater Western Sydney
 2025,Xavier OHalloran,12821,Greater Western Sydney
 2025,Conor Stone,12886,Greater Western Sydney
 2025,Sam Taylor,12644,Greater Western Sydney
@@ -57848,7 +57848,7 @@ Season,Player,ID,Team
 2025,Isaac Quaynor,12740,Collingwood
 2025,Lachie Schultz,12700,Collingwood
 2025,Steele Sidebottom,11751,Collingwood
-2025,Harry Armstrong,NA,Richmond
+2025,Harry Armstrong,13189,Richmond
 2025,Sam Banks,13078,Richmond
 2025,Jacob Bauer,13079,Richmond
 2025,Jacob Blight,13163,Richmond
@@ -57858,7 +57858,7 @@ Season,Player,ID,Team
 2025,Thomson Dow,12835,Richmond
 2025,Steely Green,13145,Richmond
 2025,Jacob Hopper,12440,Richmond
-2025,Sam Lalor,NA,Richmond
+2025,Sam Lalor,13190,Richmond
 2025,Tom Lynch,11948,Richmond
 2025,Rhyan Mansell,12883,Richmond
 2025,Kamdyn McIntosh,12317,Richmond
@@ -57868,11 +57868,11 @@ Season,Player,ID,Team
 2025,Jayden Short,12418,Richmond
 2025,Tyler Sonsie,13014,Richmond
 2025,Tim Taranto,12504,Richmond
-2025,Luke Trainor,NA,Richmond
+2025,Luke Trainor,13191,Richmond
 2025,James Trezise,13095,Richmond
 2025,Nick Vlastuin,12174,Richmond
 2025,Blake Acres,12276,Carlton
-2025,Lucas Camporeale,NA,Carlton
+2025,Lucas Camporeale,13176,Carlton
 2025,Adam Cerra,12603,Carlton
 2025,Matthew Cottrell,12822,Carlton
 2025,Lachlan Cowan,13028,Carlton
@@ -57885,7 +57885,7 @@ Season,Player,ID,Team
 2025,George Hewett,12411,Carlton
 2025,Oliver Hollands,13029,Carlton
 2025,Brodie Kemp,12937,Carlton
-2025,Cooper Lord,NA,Carlton
+2025,Cooper Lord,13170,Carlton
 2025,Mitch McGovern,12404,Carlton
 2025,Harry McKay,12566,Carlton
 2025,Jesse Motlop,12990,Carlton
@@ -57904,7 +57904,7 @@ Season,Player,ID,Team
 2025,Jade Gresham,12415,Essendon
 2025,Ben Hobbs,12970,Essendon
 2025,Harry Jones,12853,Essendon
-2025,Isaac Kako,NA,Essendon
+2025,Isaac Kako,13177,Essendon
 2025,Kyle Langford,12349,Essendon
 2025,Nic Martin,12945,Essendon
 2025,Andrew McGrath,12491,Essendon
@@ -57954,8 +57954,8 @@ Season,Player,ID,Team
 2025,Nathan ODriscoll,12960,Fremantle
 2025,Jaeger OMeara,12141,Fremantle
 2025,Alex Pearce,12352,Fremantle
-2025,Murphy Reid,NA,Fremantle
-2025,Liam Reidy,NA,Fremantle
+2025,Murphy Reid,13180,Fremantle
+2025,Liam Reidy,13172,Fremantle
 2025,Luke Ryan,12542,Fremantle
 2025,Caleb Serong,12786,Fremantle
 2025,Jeremy Sharp,12820,Fremantle
@@ -57964,12 +57964,12 @@ Season,Player,ID,Team
 2025,Corey Wagner,12453,Fremantle
 2025,Brandon Walker,12914,Fremantle
 2025,Karl Worner,13075,Fremantle
-2025,Riley Bice,NA,Sydney
+2025,Riley Bice,13195,Sydney
 2025,Joel Hamling,12359,Sydney
 2025,Callum Ah Chee,12414,Brisbane Lions
 2025,Harris Andrews,12340,Brisbane Lions
 2025,Noah Answerth,12718,Brisbane Lions
-2025,Levi Ashcroft,NA,Brisbane Lions
+2025,Levi Ashcroft,13197,Brisbane Lions
 2025,Will Ashcroft,13040,Brisbane Lions
 2025,Zac Bailey,12610,Brisbane Lions
 2025,Jarrod Berry,12519,Brisbane Lions
@@ -57993,7 +57993,7 @@ Season,Player,ID,Team
 2025,Lachlan Sullivan,13133,Collingwood
 2025,Aliir Aliir,12433,Port Adelaide
 2025,Miles Bergman,12867,Port Adelaide
-2025,Joe Berry,NA,Port Adelaide
+2025,Joe Berry,13188,Port Adelaide
 2025,Travis Boak,11583,Port Adelaide
 2025,Jase Burgoyne,13007,Port Adelaide
 2025,Ryan Burton,12477,Port Adelaide
@@ -58018,8 +58018,8 @@ Season,Player,ID,Team
 2025,Luke Cleary,12987,Western Bulldogs
 2025,Bailey Dale,12354,Western Bulldogs
 2025,Sam Darcy,13021,Western Bulldogs
-2025,Sam Davidson,NA,Western Bulldogs
-2025,Josh Dolan,NA,Western Bulldogs
+2025,Sam Davidson,13178,Western Bulldogs
+2025,Josh Dolan,13179,Western Bulldogs
 2025,Taylor Duryea,12163,Western Bulldogs
 2025,Tim English,12537,Western Bulldogs
 2025,Joel Freijah,13140,Western Bulldogs
@@ -58045,12 +58045,12 @@ Season,Player,ID,Team
 2025,Jack Darling,11905,North Melbourne
 2025,Luke Davies-Uniacke,12590,North Melbourne
 2025,Robert Hansen,13085,North Melbourne
-2025,Jacob Konstanty,NA,North Melbourne
+2025,Jacob Konstanty,13186,North Melbourne
 2025,Nick Larkey,12563,North Melbourne
 2025,Griffin Logue,12511,North Melbourne
 2025,Luke McDonald,12246,North Melbourne
 2025,Colby McKercher,13107,North Melbourne
-2025,Finn OSullivan,NA,North Melbourne
+2025,Finn OSullivan,13187,North Melbourne
 2025,Luke Parker,11953,North Melbourne
 2025,Will Phillips,12877,North Melbourne
 2025,Tom Powell,12866,North Melbourne
@@ -58064,7 +58064,7 @@ Season,Player,ID,Team
 2025,Isaac Cumming,12629,Adelaide
 2025,Daniel Curtin,13132,Adelaide
 2025,Jordan Dawson,12516,Adelaide
-2025,Sid Draper,NA,Adelaide
+2025,Sid Draper,13175,Adelaide
 2025,Darcy Fogarty,12584,Adelaide
 2025,Mitch Hinge,12727,Adelaide
 2025,Mark Keane,12809,Adelaide
@@ -58083,20 +58083,20 @@ Season,Player,ID,Team
 2025,Riley Thilthorpe,12892,Adelaide
 2025,Taylor Walker,11713,Adelaide
 2025,Josh Worrell,12912,Adelaide
-2025,Harry Boyd,NA,St Kilda
+2025,Harry Boyd,13192,St Kilda
 2025,Ryan Byrnes,12802,St Kilda
 2025,Anthony Caminiti,13035,St Kilda
 2025,Hunter Clark,12591,St Kilda
 2025,Zaine Cordy,12392,St Kilda
 2025,Hugo Garcia,13125,St Kilda
-2025,Max Hall,NA,St Kilda
+2025,Max Hall,13193,St Kilda
 2025,Angus Hastie,13116,St Kilda
 2025,Jack Higgins,12609,St Kilda
 2025,Bradley Hill,12060,St Kilda
 2025,Zak Jones,12288,St Kilda
 2025,Jack Macrae,12166,St Kilda
 2025,Rowan Marshall,12564,St Kilda
-2025,Liam OConnell,NA,St Kilda
+2025,Liam OConnell,13194,St Kilda
 2025,Arie Schoenmaker,13152,St Kilda
 2025,Jack Sinclair,12325,St Kilda
 2025,Jack Steele,12368,St Kilda
@@ -58110,14 +58110,14 @@ Season,Player,ID,Team
 2025,Kade Chandler,12756,Melbourne
 2025,Bayley Fritsch,12598,Melbourne
 2025,Max Gawn,11966,Melbourne
-2025,Jack Henderson,NA,Melbourne
+2025,Jack Henderson,13181,Melbourne
 2025,Blake Howes,13098,Melbourne
-2025,Matthew Jefferson,NA,Melbourne
-2025,Aidan Johnson,NA,Melbourne
+2025,Matthew Jefferson,13182,Melbourne
+2025,Aidan Johnson,13183,Melbourne
 2025,Ed Langdon,12393,Melbourne
-2025,Harvey Langford,NA,Melbourne
+2025,Harvey Langford,13184,Melbourne
 2025,Jake Lever,12351,Melbourne
-2025,Xavier Lindsay,NA,Melbourne
+2025,Xavier Lindsay,13185,Melbourne
 2025,Tom McDonald,12009,Melbourne
 2025,Clayton Oliver,12410,Melbourne
 2025,Christian Petracca,12430,Melbourne
@@ -58150,7 +58150,7 @@ Season,Player,ID,Team
 2025,Ryan Maric,13070,West Coast
 2025,Jeremy McGovern,12273,West Coast
 2025,Matthew Owies,12839,West Coast
-2025,Archer Reid,NA,West Coast
+2025,Archer Reid,13196,West Coast
 2025,Harley Reid,13111,West Coast
 2025,Jake Waterman,12601,West Coast
 2025,Ben Ainsworth,12498,Gold Coast
@@ -58184,18 +58184,18 @@ Season,Player,ID,Team
 2025,Buku Khamis,12900,Western Bulldogs
 2025,Mason Cox,12428,Collingwood
 2025,Jordan de Goey,12318,Collingwood
-2025,Tom Edwards,NA,Essendon
+2025,Tom Edwards,13198,Essendon
 2025,Jye Menzie,13017,Essendon
-2025,Christian Moraes,NA,Port Adelaide
-2025,Liam Fawcett,NA,Richmond
+2025,Christian Moraes,13199,Port Adelaide
+2025,Liam Fawcett,13200,Richmond
 2025,Kaleb Smith,13149,Richmond
 2025,Lance Collard,13109,St Kilda
-2025,Isaac Keeler,NA,St Kilda
+2025,Isaac Keeler,13201,St Kilda
 2025,Mitch Owens,12948,St Kilda
 2025,Liam Stocker,12721,St Kilda
 2025,Ted Clohesy,13093,Geelong
 2025,Sam Day,11947,Brisbane Lions
-2025,Will McLachlan,NA,Brisbane Lions
+2025,Will McLachlan,13202,Brisbane Lions
 2025,Bruce Reville,13138,Brisbane Lions
 2025,Clay Hall,13167,West Coast
 2025,Jack Petruccelle,12623,West Coast
@@ -58211,8 +58211,8 @@ Season,Player,ID,Team
 2025,Patrick Voss,13129,Fremantle
 2025,Peter Ladhams,12729,Sydney
 2025,Hayden McLean,12745,Sydney
-2025,Saad El-Hawli,NA,Essendon
-2025,Tom Cochrane,NA,Port Adelaide
+2025,Saad El-Hawli,13203,Essendon
+2025,Tom Cochrane,13205,Port Adelaide
 2025,Esava Ratugolea,12597,Port Adelaide
 2025,Ivan Soldo,12529,Port Adelaide
 2025,Jordan Boyd,12965,Carlton
@@ -58224,7 +58224,7 @@ Season,Player,ID,Team
 2025,Sam Flanders,12824,Gold Coast
 2025,Jed Walter,13114,Gold Coast
 2025,Cooper Sharman,12929,St Kilda
-2025,Tobie Travaglia,NA,St Kilda
+2025,Tobie Travaglia,13206,St Kilda
 2025,Charlie Cameron,12277,Brisbane Lions
 2025,Luke Breust,11954,Hawthorn
 2025,Jesse Hogan,12321,Greater Western Sydney
@@ -58232,4 +58232,4 @@ Season,Player,ID,Team
 2025,James Borlase,13086,Adelaide
 2025,Jack Williams,12962,West Coast
 2025,James Aish,12250,Fremantle
-2025,Isaiah Dudley,NA,Fremantle
+2025,Isaiah Dudley,13204,Fremantle
