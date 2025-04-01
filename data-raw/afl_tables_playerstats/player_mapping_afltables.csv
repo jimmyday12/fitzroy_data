@@ -3181,7 +3181,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 3180,Les Laver,9-Dec-1900,R6,GE v RI,5-Jun-1926,NA,https://afltables.com/afl/stats/players/L/Les_Laver.html,7218
 3181,Alec Proudfoot,14-Sep-1906,R6,SK v HW,5-Jun-1926,NA,https://afltables.com/afl/stats/players/A/Alec_Proudfoot.html,7174
 3182,Jack Shelton,24-Jan-1905,R6,SK v HW,5-Jun-1926,1,https://afltables.com/afl/stats/players/J/Jack_Shelton1.html,7176
-3183,Luke Trainor,17-Dec-1900,R6,SK v HW ,5-Jun-1926,0,https://afltables.com/afl/stats/players/L/Luke_Trainor0.html,7178
+3183,Luke Trainor,17-Dec-1900,R6,SK v HW,5-Jun-1926,0,https://afltables.com/afl/stats/players/L/Luke_Trainor0.html,7178
 3184,Jack Drake,15-Mar-1904,R7,HW v FI,7-Jun-1926,NA,https://afltables.com/afl/stats/players/J/Jack_Drake.html,7227
 3185,Ernie Loveless,6-Dec-1907,R7,SK v CW,7-Jun-1926,NA,https://afltables.com/afl/stats/players/E/Ernie_Loveless.html,3232
 3186,Bruce Mills,24-Dec-1901,R7,GE v ES,7-Jun-1926,NA,https://afltables.com/afl/stats/players/B/Bruce_Mills.html,7219
@@ -6863,7 +6863,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 6861,Noel Ryan,10-Nov-1935,R14,FO v CA,27-Jul-1957,NA,https://afltables.com/afl/stats/players/N/Noel_Ryan.html,9720
 6862,Rod West,13-Aug-1936,R14,GE v CW,27-Jul-1957,NA,https://afltables.com/afl/stats/players/R/Rod_West.html,9742
 6863,Tom Broadbent,12-Nov-1936,R15,FI v RI,3-Aug-1957,NA,https://afltables.com/afl/stats/players/T/Tom_Broadbent.html,9722
-6864,Lyle Anderson,13-Oct-1936,R16,FO v NM ,10-Aug-1957,NA,https://afltables.com/afl/stats/players/L/Lyle_Anderson.html,2459
+6864,Lyle Anderson,13-Oct-1936,R16,FO v NM,10-Aug-1957,NA,https://afltables.com/afl/stats/players/L/Lyle_Anderson.html,2459
 6865,Ron Cabble,10-Feb-1938,R16,HW v GE,10-Aug-1957,NA,https://afltables.com/afl/stats/players/R/Ron_Cabble.html,2628
 6866,John Hoiles,11-Aug-1938,R16,FO v NM,10-Aug-1957,0,https://afltables.com/afl/stats/players/J/John_Hoiles0.html,3070
 6867,James Williams,1-Feb-1937,R16,RI v CA,10-Aug-1957,NA,https://afltables.com/afl/stats/players/J/James_Williams.html,9694
@@ -8734,7 +8734,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 8732,Peter Ruscuklic,15-Dec-1955,R3,FI v CW,19-Apr-1975,NA,https://afltables.com/afl/stats/players/P/Peter_Ruscuklic.html,2420
 8733,Mark Browning,30-Nov-1956,R4,SM v HW,26-Apr-1975,NA,https://afltables.com/afl/stats/players/M/Mark_Browning.html,1557
 8734,John Dean,16-Apr-1956,R4,SM v HW,26-Apr-1975,NA,https://afltables.com/afl/stats/players/J/John_Dean.html,10835
-8735,Steven Icke,7-Mar-1956,R4,NM v FI ,26-Apr-1975,NA,https://afltables.com/afl/stats/players/S/Steven_Icke.html,1830
+8735,Steven Icke,7-Mar-1956,R4,NM v FI,26-Apr-1975,NA,https://afltables.com/afl/stats/players/S/Steven_Icke.html,1830
 8736,Barry Rowlings,21-Aug-1950,R4,HW v SM,26-Apr-1975,NA,https://afltables.com/afl/stats/players/B/Barry_Rowlings.html,2133
 8737,Garry Scott,24-Feb-1954,R4,SM v HW,26-Apr-1975,NA,https://afltables.com/afl/stats/players/G/Garry_Scott.html,10837
 8738,Robert Shepherd,10-Feb-1956,R4,FI v NM,26-Apr-1975,NA,https://afltables.com/afl/stats/players/R/Robert_Shepherd.html,2428
@@ -8887,7 +8887,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 8885,Tony May,17-May-1954,R3,NM v ME,16-Apr-1977,NA,https://afltables.com/afl/stats/players/T/Tony_May.html,10898
 8886,Merv Neagle,7-Mar-1958,R3,ES v CW,16-Apr-1977,NA,https://afltables.com/afl/stats/players/M/Merv_Neagle.html,1375
 8887,Kevin Ablett,26-Mar-1958,R4,HW v CA,23-Apr-1977,NA,https://afltables.com/afl/stats/players/K/Kevin_Ablett.html,1476
-8888,Glenn Scanlon,7-Apr-1956,R4,NM v FO ,23-Apr-1977,NA,https://afltables.com/afl/stats/players/G/Glenn_Scanlon.html,2425
+8888,Glenn Scanlon,7-Apr-1956,R4,NM v FO,23-Apr-1977,NA,https://afltables.com/afl/stats/players/G/Glenn_Scanlon.html,2425
 8889,David Miller,7-Oct-1957,R4,RI v CW,25-Apr-1977,NA,https://afltables.com/afl/stats/players/D/David_Miller.html,10912
 8890,David Young,4-Apr-1954,R4,SM v GE,25-Apr-1977,NA,https://afltables.com/afl/stats/players/D/David_Young.html,2300
 8891,Phil Fleming,18-Sep-1957,R5,FO v SK,30-Apr-1977,NA,https://afltables.com/afl/stats/players/P/Phil_Fleming.html,10921
@@ -13169,40 +13169,40 @@ rank,player,dob,round,match,date,suffix,url,ID
 13167,Clay Hall,12-May-2005,R22,WC v GC,2-Aug-2024*,NA,https://afltables.com/afl/stats/players/C/Clay_Hall.html,13167
 13168,Archie Roberts,18-Nov-2005,R22,ES v FR,4-Aug-2024*,1,https://afltables.com/afl/stats/players/A/Archie_Roberts1.html,13168
 13169,Angus McLennan,2-Sep-2003,R22,SK v BL,4-Aug-2024*,NA,https://afltables.com/afl/stats/players/A/Angus_McLennan.html,13169
-13170,Liam Reidy,14-Jun-2000,R24,FR v GW ,17-Aug-2024*,NA,https://afltables.com/afl/stats/players/L/Liam_Reidy.html,13172
-13171,Cooper Lord,20-Mar-2005,R24,CA v WC ,18-Aug-2024*,NA,https://afltables.com/afl/stats/players/C/Cooper_Lord.html,13170
-13172,Ashton Moir,15-Apr-2005,R24,CA v WC ,18-Aug-2024,NA,https://afltables.com/afl/stats/players/A/Ashton_Moir.html,13171
-13173,Tom Hanily,31-May-2005,R1,SY v HW ,7-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tom_Hanily.html,13173
-13174,James Leake,2-Oct-2005,R1,GW v CW ,9-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/James_Leake.html,13174
-13175,Harry Armstrong,14-Jun-2006,R2,RI v CA ,13-Mar-2025*,NA,https://afltables.com/afl/stats/players/H/Harry_Armstrong.html,13189
-13176,Lucas Camporeale,21-Jul-2006,R2,CA v RI ,13-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Lucas_Camporeale.html,13176
-13177,Sam Lalor,30-Aug-2006,R2,RI v CA ,13-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Sam_Lalor.html,13190
-13178,Luke Trainor,10-Apr-2006,R2,RI v CA ,13-Mar-2025*,1,https://afltables.com/afl/stats/players/L/Luke_Trainor1.html,13191
-13179,Isaac Kako,7-Mar-2006,R2,ES v HW ,14-Mar-2025*,NA,https://afltables.com/afl/stats/players/I/Isaac_Kako.html,13177
-13180,Murphy Reid,30-Jul-2006,R2,FR v GE ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/M/Murphy_Reid.html,13180
-13181,Levi Ashcroft,18-Dec-2006,R2,BL v SY ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Levi_Ashcroft.html,13197
-13182,Riley Bice,26-Sep-2000,R2,SY v BL ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/R/Riley_Bice.html,13195
-13183,Joe Berry,18-Apr-2006,R2,PA v CW ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Joe_Berry.html,13188
-13184,Sam Davidson,13-Dec-2001,R2,WB v NM ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Sam_Davidson.html,13178
-13185,Josh Dolan,11-Nov-2006,R2,WB v NM ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Josh_Dolan.html,13179
-13186,Jacob Konstanty,9-Nov-2004,R2,NM v WB ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Jacob_Konstanty.html,13186
-13187,Finn OSullivan,30-May-2006,R2,NM v WB ,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/F/Finn_OSullivan.html,13187
-13188,Harry Boyd,11-Feb-1998,R2,SK v AD ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/H/Harry_Boyd.html,13192
-13189,Sid Draper,5-Jul-2006,R2,AD v SK ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Sid_Draper.html,13175
-13190,Max Hall,15-Apr-2002,R2,SK v AD ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/M/Max_Hall.html,13193
-13191,Liam OConnell,4-Mar-2003,R2,SK v AD ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Liam_OConnell.html,13194
-13192,Jack Henderson,1-Oct-1999,R2,ME v GW ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Jack_Henderson.html,13181
-13193,Matthew Jefferson,8-Mar-2004,R2,ME v GW ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/M/Matthew_Jefferson.html,13182
-13194,Aidan Johnson,9-Mar-2000,R2,ME v GW ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/A/Aidan_Johnson.html,13183
-13195,Harvey Langford,15-Mar-2006,R2,ME v GW ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/H/Harvey_Langford.html,13184
-13196,Xavier Lindsay,3-Aug-2006,R2,ME v GW ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/X/Xavier_Lindsay.html,13185
-13197,Archer Reid,19-Sep-2005,R2,WC v GC ,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/A/Archer_Reid.html,13196
-13198,Tom Edwards,20-May-2000,R3,ES v AD ,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tom_Edwards.html,13198
-13199,Liam Fawcett,22-Apr-2005,R3,RI v PA ,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Liam_Fawcett.html,13200
-13200,Christian Moraes,8-Nov-2006,R3,PA v RI ,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/C/Christian_Moraes.html,13199
-13201,Isaac Keeler,23-Apr-2004,R3,SK v GE ,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/I/Isaac_Keeler.html,13201
-13202,Will McLachlan,13-Apr-2005,R3,BL v WC ,23-Mar-2025*,NA,https://afltables.com/afl/stats/players/W/Will_McLachlan.html,13202
-13203,Tom Cochrane,27-Jan-2006,R4,PA v ES ,27-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tom_Cochrane.html,13205
-13204,Saad El-Hawli,15-May-2001,R4,ES v PA ,27-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Saad_El-Hawli.html,13203
-13205,Tobie Travaglia,26-Oct-2006,R4,SK v RI ,29-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tobie_Travaglia.html,13206
-13206,Isaiah Dudley,30-Apr-2003,R4,FR v WC ,30-Mar-2025*,NA,https://afltables.com/afl/stats/players/I/Isaiah_Dudley.html,13204
+13170,Liam Reidy,14-Jun-2000,R24,FR v GW,17-Aug-2024*,NA,https://afltables.com/afl/stats/players/L/Liam_Reidy.html,13172
+13171,Cooper Lord,20-Mar-2005,R24,CA v WC,18-Aug-2024*,NA,https://afltables.com/afl/stats/players/C/Cooper_Lord.html,13170
+13172,Ashton Moir,15-Apr-2005,R24,CA v WC,18-Aug-2024,NA,https://afltables.com/afl/stats/players/A/Ashton_Moir.html,13171
+13173,Tom Hanily,31-May-2005,R1,SY v HW,7-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tom_Hanily.html,13173
+13174,James Leake,2-Oct-2005,R1,GW v CW,9-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/James_Leake.html,13174
+13175,Harry Armstrong,14-Jun-2006,R2,RI v CA,13-Mar-2025*,NA,https://afltables.com/afl/stats/players/H/Harry_Armstrong.html,13189
+13176,Lucas Camporeale,21-Jul-2006,R2,CA v RI,13-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Lucas_Camporeale.html,13176
+13177,Sam Lalor,30-Aug-2006,R2,RI v CA,13-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Sam_Lalor.html,13190
+13178,Luke Trainor,10-Apr-2006,R2,RI v CA,13-Mar-2025*,1,https://afltables.com/afl/stats/players/L/Luke_Trainor1.html,13191
+13179,Isaac Kako,7-Mar-2006,R2,ES v HW,14-Mar-2025*,NA,https://afltables.com/afl/stats/players/I/Isaac_Kako.html,13177
+13180,Murphy Reid,30-Jul-2006,R2,FR v GE,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/M/Murphy_Reid.html,13180
+13181,Levi Ashcroft,18-Dec-2006,R2,BL v SY,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Levi_Ashcroft.html,13197
+13182,Riley Bice,26-Sep-2000,R2,SY v BL,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/R/Riley_Bice.html,13195
+13183,Joe Berry,18-Apr-2006,R2,PA v CW,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Joe_Berry.html,13188
+13184,Sam Davidson,13-Dec-2001,R2,WB v NM,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Sam_Davidson.html,13178
+13185,Josh Dolan,11-Nov-2006,R2,WB v NM,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Josh_Dolan.html,13179
+13186,Jacob Konstanty,9-Nov-2004,R2,NM v WB,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Jacob_Konstanty.html,13186
+13187,Finn OSullivan,30-May-2006,R2,NM v WB,15-Mar-2025*,NA,https://afltables.com/afl/stats/players/F/Finn_OSullivan.html,13187
+13188,Harry Boyd,11-Feb-1998,R2,SK v AD,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/H/Harry_Boyd.html,13192
+13189,Sid Draper,5-Jul-2006,R2,AD v SK,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Sid_Draper.html,13175
+13190,Max Hall,15-Apr-2002,R2,SK v AD,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/M/Max_Hall.html,13193
+13191,Liam OConnell,4-Mar-2003,R2,SK v AD,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Liam_OConnell.html,13194
+13192,Jack Henderson,1-Oct-1999,R2,ME v GW,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/J/Jack_Henderson.html,13181
+13193,Matthew Jefferson,8-Mar-2004,R2,ME v GW,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/M/Matthew_Jefferson.html,13182
+13194,Aidan Johnson,9-Mar-2000,R2,ME v GW,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/A/Aidan_Johnson.html,13183
+13195,Harvey Langford,15-Mar-2006,R2,ME v GW,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/H/Harvey_Langford.html,13184
+13196,Xavier Lindsay,3-Aug-2006,R2,ME v GW,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/X/Xavier_Lindsay.html,13185
+13197,Archer Reid,19-Sep-2005,R2,WC v GC,16-Mar-2025*,NA,https://afltables.com/afl/stats/players/A/Archer_Reid.html,13196
+13198,Tom Edwards,20-May-2000,R3,ES v AD,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tom_Edwards.html,13198
+13199,Liam Fawcett,22-Apr-2005,R3,RI v PA,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/L/Liam_Fawcett.html,13200
+13200,Christian Moraes,8-Nov-2006,R3,PA v RI,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/C/Christian_Moraes.html,13199
+13201,Isaac Keeler,23-Apr-2004,R3,SK v GE,22-Mar-2025*,NA,https://afltables.com/afl/stats/players/I/Isaac_Keeler.html,13201
+13202,Will McLachlan,13-Apr-2005,R3,BL v WC,23-Mar-2025*,NA,https://afltables.com/afl/stats/players/W/Will_McLachlan.html,13202
+13203,Tom Cochrane,27-Jan-2006,R4,PA v ES,27-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tom_Cochrane.html,13205
+13204,Saad El-Hawli,15-May-2001,R4,ES v PA,27-Mar-2025*,NA,https://afltables.com/afl/stats/players/S/Saad_El-Hawli.html,13203
+13205,Tobie Travaglia,26-Oct-2006,R4,SK v RI,29-Mar-2025*,NA,https://afltables.com/afl/stats/players/T/Tobie_Travaglia.html,13206
+13206,Isaiah Dudley,30-Apr-2003,R4,FR v WC,30-Mar-2025*,NA,https://afltables.com/afl/stats/players/I/Isaiah_Dudley.html,13204
