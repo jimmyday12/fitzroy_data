@@ -883,7 +883,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 882,Charlie Butler,3-Jun-1881,R12,SM v CA,18-Jul-1903,NA,https://afltables.com/afl/stats/players/C/Charlie_Butler.html,5037
 883,Frank Harris,1-Jun-1883,R12,SK v FI,18-Jul-1903,NA,https://afltables.com/afl/stats/players/F/Frank_Harris.html,5026
 884,Fred Fooks,26-Nov-1880,R13,ES v SM,25-Jul-1903,NA,https://afltables.com/afl/stats/players/F/Fred_Fooks.html,5057
-885,Charlie West,19-May-1884,R13,SM v ES,25-Jul-1903,NA,https://afltables.com/afl/stats/players/C/Charlie_West.html,5051
+885,Charlie West,19-May-1884,R13,SM v ES ,25-Jul-1903,0,https://afltables.com/afl/stats/players/C/Charlie_West0.html,5051
 886,Matt Crowe,1-Sep-1883,R14,CA v ME,8-Aug-1903,NA,https://afltables.com/afl/stats/players/M/Matt_Crowe.html,5083
 887,Alf Gough,4-Jun-1884,R14,CA v ME,8-Aug-1903,0,https://afltables.com/afl/stats/players/A/Alf_Gough0.html,5085
 888,Alf Sharp,3-Feb-1881,R14,FI v GE,8-Aug-1903,NA,https://afltables.com/afl/stats/players/A/Alf_Sharp.html,5070
@@ -13240,6 +13240,10 @@ rank,player,dob,round,match,date,suffix,url,ID
 13238,Archie May,27-Aug-2004,R15,ES v GE,14-Jun-2025*,NA,https://afltables.com/afl/stats/players/A/Archie_May.html,13238
 13239,Mani Liddy,20-Feb-2002,R15,PA v ME,15-Jun-2025*,NA,https://afltables.com/afl/stats/players/M/Mani_Liddy.html,13239
 13240,Tom McCarthy,12-Jul-2000,R15,WC v CA,15-Jun-2025*,NA,https://afltables.com/afl/stats/players/T/Tom_McCarthy.html,13240
-13241,Vigo Visentini,5-Sep-2005,R16,ES v FR ,19-Jun-2025*,NA,https://afltables.com/afl/stats/players/V/Vigo_Visentini.html,13241
-13242,Alix Tauru,16-Nov-2006,R16,SK v CW ,21-Jun-2025*,NA,https://afltables.com/afl/stats/players/A/Alix_Tauru.html,13243
-13243,Jasper Alger,17-Dec-2006,R16,RI v WB ,22-Jun-2025*,NA,https://afltables.com/afl/stats/players/J/Jasper_Alger.html,13242
+13241,Vigo Visentini,5-Sep-2005,R16,ES v FR,19-Jun-2025*,NA,https://afltables.com/afl/stats/players/V/Vigo_Visentini.html,13241
+13242,Alix Tauru,16-Nov-2006,R16,SK v CW,21-Jun-2025*,NA,https://afltables.com/afl/stats/players/A/Alix_Tauru.html,13243
+13243,Jasper Alger,17-Dec-2006,R16,RI v WB,22-Jun-2025*,NA,https://afltables.com/afl/stats/players/J/Jasper_Alger.html,13242
+13244,Billy Wilson,16-Jun-2005,R17,CA v PA ,26-Jun-2025*,2,https://afltables.com/afl/stats/players/B/Billy_Wilson2.html,NA
+13245,Flynn Young,3-Feb-2002,R17,CA v PA ,26-Jun-2025*,NA,https://afltables.com/afl/stats/players/F/Flynn_Young.html,13245
+13246,Jobe Shanahan,2-Aug-2006,R17,WC v CW ,28-Jun-2025*,NA,https://afltables.com/afl/stats/players/J/Jobe_Shanahan.html,13247
+13247,Charlie West,1-Feb-2006,R17,CW v WC ,28-Jun-2025*,1,https://afltables.com/afl/stats/players/C/Charlie_West1.html,13246
