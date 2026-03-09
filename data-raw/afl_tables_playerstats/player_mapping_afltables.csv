@@ -1366,7 +1366,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 1365,Bill Gillespie,14-May-1887,R2,ME v CA,9-May-1908,NA,https://afltables.com/afl/stats/players/B/Bill_Gillespie.html,5510
 1366,Vin Hannaford,25-Apr-1885,R2,RI v UN,9-May-1908,NA,https://afltables.com/afl/stats/players/V/Vin_Hannaford.html,5534
 1367,Ernie Kelly,17-Nov-1884,R2,CA v ME,9-May-1908,NA,https://afltables.com/afl/stats/players/E/Ernie_Kelly.html,5622
-1368,Henry Paternoster,8-Jul-1882,R2,SM v GE,9-May-1908,NA,https://afltables.com/afl/stats/players/H/Henry_Paternoster.html,5561
+1368,Norman Paternoster,8-Jul-1882,R2,SM v GE ,9-May-1908,NA,https://afltables.com/afl/stats/players/N/Norman_Paternoster.html,5561
 1369,Norm Richards,6-Apr-1890,R2,UN v RI,9-May-1908,NA,https://afltables.com/afl/stats/players/N/Norm_Richards.html,5589
 1370,Mick Ryan,23-Jun-1882,R2,CW v FI,9-May-1908,0,https://afltables.com/afl/stats/players/M/Mick_Ryan0.html,5637
 1371,Leo Seward,3-Nov-1885,R2,UN v RI,9-May-1908,NA,https://afltables.com/afl/stats/players/L/Leo_Seward.html,5590
@@ -10318,7 +10318,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 10316,Peter Riccardi,17-Dec-1972,R4,GE v WC,12-Apr-1992,NA,https://afltables.com/afl/stats/players/P/Peter_Riccardi.html,560
 10317,Glenn Kilpatrick,29-Aug-1972,R5,ES v HW,18-Apr-1992,NA,https://afltables.com/afl/stats/players/G/Glenn_Kilpatrick.html,588
 10318,Rohan Welsh,7-Oct-1970,R5,CA v SY,18-Apr-1992,NA,https://afltables.com/afl/stats/players/R/Rohan_Welsh.html,169
-10319,Jonathan Ross,3-Nov-1973,R5,AD v RI,19-Apr-1992,NA,https://afltables.com/afl/stats/players/J/Jonathan_Ross.html,40
+10319,Jonathon Ross,3-Nov-1973,R5,AD v RI ,19-Apr-1992,NA,https://afltables.com/afl/stats/players/J/Jonathon_Ross.html,40
 10320,Stephen Schwerdt,28-May-1968,R5,AD v RI,19-Apr-1992,NA,https://afltables.com/afl/stats/players/S/Stephen_Schwerdt.html,1223
 10321,Dale Fleming,20-Aug-1971,R5,FI v SK,20-Apr-1992,NA,https://afltables.com/afl/stats/players/D/Dale_Fleming.html,4010
 10322,Grant Williams,15-Nov-1969,R5,ME v CW,20-Apr-1992,NA,https://afltables.com/afl/stats/players/G/Grant_Williams.html,11525
@@ -13272,3 +13272,10 @@ rank,player,dob,round,match,date,suffix,url,ID
 13270,Ewan Mackinlay,18-Jul-2003,R25,PA v GC,22-Aug-2025*,NA,https://afltables.com/afl/stats/players/E/Ewan_Mackinlay.html,13269
 13271,Harrison Ramm,5-Dec-2006,R25,PA v GC,22-Aug-2025*,NA,https://afltables.com/afl/stats/players/H/Harrison_Ramm.html,13270
 13272,Lucca Grego,15-Aug-2006,R25,WC v SY,23-Aug-2025*,NA,https://afltables.com/afl/stats/players/L/Lucca_Grego.html,13271
+13273,Harry Dean,13-Nov-2007,R1,CA v SY ,5-Mar-2026*,NA,https://afltables.com/afl/stats/players/H/Harry_Dean.html,13273
+13274,Jagga Smith,28-Jan-2006,R1,CA v SY ,5-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Jagga_Smith.html,13274
+13275,Zeke Uwland,24-Apr-2007,R1,GC v GE ,6-Mar-2026*,NA,https://afltables.com/afl/stats/players/Z/Zeke_Uwland.html,13278
+13276,Phoenix Gothard,7-Sep-2005,R1,GW v HW ,7-Mar-2026*,NA,https://afltables.com/afl/stats/players/P/Phoenix_Gothard.html,13279
+13277,Lachie Jaques,1-Jun-2006,R1,WB v BL ,7-Mar-2026*,NA,https://afltables.com/afl/stats/players/L/Lachie_Jaques.html,13275
+13278,Michael Sellwood,2-Oct-2003,R1,WB v BL ,7-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Michael_Sellwood.html,13276
+13279,Zane Zakostelsky,14-Dec-2005,R1,BL v WB ,7-Mar-2026*,NA,https://afltables.com/afl/stats/players/Z/Zane_Zakostelsky.html,13277
