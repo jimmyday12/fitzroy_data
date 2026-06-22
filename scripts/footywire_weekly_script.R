@@ -8,7 +8,7 @@ library(here)
 library(tidyverse)
 library(fitzRoy)
 library(cli)
-library(fst)
+library(arrow)
 
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
@@ -45,24 +45,12 @@ player_stats <- player_stats %>%
   ungroup() %>%
   distinct()
 
-## Save rescrape
-cli::cli_progress_step("Saving rescraped footywire player stats")
-save(player_stats,
-     file = here::here("data-raw", "player_stats", "player_stats_re_scrape.rda"),
-     version = 2
-)
-
 ## Saving data
-# Old data - will remove this soon
 cli::cli_progress_step("Saving footywire player stats")
 save(player_stats,
      file = here::here("data-raw", "player_stats", "player_stats.rda"),
      version = 2
 )
 
-
-# New data location
-save(player_stats,
-     file = here::here("data-raw-2", "footywire_player_stats.rda"),
-     version = 2
-)
+dir.create(here::here("data"), showWarnings = FALSE)
+arrow::write_parquet(player_stats, here::here("data", "footywire_player_stats.parquet"))
