@@ -8,7 +8,7 @@ library(here)
 library(tidyverse)
 library(fitzRoy)
 library(cli)
-library(fst)
+library(arrow)
 
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
@@ -188,13 +188,6 @@ if (nrow(player_mapping_afltables) == nrow(data_clean)) {
   player_mapping_afltables <- player_mapping_afltables %>%
     dplyr::arrange(rank)
   
-  # Old data, will remove these soon
-  saveRDS(player_mapping_afltables, here::here("data-raw", "afl_tables_playerstats", "player_mapping_afltables.rds"))
-  
-  # New data location
-  saveRDS(player_mapping_afltables, here::here("data-raw-2", "player_mapping_afltables.rds"))
-  
-  # Use CSV going forward
   readr::write_csv(player_mapping_afltables, here::here("data-raw", "afl_tables_playerstats", "player_mapping_afltables.csv"))
 }
 
@@ -235,11 +228,8 @@ id <- afldata %>%
   dplyr::select(Season, Player, ID, Team) %>%
   distinct()
 
-# Old data, will remove these soon
 write_csv(id, here::here("data-raw", "afl_tables_playerstats", "player_ids.csv"))
-write_rds(afldata, here::here("data-raw", "afl_tables_playerstats", "afldata.rds"))
 save(afldata, file = here::here("data-raw", "afl_tables_playerstats", "afldata.rda"))
 
-# New data location
-write_csv(id, here::here("data-raw-2", "afltables_player_ids.csv"))
-save(afldata, file = here::here("data-raw-2", "afltables_player_stats.rda"))
+dir.create(here::here("data"), showWarnings = FALSE)
+arrow::write_parquet(afldata, here::here("data", "afltables_player_stats.parquet"))
