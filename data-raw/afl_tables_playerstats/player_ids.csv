@@ -58666,7 +58666,7 @@ Season,Player,ID,Team
 2026,Josh Gibcus,12947,Richmond
 2026,Campbell Gray,13218,Richmond
 2026,Steely Green,13145,Richmond
-2026,Sam Grlj,NA,Richmond
+2026,Sam Grlj,13290,Richmond
 2026,Jacob Hopper,12440,Richmond
 2026,Sam Lalor,13190,Richmond
 2026,Tom Lynch,11948,Richmond
@@ -58685,10 +58685,10 @@ Season,Player,ID,Team
 2026,Jye Caldwell,12755,Essendon
 2026,Sam Durham,12925,Essendon
 2026,Xavier Duursma,12696,Essendon
-2026,Hussien El Achkar,NA,Essendon
+2026,Hussien El Achkar,13281,Essendon
 2026,Brayden Fiorini,12481,Essendon
 2026,Zak Johnson,13231,Essendon
-2026,Max Kondogiannis,NA,Essendon
+2026,Max Kondogiannis,13282,Essendon
 2026,Kyle Langford,12349,Essendon
 2026,Archie May,13238,Essendon
 2026,Andrew McGrath,12491,Essendon
@@ -58701,15 +58701,15 @@ Season,Player,ID,Team
 2026,Mason Redman,12437,Essendon
 2026,Zach Reid,12889,Essendon
 2026,Archie Roberts,13168,Essendon
-2026,Dyson Sharp,NA,Essendon
+2026,Dyson Sharp,13283,Essendon
 2026,Peter Wright,12366,Essendon
 2026,Cam Mackenzie,13031,Hawthorn
 2026,Ned Reeves,12906,Hawthorn
-2026,Will Lewis,NA,Western Bulldogs
+2026,Will Lewis,13284,Western Bulldogs
 2026,Ryley Sanders,13103,Western Bulldogs
 2026,Jeremy Cameron,12017,Geelong
 2026,Patrick Dangerfield,11700,Geelong
-2026,Mitchell Edwards,NA,Geelong
+2026,Mitchell Edwards,13285,Geelong
 2026,Jye Amiss,12983,Fremantle
 2026,Shai Bolton,12535,Fremantle
 2026,Andrew Brayshaw,12589,Fremantle
@@ -58733,7 +58733,7 @@ Season,Player,ID,Team
 2026,Brandon Walker,12914,Fremantle
 2026,Karl Worner,13075,Fremantle
 2026,Hayden Young,12777,Fremantle
-2026,Daniel Annable,NA,Brisbane Lions
+2026,Daniel Annable,13295,Brisbane Lions
 2026,Noah Answerth,12718,Brisbane Lions
 2026,Sam Draper,12810,Brisbane Lions
 2026,Lincoln McCarthy,12090,Brisbane Lions
@@ -58752,7 +58752,7 @@ Season,Player,ID,Team
 2026,Max Michalanney,13027,Adelaide
 2026,Wayne Milera,12405,Adelaide
 2026,Nick Murray,12872,Adelaide
-2026,Toby Murray,NA,Adelaide
+2026,Toby Murray,13280,Adelaide
 2026,Alex Neal-Bullen,12367,Adelaide
 2026,James Peatling,12934,Adelaide
 2026,Luke Pedlar,12921,Adelaide
@@ -58761,13 +58761,13 @@ Season,Player,ID,Team
 2026,Riley Thilthorpe,12892,Adelaide
 2026,Taylor Walker,11713,Adelaide
 2026,Josh Worrell,12912,Adelaide
-2026,Tom Blamires,NA,North Melbourne
+2026,Tom Blamires,13287,North Melbourne
 2026,Charlie Comben,12938,North Melbourne
 2026,Paul Curtis,12975,North Melbourne
 2026,Caleb Daniel,12373,North Melbourne
 2026,Jack Darling,11905,North Melbourne
 2026,Luke Davies-Uniacke,12590,North Melbourne
-2026,Lachy Dovaston,NA,North Melbourne
+2026,Lachy Dovaston,13288,North Melbourne
 2026,Zane Duursma,13106,North Melbourne
 2026,Jacob Konstanty,13186,North Melbourne
 2026,Nick Larkey,12563,North Melbourne
@@ -58804,7 +58804,7 @@ Season,Player,ID,Team
 2026,Joe Richards,13139,Port Adelaide
 2026,Connor Rozee,12697,Port Adelaide
 2026,Dante Visentini,13073,Port Adelaide
-2026,Jack Watkins,NA,Port Adelaide
+2026,Jack Watkins,13289,Port Adelaide
 2026,Jacob Wehr,12991,Port Adelaide
 2026,Jack Whitlock,13259,Port Adelaide
 2026,Kade Chandler,12756,Melbourne
@@ -58820,7 +58820,7 @@ Season,Player,ID,Team
 2026,Brody Mihocek,12639,Melbourne
 2026,Harry Petty,12653,Melbourne
 2026,Kysaiah Pickett,12771,Melbourne
-2026,Latrelle Pickett,NA,Melbourne
+2026,Latrelle Pickett,13286,Melbourne
 2026,Trent Rivers,12778,Melbourne
 2026,Christian Salem,12272,Melbourne
 2026,Harry Sharp,12864,Melbourne
@@ -58836,17 +58836,17 @@ Season,Player,ID,Team
 2026,Tom Cole,12446,West Coast
 2026,Jamie Cripps,11937,West Coast
 2026,Hamish Davis,13210,West Coast
-2026,Cooper Duff-Tytler,NA,West Coast
+2026,Cooper Duff-Tytler,13291,West Coast
 2026,Liam Duggan,12334,West Coast
-2026,Willem Duursma,NA,West Coast
+2026,Willem Duursma,13292,West Coast
 2026,Matt Flynn,12870,West Coast
 2026,Reuben Ginbey,13038,West Coast
 2026,Jack Graham,12576,West Coast
 2026,Brady Hough,12957,West Coast
-2026,Josh Lindsay,NA,West Coast
+2026,Josh Lindsay,13293,West Coast
 2026,Ryan Maric,13070,West Coast
 2026,Tom McCarthy,13240,West Coast
-2026,Milan Murdock,NA,West Coast
+2026,Milan Murdock,13294,West Coast
 2026,Jacob Newton,13267,West Coast
 2026,Archer Reid,13196,West Coast
 2026,Harley Reid,13111,West Coast
@@ -58867,7 +58867,7 @@ Season,Player,ID,Team
 2026,Charlie Ballard,12625,Gold Coast
 2026,Liam Stocker,12721,St Kilda
 2026,Luke Ryan,12542,Fremantle
-2026,Chris Scerri,NA,Fremantle
+2026,Chris Scerri,13296,Fremantle
 2026,Jack Lukosius,12704,Port Adelaide
 2026,Jackson Mead,12946,Port Adelaide
 2026,Jordon Sweet,12890,Port Adelaide
@@ -58881,8 +58881,8 @@ Season,Player,ID,Team
 2026,Zac Taylor,13159,Adelaide
 2026,Jeremy Howe,11967,Collingwood
 2026,Darcy Moore,12372,Collingwood
-2026,Oscar Steene,NA,Collingwood
-2026,Oliver Hannaford,NA,Greater Western Sydney
+2026,Oscar Steene,13298,Collingwood
+2026,Oliver Hannaford,13302,Greater Western Sydney
 2026,James Leake,13174,Greater Western Sydney
 2026,Dan Butler,12490,St Kilda
 2026,Dougal Howard,12420,St Kilda
@@ -58892,18 +58892,18 @@ Season,Player,ID,Team
 2026,Luke Trainor,13191,Richmond
 2026,Archer Day-Wicks,13223,Essendon
 2026,Saad El-Hawli,13203,Essendon
-2026,Jacob Farrow,NA,Essendon
+2026,Jacob Farrow,13299,Essendon
 2026,Jade Gresham,12415,Essendon
 2026,Matt Guelfi,12612,Essendon
 2026,Callum Coleman-Jones,12730,North Melbourne
 2026,Aidan Corr,12181,North Melbourne
 2026,George Wardlaw,13064,North Melbourne
 2026,Will Brodie,12541,Port Adelaide
-2026,Josh Lai,NA,Port Adelaide
+2026,Josh Lai,13301,Port Adelaide
 2026,Harry Schoenberg,12813,West Coast
-2026,Talor Byrne,NA,Carlton
+2026,Talor Byrne,13297,Carlton
 2026,Francis Evans,12873,Carlton
-2026,Paddy Cross,NA,Melbourne
+2026,Paddy Cross,13300,Melbourne
 2026,Tom McDonald,12009,Melbourne
 2026,Darragh Joyce,12654,Brisbane Lions
 2026,Will Hayes,13228,Collingwood
@@ -58911,14 +58911,14 @@ Season,Player,ID,Team
 2026,Zac Banch,13256,North Melbourne
 2026,Jordan Boyd,12965,Carlton
 2026,Adam Cerra,12603,Carlton
-2026,Wade Derksen,NA,Carlton
+2026,Wade Derksen,13303,Carlton
 2026,Nic Newman,12508,Carlton
 2026,James Borlase,13086,Adelaide
 2026,Reilly OBrien,12473,Adelaide
 2026,Liam Fawcett,13200,Richmond
 2026,Samson Ryan,12918,Richmond
 2026,Ollie Wines,12150,Port Adelaide
-2026,Mitch Zadow,NA,Port Adelaide
+2026,Mitch Zadow,13305,Port Adelaide
 2026,Sandy Brock,13209,West Coast
 2026,Malakai Champion,13250,West Coast
 2026,Matthew Owies,12839,West Coast
@@ -58931,18 +58931,18 @@ Season,Player,ID,Team
 2026,Josh Dolan,13179,Western Bulldogs
 2026,Lachlan McNeil,12854,Western Bulldogs
 2026,Tom Edwards,13198,Essendon
-2026,Jack Dalton,NA,Hawthorn
+2026,Jack Dalton,13304,Hawthorn
 2026,Flynn Perez,12841,Hawthorn
 2026,Jack Bowes,12499,Geelong
 2026,Mitch Hinge,12727,Adelaide
 2026,Nick Haynes,12091,Carlton
-2026,Angus Anderson,NA,Collingwood
+2026,Angus Anderson,13306,Collingwood
 2026,Charlie Spargo,12622,North Melbourne
 2026,Jordan Ridley,12631,Essendon
-2026,Sullivan Robey,NA,Essendon
+2026,Sullivan Robey,13307,Essendon
 2026,Elijah Tsatas,13087,Essendon
 2026,Joel Hamling,12359,Sydney
-2026,Louis Emmett,NA,Western Bulldogs
+2026,Louis Emmett,13308,Western Bulldogs
 2026,Harvey Gallagher,13102,Western Bulldogs
 2026,Jake Kolodjashnij,12370,Geelong
 2026,Elijah Hewett,13044,West Coast
@@ -58951,28 +58951,28 @@ Season,Player,ID,Team
 2026,Aaron Cadman,13054,Greater Western Sydney
 2026,Brent Daniels,12656,Greater Western Sydney
 2026,Nick Madden,13236,Greater Western Sydney
-2026,Oliver Hayes-Brown,NA,Richmond
+2026,Oliver Hayes-Brown,13309,Richmond
 2026,Hunter Clark,12591,St Kilda
 2026,Leek Aleer,13020,Greater Western Sydney
 2026,Toby McMullin,13088,Greater Western Sydney
 2026,Calsher Dear,13135,Hawthorn
-2026,Will McCabe,NA,Hawthorn
+2026,Will McCabe,13311,Hawthorn
 2026,Christian Moraes,13199,Port Adelaide
-2026,Charlie Edwards,NA,Adelaide
-2026,Patrick Retschko,NA,Richmond
+2026,Charlie Edwards,13310,Adelaide
+2026,Patrick Retschko,13313,Richmond
 2026,Max Heath,13254,Melbourne
 2026,Matthew Jefferson,13182,Melbourne
-2026,Xavier Taylor,NA,Melbourne
+2026,Xavier Taylor,13312,Melbourne
 2026,Mason Cox,12428,Fremantle
 2026,Michael Frederick,12801,Fremantle
 2026,Jedd Busslinger,13216,Western Bulldogs
 2026,Ryan Gardner,12732,Western Bulldogs
-2026,Lachlan Smith,NA,Western Bulldogs
+2026,Lachlan Smith,13314,Western Bulldogs
 2026,Adam Treloar,12054,Western Bulldogs
-2026,Billy Cootee,NA,Sydney
-2026,Will Edwards,NA,Sydney
-2026,Tom Burton,NA,Richmond
-2026,Sam Cumming,NA,Richmond
+2026,Billy Cootee,13317,Sydney
+2026,Will Edwards,13318,Sydney
+2026,Tom Burton,13315,Richmond
+2026,Sam Cumming,13316,Richmond
 2026,Jamarra Ugle-Hagan,12923,Gold Coast
 2026,Jeremy Sharp,12820,Fremantle
 2026,Matthew Cottrell,12822,Carlton
@@ -58982,12 +58982,12 @@ Season,Player,ID,Team
 2026,Laitham Vandermeer,12776,Western Bulldogs
 2026,Daniel Curtin,13132,Adelaide
 2026,Nik Cox,12852,Essendon
-2026,Cody Curtin,NA,Brisbane Lions
+2026,Cody Curtin,13319,Brisbane Lions
 2026,Liam Henry,12831,St Kilda
 2026,Liam OConnell,13194,St Kilda
 2026,Ned Moyle,13050,Gold Coast
 2026,Max Ramsden,13058,Hawthorn
-2026,Bodie Ryan,NA,Hawthorn
+2026,Bodie Ryan,13320,Hawthorn
 2026,Billy Wilson,NA,Carlton
 2026,Wil Dawson,13144,North Melbourne
 2026,Hayden McLean,12745,Sydney
@@ -59002,17 +59002,17 @@ Season,Player,ID,Team
 2026,Sam Marshall,13215,Brisbane Lions
 2026,Charlie West,13246,Collingwood
 2026,Nick Holman,12307,Gold Coast
-2026,Tom Anastasopoulos,NA,Port Adelaide
+2026,Tom Anastasopoulos,13322,Port Adelaide
 2026,Will Lorenz,13162,Port Adelaide
 2026,Henry Hustwaite,13091,Hawthorn
-2026,Jack Ison,NA,Carlton
+2026,Jack Ison,13321,Carlton
 2026,Will Setterfield,12567,Essendon
-2026,Charlie Banfield,NA,St Kilda
-2026,Noah Roberts-Thomson,NA,Richmond
+2026,Charlie Banfield,13324,St Kilda
+2026,Noah Roberts-Thomson,13323,Richmond
 2026,Rhett Bazzo,13000,West Coast
-2026,Harrison Oliver,NA,Greater Western Sydney
+2026,Harrison Oliver,13325,Greater Western Sydney
 2026,Bailey Macdonald,13069,Hawthorn
-2026,Cameron Nairn,NA,Hawthorn
+2026,Cameron Nairn,13326,Hawthorn
 2026,Riley Hardeman,13130,North Melbourne
 2026,Tom Hanily,13173,Sydney
 2026,Flynn Young,13245,Carlton
@@ -59021,31 +59021,31 @@ Season,Player,ID,Team
 2026,Luke Cleary,12987,Western Bulldogs
 2026,Will Day,12794,Hawthorn
 2026,Blake Acres,12276,Carlton
-2026,Harry Kyle,NA,Sydney
+2026,Harry Kyle,13327,Sydney
 2026,Peter Ladhams,12729,Sydney
 2026,Harvey Harrison,13068,Collingwood
 2026,Sam Taylor,12644,Greater Western Sydney
-2026,Hugo Hall-Kahan,NA,Adelaide
+2026,Hugo Hall-Kahan,13328,Adelaide
 2026,Cody Weightman,12800,Western Bulldogs
 2026,Zac Fisher,12520,North Melbourne
-2026,Jai Murray,NA,Gold Coast
+2026,Jai Murray,13332,Gold Coast
 2026,Shadeau Brain,13142,Brisbane Lions
 2026,Brandon Starcevich,12668,West Coast
 2026,Tom Cochrane,13205,Port Adelaide
 2026,Angus Hastie,13116,St Kilda
-2026,Campbell Lake,NA,St Kilda
+2026,Campbell Lake,13331,St Kilda
 2026,Harry Jones,12853,Essendon
-2026,Mitch Podhajski,NA,Collingwood
-2026,Luker Kentfield,NA,Melbourne
-2026,Luke Kennedy,NA,Western Bulldogs
+2026,Mitch Podhajski,13329,Collingwood
+2026,Luker Kentfield,13330,Melbourne
+2026,Luke Kennedy,13333,Western Bulldogs
 2026,George Stevens,13249,Geelong
-2026,Lukas Cooke,NA,Melbourne
-2026,Joel Fitzgerald,NA,Melbourne
-2026,Taylor Goad,NA,North Melbourne
+2026,Lukas Cooke,13334,Melbourne
+2026,Joel Fitzgerald,13335,Melbourne
+2026,Taylor Goad,13336,North Melbourne
 2026,Cooper Harvey,13077,North Melbourne
 2026,Tom Gross,13211,West Coast
-2026,Marcus Herbert,NA,West Coast
-2026,Xavier Bamert,NA,Port Adelaide
+2026,Marcus Herbert,13339,West Coast
+2026,Xavier Bamert,13337,Port Adelaide
 2026,Harrison Ramm,13270,Port Adelaide
-2026,Kye Annand,NA,Richmond
+2026,Kye Annand,13338,Richmond
 2026,Eric Hipwood,12454,Brisbane Lions

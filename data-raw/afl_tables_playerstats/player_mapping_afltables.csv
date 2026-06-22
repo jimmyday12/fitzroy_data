@@ -27,7 +27,7 @@ rank,player,dob,round,match,date,suffix,url,ID
 26,Dick Condon,19-Mar-1876,R1,CW v SK,8-May-1897,NA,https://afltables.com/afl/stats/players/D/Dick_Condon.html,4455
 27,Jack Conway,26-Mar-1867,R1,GE v ES,8-May-1897,NA,https://afltables.com/afl/stats/players/J/Jack_Conway.html,4386
 28,Arthur Cummins,19-Aug-1876,R1,CA v FI,8-May-1897,NA,https://afltables.com/afl/stats/players/A/Arthur_Cummins.html,4427
-29,Jack Dalton,15-Apr-1876,R1,FI v CA ,8-May-1897,0,https://afltables.com/afl/stats/players/J/Jack_Dalton0.html,4349
+29,Jack Dalton,15-Apr-1876,R1,FI v CA,8-May-1897,0,https://afltables.com/afl/stats/players/J/Jack_Dalton0.html,4349
 30,Jim Darcy,29-Jan-1875,R1,ES v GE,8-May-1897,NA,https://afltables.com/afl/stats/players/J/Jim_Darcy.html,4318
 31,Jack Deas,5-Nov-1875,R1,SM v ME,8-May-1897,NA,https://afltables.com/afl/stats/players/J/Jack_Deas.html,4285
 32,Pat Descrimes,31-Dec-1877,R1,FI v CA,8-May-1897,NA,https://afltables.com/afl/stats/players/P/Pat_Descrimes.html,4351
@@ -13279,63 +13279,63 @@ rank,player,dob,round,match,date,suffix,url,ID
 13277,Lachie Jaques,1-Jun-2006,R1,WB v BL,7-Mar-2026*,NA,https://afltables.com/afl/stats/players/L/Lachie_Jaques.html,13275
 13278,Michael Sellwood,2-Oct-2003,R1,WB v BL,7-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Michael_Sellwood.html,13276
 13279,Zane Zakostelsky,14-Dec-2005,R1,BL v WB,7-Mar-2026*,NA,https://afltables.com/afl/stats/players/Z/Zane_Zakostelsky.html,13277
-13280,Sam Grlj,26-Jul-2007,R2,RI v CA ,12-Mar-2026*,NA,https://afltables.com/afl/stats/players/S/Sam_Grlj.html,13290
-13281,Hussien El Achkar,2-Apr-2007,R2,ES v HW ,13-Mar-2026*,NA,https://afltables.com/afl/stats/players/H/Hussien_El_Achkar.html,13281
-13282,Max Kondogiannis,14-Nov-2007,R2,ES v HW ,13-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Max_Kondogiannis.html,13282
-13283,Dyson Sharp,23-May-2007,R2,ES v HW ,13-Mar-2026*,NA,https://afltables.com/afl/stats/players/D/Dyson_Sharp.html,13283
-13284,Will Lewis,5-May-1999,R2,WB v GW ,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/W/Will_Lewis.html,13284
-13285,Mitchell Edwards,2-Jun-2005,R2,GE v FR ,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Mitchell_Edwards.html,13285
-13286,Daniel Annable,5-Apr-2007,R2,BL v SY ,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/D/Daniel_Annable.html,13295
-13287,Toby Murray,3-Nov-2003,R2,AD v CW ,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/T/Toby_Murray.html,13280
-13288,Tom Blamires,13-Aug-2002,R2,NM v PA ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/T/Tom_Blamires.html,13287
-13289,Lachy Dovaston,29-May-2007,R2,NM v PA ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/L/Lachy_Dovaston.html,13288
-13290,Jack Watkins,18-Dec-2000,R2,PA v NM ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Jack_Watkins.html,13289
-13291,Latrelle Pickett,28-Dec-2005,R2,ME v SK ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/L/Latrelle_Pickett.html,13286
-13292,Cooper Duff-Tytler,22-Aug-2007,R2,WC v GC ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/C/Cooper_Duff-Tytler.html,13291
-13293,Willem Duursma,21-Jun-2007,R2,WC v GC ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/W/Willem_Duursma.html,13292
-13294,Josh Lindsay,7-Apr-2007,R2,WC v GC ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Josh_Lindsay.html,13293
-13295,Milan Murdock,30-Jun-2000,R2,WC v GC ,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Milan_Murdock.html,13294
-13296,Chris Scerri,6-Jul-2006,R3,FR v ME ,21-Mar-2026*,NA,https://afltables.com/afl/stats/players/C/Chris_Scerri.html,13296
-13297,Oliver Hannaford,1-Sep-2006,R4,GW v CW ,27-Mar-2026*,NA,https://afltables.com/afl/stats/players/O/Oliver_Hannaford.html,13302
-13298,Oscar Steene,23-Aug-2003,R4,CW v GW ,27-Mar-2026*,NA,https://afltables.com/afl/stats/players/O/Oscar_Steene.html,13298
-13299,Jacob Farrow,21-Sep-2007,R4,ES v NM ,28-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Jacob_Farrow.html,13299
-13300,Josh Lai,1-Oct-2005,R4,PA v WC ,29-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Josh_Lai.html,13301
-13301,Talor Byrne,14-Nov-2007,R4,CA v ME ,29-Mar-2026*,NA,https://afltables.com/afl/stats/players/T/Talor_Byrne.html,13297
-13302,Paddy Cross,14-Feb-2003,R4,ME v CA ,29-Mar-2026*,NA,https://afltables.com/afl/stats/players/P/Paddy_Cross.html,13300
-13303,Wade Derksen,18-Jun-2001,R5,CA v NM ,3-Apr-2026*,NA,https://afltables.com/afl/stats/players/W/Wade_Derksen.html,13303
-13304,Mitch Zadow,11-Mar-2004,R5,PA v RI ,4-Apr-2026*,NA,https://afltables.com/afl/stats/players/M/Mitch_Zadow.html,13305
-13305,Jack Dalton,5-Apr-2007,R5,HW v GE ,6-Apr-2026*,1,https://afltables.com/afl/stats/players/J/Jack_Dalton1.html,13304
-13306,Angus Anderson,25-May-2003,R6,CW v FR ,10-Apr-2026*,NA,https://afltables.com/afl/stats/players/A/Angus_Anderson.html,13306
-13307,Sullivan Robey,4-Oct-2007,R6,ES v ME ,11-Apr-2026*,NA,https://afltables.com/afl/stats/players/S/Sullivan_Robey.html,13307
-13308,Louis Emmett,23-Mar-2007,R6,WB v HW ,11-Apr-2026*,NA,https://afltables.com/afl/stats/players/L/Louis_Emmett.html,13308
-13309,Oliver Hayes-Brown,28-Apr-2000,R6,RI v GW ,12-Apr-2026*,NA,https://afltables.com/afl/stats/players/O/Oliver_Hayes-Brown.html,13309
-13310,Will McCabe,29-Sep-2005,R7,HW v PA ,18-Apr-2026*,NA,https://afltables.com/afl/stats/players/W/Will_McCabe.html,13311
-13311,Charlie Edwards,18-May-2005,R7,AD v SK ,18-Apr-2026*,NA,https://afltables.com/afl/stats/players/C/Charlie_Edwards.html,13310
-13312,Patrick Retschko,28-Feb-2006,R7,RI v NM ,19-Apr-2026*,NA,https://afltables.com/afl/stats/players/P/Patrick_Retschko.html,13313
-13313,Xavier Taylor,30-Jan-2007,R7,ME v BL ,19-Apr-2026*,NA,https://afltables.com/afl/stats/players/X/Xavier_Taylor.html,13312
-13314,Billy Cootee,18-Dec-2002,R8,SY v WB ,23-Apr-2026*,NA,https://afltables.com/afl/stats/players/B/Billy_Cootee.html,13317
-13315,Will Edwards,8-May-2003,R8,SY v WB ,23-Apr-2026*,NA,https://afltables.com/afl/stats/players/W/Will_Edwards.html,13318
-13316,Lachlan Smith,5-Oct-2005,R8,WB v SY ,23-Apr-2026*,NA,https://afltables.com/afl/stats/players/L/Lachlan_Smith.html,13314
-13317,Tom Burton,9-Jan-2007,R8,RI v ME ,24-Apr-2026*,NA,https://afltables.com/afl/stats/players/T/Tom_Burton.html,13315
-13318,Sam Cumming,27-Jul-2007,R8,RI v ME ,24-Apr-2026*,NA,https://afltables.com/afl/stats/players/S/Sam_Cumming.html,13316
-13319,Cody Curtin,18-May-2007,R9,BL v ES ,2-May-2026*,NA,https://afltables.com/afl/stats/players/C/Cody_Curtin.html,13319
-13320,Bodie Ryan,20-Apr-2005,R10,HW v FR ,7-May-2026*,NA,https://afltables.com/afl/stats/players/B/Bodie_Ryan.html,13320
-13321,Tom Anastasopoulos,31-May-2005,R11,PA v GC ,15-May-2026*,NA,https://afltables.com/afl/stats/players/T/Tom_Anastasopoulos.html,13322
-13322,Jack Ison,26-Mar-2007,R11,CA v WB ,16-May-2026*,NA,https://afltables.com/afl/stats/players/J/Jack_Ison.html,13321
-13323,Charlie Banfield,18-Jul-2007,R11,SK v RI ,17-May-2026*,NA,https://afltables.com/afl/stats/players/C/Charlie_Banfield.html,13324
-13324,Noah Roberts-Thomson,29-Mar-2007,R11,RI v SK ,17-May-2026*,NA,https://afltables.com/afl/stats/players/N/Noah_Roberts-Thomson.html,13323
-13325,Harrison Oliver,15-Jun-2006,R11,GW v WC ,17-May-2026*,NA,https://afltables.com/afl/stats/players/H/Harrison_Oliver.html,13325
-13326,Cameron Nairn,15-Oct-2007,R12,HW v AD ,21-May-2026*,NA,https://afltables.com/afl/stats/players/C/Cameron_Nairn.html,13326
-13327,Harry Kyle,16-Jul-2007,R13,SY v RI ,30-May-2026*,NA,https://afltables.com/afl/stats/players/H/Harry_Kyle.html,13327
-13328,Hugo Hall-Kahan,22-Sep-2003,R14,AD v GE ,4-Jun-2026*,NA,https://afltables.com/afl/stats/players/H/Hugo_Hall-Kahan.html,13328
-13329,Jai Murray,9-Mar-2007,R14,GC v BL ,6-Jun-2026*,NA,https://afltables.com/afl/stats/players/J/Jai_Murray.html,13332
-13330,Campbell Lake,11-Aug-2004,R14,SK v SY ,7-Jun-2026*,NA,https://afltables.com/afl/stats/players/C/Campbell_Lake.html,13331
-13331,Luker Kentfield,10-Sep-2005,R14,ME v CW ,8-Jun-2026*,NA,https://afltables.com/afl/stats/players/L/Luker_Kentfield.html,13330
-13332,Mitch Podhajski,4-Jan-1999,R14,CW v ME ,8-Jun-2026*,NA,https://afltables.com/afl/stats/players/M/Mitch_Podhajski.html,13329
-13333,Luke Kennedy,11-Oct-2006,R15,WB v AD ,11-Jun-2026*,NA,https://afltables.com/afl/stats/players/L/Luke_Kennedy.html,13333
-13334,Lukas Cooke,26-Sep-2003,R15,ME v ES ,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/L/Lukas_Cooke.html,13334
-13335,Joel Fitzgerald,8-Aug-2003,R15,ME v ES ,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/J/Joel_Fitzgerald.html,13335
-13336,Taylor Goad,28-Apr-2005,R15,NM v WC ,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/T/Taylor_Goad.html,13336
-13337,Marcus Herbert,13-Aug-2002,R15,WC v NM ,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/M/Marcus_Herbert.html,13339
-13338,Xavier Bamert,29-Jan-2007,R15,PA v SY ,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/X/Xavier_Bamert.html,13337
-13339,Kye Annand,14-Oct-2003,R15,RI v BL ,14-Jun-2026*,NA,https://afltables.com/afl/stats/players/K/Kye_Annand.html,13338
+13280,Sam Grlj,26-Jul-2007,R2,RI v CA,12-Mar-2026*,NA,https://afltables.com/afl/stats/players/S/Sam_Grlj.html,13290
+13281,Hussien El Achkar,2-Apr-2007,R2,ES v HW,13-Mar-2026*,NA,https://afltables.com/afl/stats/players/H/Hussien_El_Achkar.html,13281
+13282,Max Kondogiannis,14-Nov-2007,R2,ES v HW,13-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Max_Kondogiannis.html,13282
+13283,Dyson Sharp,23-May-2007,R2,ES v HW,13-Mar-2026*,NA,https://afltables.com/afl/stats/players/D/Dyson_Sharp.html,13283
+13284,Will Lewis,5-May-1999,R2,WB v GW,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/W/Will_Lewis.html,13284
+13285,Mitchell Edwards,2-Jun-2005,R2,GE v FR,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Mitchell_Edwards.html,13285
+13286,Daniel Annable,5-Apr-2007,R2,BL v SY,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/D/Daniel_Annable.html,13295
+13287,Toby Murray,3-Nov-2003,R2,AD v CW,14-Mar-2026*,NA,https://afltables.com/afl/stats/players/T/Toby_Murray.html,13280
+13288,Tom Blamires,13-Aug-2002,R2,NM v PA,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/T/Tom_Blamires.html,13287
+13289,Lachy Dovaston,29-May-2007,R2,NM v PA,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/L/Lachy_Dovaston.html,13288
+13290,Jack Watkins,18-Dec-2000,R2,PA v NM,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Jack_Watkins.html,13289
+13291,Latrelle Pickett,28-Dec-2005,R2,ME v SK,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/L/Latrelle_Pickett.html,13286
+13292,Cooper Duff-Tytler,22-Aug-2007,R2,WC v GC,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/C/Cooper_Duff-Tytler.html,13291
+13293,Willem Duursma,21-Jun-2007,R2,WC v GC,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/W/Willem_Duursma.html,13292
+13294,Josh Lindsay,7-Apr-2007,R2,WC v GC,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Josh_Lindsay.html,13293
+13295,Milan Murdock,30-Jun-2000,R2,WC v GC,15-Mar-2026*,NA,https://afltables.com/afl/stats/players/M/Milan_Murdock.html,13294
+13296,Chris Scerri,6-Jul-2006,R3,FR v ME,21-Mar-2026*,NA,https://afltables.com/afl/stats/players/C/Chris_Scerri.html,13296
+13297,Oliver Hannaford,1-Sep-2006,R4,GW v CW,27-Mar-2026*,NA,https://afltables.com/afl/stats/players/O/Oliver_Hannaford.html,13302
+13298,Oscar Steene,23-Aug-2003,R4,CW v GW,27-Mar-2026*,NA,https://afltables.com/afl/stats/players/O/Oscar_Steene.html,13298
+13299,Jacob Farrow,21-Sep-2007,R4,ES v NM,28-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Jacob_Farrow.html,13299
+13300,Josh Lai,1-Oct-2005,R4,PA v WC,29-Mar-2026*,NA,https://afltables.com/afl/stats/players/J/Josh_Lai.html,13301
+13301,Talor Byrne,14-Nov-2007,R4,CA v ME,29-Mar-2026*,NA,https://afltables.com/afl/stats/players/T/Talor_Byrne.html,13297
+13302,Paddy Cross,14-Feb-2003,R4,ME v CA,29-Mar-2026*,NA,https://afltables.com/afl/stats/players/P/Paddy_Cross.html,13300
+13303,Wade Derksen,18-Jun-2001,R5,CA v NM,3-Apr-2026*,NA,https://afltables.com/afl/stats/players/W/Wade_Derksen.html,13303
+13304,Mitch Zadow,11-Mar-2004,R5,PA v RI,4-Apr-2026*,NA,https://afltables.com/afl/stats/players/M/Mitch_Zadow.html,13305
+13305,Jack Dalton,5-Apr-2007,R5,HW v GE,6-Apr-2026*,1,https://afltables.com/afl/stats/players/J/Jack_Dalton1.html,13304
+13306,Angus Anderson,25-May-2003,R6,CW v FR,10-Apr-2026*,NA,https://afltables.com/afl/stats/players/A/Angus_Anderson.html,13306
+13307,Sullivan Robey,4-Oct-2007,R6,ES v ME,11-Apr-2026*,NA,https://afltables.com/afl/stats/players/S/Sullivan_Robey.html,13307
+13308,Louis Emmett,23-Mar-2007,R6,WB v HW,11-Apr-2026*,NA,https://afltables.com/afl/stats/players/L/Louis_Emmett.html,13308
+13309,Oliver Hayes-Brown,28-Apr-2000,R6,RI v GW,12-Apr-2026*,NA,https://afltables.com/afl/stats/players/O/Oliver_Hayes-Brown.html,13309
+13310,Will McCabe,29-Sep-2005,R7,HW v PA,18-Apr-2026*,NA,https://afltables.com/afl/stats/players/W/Will_McCabe.html,13311
+13311,Charlie Edwards,18-May-2005,R7,AD v SK,18-Apr-2026*,NA,https://afltables.com/afl/stats/players/C/Charlie_Edwards.html,13310
+13312,Patrick Retschko,28-Feb-2006,R7,RI v NM,19-Apr-2026*,NA,https://afltables.com/afl/stats/players/P/Patrick_Retschko.html,13313
+13313,Xavier Taylor,30-Jan-2007,R7,ME v BL,19-Apr-2026*,NA,https://afltables.com/afl/stats/players/X/Xavier_Taylor.html,13312
+13314,Billy Cootee,18-Dec-2002,R8,SY v WB,23-Apr-2026*,NA,https://afltables.com/afl/stats/players/B/Billy_Cootee.html,13317
+13315,Will Edwards,8-May-2003,R8,SY v WB,23-Apr-2026*,NA,https://afltables.com/afl/stats/players/W/Will_Edwards.html,13318
+13316,Lachlan Smith,5-Oct-2005,R8,WB v SY,23-Apr-2026*,NA,https://afltables.com/afl/stats/players/L/Lachlan_Smith.html,13314
+13317,Tom Burton,9-Jan-2007,R8,RI v ME,24-Apr-2026*,NA,https://afltables.com/afl/stats/players/T/Tom_Burton.html,13315
+13318,Sam Cumming,27-Jul-2007,R8,RI v ME,24-Apr-2026*,NA,https://afltables.com/afl/stats/players/S/Sam_Cumming.html,13316
+13319,Cody Curtin,18-May-2007,R9,BL v ES,2-May-2026*,NA,https://afltables.com/afl/stats/players/C/Cody_Curtin.html,13319
+13320,Bodie Ryan,20-Apr-2005,R10,HW v FR,7-May-2026*,NA,https://afltables.com/afl/stats/players/B/Bodie_Ryan.html,13320
+13321,Tom Anastasopoulos,31-May-2005,R11,PA v GC,15-May-2026*,NA,https://afltables.com/afl/stats/players/T/Tom_Anastasopoulos.html,13322
+13322,Jack Ison,26-Mar-2007,R11,CA v WB,16-May-2026*,NA,https://afltables.com/afl/stats/players/J/Jack_Ison.html,13321
+13323,Charlie Banfield,18-Jul-2007,R11,SK v RI,17-May-2026*,NA,https://afltables.com/afl/stats/players/C/Charlie_Banfield.html,13324
+13324,Noah Roberts-Thomson,29-Mar-2007,R11,RI v SK,17-May-2026*,NA,https://afltables.com/afl/stats/players/N/Noah_Roberts-Thomson.html,13323
+13325,Harrison Oliver,15-Jun-2006,R11,GW v WC,17-May-2026*,NA,https://afltables.com/afl/stats/players/H/Harrison_Oliver.html,13325
+13326,Cameron Nairn,15-Oct-2007,R12,HW v AD,21-May-2026*,NA,https://afltables.com/afl/stats/players/C/Cameron_Nairn.html,13326
+13327,Harry Kyle,16-Jul-2007,R13,SY v RI,30-May-2026*,NA,https://afltables.com/afl/stats/players/H/Harry_Kyle.html,13327
+13328,Hugo Hall-Kahan,22-Sep-2003,R14,AD v GE,4-Jun-2026*,NA,https://afltables.com/afl/stats/players/H/Hugo_Hall-Kahan.html,13328
+13329,Jai Murray,9-Mar-2007,R14,GC v BL,6-Jun-2026*,NA,https://afltables.com/afl/stats/players/J/Jai_Murray.html,13332
+13330,Campbell Lake,11-Aug-2004,R14,SK v SY,7-Jun-2026*,NA,https://afltables.com/afl/stats/players/C/Campbell_Lake.html,13331
+13331,Luker Kentfield,10-Sep-2005,R14,ME v CW,8-Jun-2026*,NA,https://afltables.com/afl/stats/players/L/Luker_Kentfield.html,13330
+13332,Mitch Podhajski,4-Jan-1999,R14,CW v ME,8-Jun-2026*,NA,https://afltables.com/afl/stats/players/M/Mitch_Podhajski.html,13329
+13333,Luke Kennedy,11-Oct-2006,R15,WB v AD,11-Jun-2026*,NA,https://afltables.com/afl/stats/players/L/Luke_Kennedy.html,13333
+13334,Lukas Cooke,26-Sep-2003,R15,ME v ES,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/L/Lukas_Cooke.html,13334
+13335,Joel Fitzgerald,8-Aug-2003,R15,ME v ES,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/J/Joel_Fitzgerald.html,13335
+13336,Taylor Goad,28-Apr-2005,R15,NM v WC,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/T/Taylor_Goad.html,13336
+13337,Marcus Herbert,13-Aug-2002,R15,WC v NM,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/M/Marcus_Herbert.html,13339
+13338,Xavier Bamert,29-Jan-2007,R15,PA v SY,13-Jun-2026*,NA,https://afltables.com/afl/stats/players/X/Xavier_Bamert.html,13337
+13339,Kye Annand,14-Oct-2003,R15,RI v BL,14-Jun-2026*,NA,https://afltables.com/afl/stats/players/K/Kye_Annand.html,13338
