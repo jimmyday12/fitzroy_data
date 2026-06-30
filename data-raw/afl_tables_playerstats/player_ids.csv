@@ -57855,7 +57855,7 @@ Season,Player,ID,Team
 2025,Will Ashcroft,13040,Brisbane Lions
 2025,Zac Bailey,12610,Brisbane Lions
 2025,Jarrod Berry,12519,Brisbane Lions
-2025,Charlie Cameron,12277,Brisbane Lions
+2025,Charlie Cameron,NA,Brisbane Lions
 2025,Sam Day,11947,Brisbane Lions
 2025,Josh Dunkley,12408,Brisbane Lions
 2025,Jaspa Fletcher,13072,Brisbane Lions
@@ -57956,7 +57956,7 @@ Season,Player,ID,Team
 2025,Kamdyn McIntosh,12317,Richmond
 2025,Ben Miller,12941,Richmond
 2025,Toby Nankervis,12374,Richmond
-2025,Jack Ross,12712,Richmond
+2025,Jack Ross,NA,Richmond
 2025,Jayden Short,12418,Richmond
 2025,Tyler Sonsie,13014,Richmond
 2025,Tim Taranto,12504,Richmond
@@ -58179,7 +58179,7 @@ Season,Player,ID,Team
 2025,Harry Edwards,12811,West Coast
 2025,Matt Flynn,12870,West Coast
 2025,Reuben Ginbey,13038,West Coast
-2025,Jack Graham,12576,West Coast
+2025,Jack Graham,NA,West Coast
 2025,Elijah Hewett,13044,West Coast
 2025,Brady Hough,12957,West Coast
 2025,Jayden Hunt,4729,West Coast
@@ -58243,7 +58243,7 @@ Season,Player,ID,Team
 2025,Jesse Hogan,12321,Greater Western Sydney
 2025,Jake Stringer,12167,Greater Western Sydney
 2025,James Borlase,13086,Adelaide
-2025,Jack Williams,12962,West Coast
+2025,Jack Williams,NA,West Coast
 2025,James Aish,12250,Fremantle
 2025,Isaiah Dudley,13204,Fremantle
 2025,Billy Frampton,12676,Collingwood
@@ -58568,7 +58568,7 @@ Season,Player,ID,Team
 2026,Will Ashcroft,13040,Brisbane Lions
 2026,Zac Bailey,12610,Brisbane Lions
 2026,Jarrod Berry,12519,Brisbane Lions
-2026,Charlie Cameron,12277,Brisbane Lions
+2026,Charlie Cameron,NA,Brisbane Lions
 2026,Keidean Coleman,12838,Brisbane Lions
 2026,Josh Dunkley,12408,Brisbane Lions
 2026,Jaspa Fletcher,13072,Brisbane Lions
@@ -58676,7 +58676,7 @@ Season,Player,ID,Team
 2026,Toby Nankervis,12374,Richmond
 2026,Hugo Ralphsmith,12902,Richmond
 2026,Maurice Rioli,12935,Richmond
-2026,Jack Ross,12712,Richmond
+2026,Jack Ross,NA,Richmond
 2026,Jayden Short,12418,Richmond
 2026,Tim Taranto,12504,Richmond
 2026,James Trezise,13095,Richmond
@@ -58841,7 +58841,7 @@ Season,Player,ID,Team
 2026,Willem Duursma,13292,West Coast
 2026,Matt Flynn,12870,West Coast
 2026,Reuben Ginbey,13038,West Coast
-2026,Jack Graham,12576,West Coast
+2026,Jack Graham,NA,West Coast
 2026,Brady Hough,12957,West Coast
 2026,Josh Lindsay,13293,West Coast
 2026,Ryan Maric,13070,West Coast
@@ -58976,7 +58976,7 @@ Season,Player,ID,Team
 2026,Jamarra Ugle-Hagan,12923,Gold Coast
 2026,Jeremy Sharp,12820,Fremantle
 2026,Matthew Cottrell,12822,Carlton
-2026,Jack Williams,12962,West Coast
+2026,Jack Williams,NA,West Coast
 2026,Conor McKenna,12391,Brisbane Lions
 2026,Nick Coffield,12608,Western Bulldogs
 2026,Laitham Vandermeer,12776,Western Bulldogs
@@ -59049,7 +59049,9 @@ Season,Player,ID,Team
 2026,Harrison Ramm,13270,Port Adelaide
 2026,Kye Annand,13338,Richmond
 2026,Eric Hipwood,12454,Brisbane Lions
-2026,Beau Addinsall,NA,Gold Coast
+2026,Beau Addinsall,13341,Gold Coast
 2026,Mark Keane,12809,Adelaide
-2026,Sam Swadling,NA,Collingwood
+2026,Sam Swadling,13340,Collingwood
 2026,Taj Hotton,13253,Richmond
+2026,Brandon Zerk-Thatcher,12757,Port Adelaide
+2026,Josh Goater,13025,North Melbourne
