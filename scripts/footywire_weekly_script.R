@@ -10,6 +10,10 @@ library(fitzRoy)
 library(cli)
 library(arrow)
 
+# footywire.com returns HTTP 406 for requests without a browser-like
+# User-Agent, which breaks xml2::read_html() calls inside fitzRoy.
+options(HTTPUserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
 total_seasons <- 1897:end_year
