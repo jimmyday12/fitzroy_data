@@ -12,7 +12,15 @@ library(arrow)
 
 # footywire.com returns HTTP 406 for requests without a browser-like
 # User-Agent, which breaks xml2::read_html() calls inside fitzRoy.
-options(HTTPUserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+# fitzRoy's read_html_fitzroy() sets HTTPUserAgent itself for the duration of
+# every read, so setting HTTPUserAgent here has no effect - the option it
+# honours is fitzRoy.user_agent. Set both: the first covers fitzRoy's scrapers,
+# the second covers any direct url()/read_html() calls in this script.
+fw_user_agent <- "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+options(
+  fitzRoy.user_agent = fw_user_agent,
+  HTTPUserAgent = fw_user_agent
+)
 
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))

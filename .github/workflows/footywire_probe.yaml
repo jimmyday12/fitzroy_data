@@ -1,0 +1,68 @@
+# Temporary diagnostic workflow.
+#
+# The weekly footywire scrape has failed on every run since 2026-07-07 with
+# `open.connection(): cannot open the connection` on the very first request,
+# in ~200-500ms. xml2 swallows the underlying HTTP status, so this probe
+# reports it directly - across runner OSes and User-Agents - to tell us
+# whether footywire.com is refusing GitHub-hosted runners outright or only
+# rejecting the User-Agent fitzRoy sends.
+#
+# Delete once the cause is confirmed.
+name: footywire connectivity probe
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Outbound IP
+        shell: bash
+        run: curl -s --max-time 20 https://api.ipify.org || echo "(ipify unreachable)"
+
+      - name: curl footywire with a range of User-Agents
+        shell: bash
+        run: |
+          url="https://www.footywire.com/afl/footy/ft_match_list?year=2010"
+          probe() {
+            printf '%-55s ' "$1"
+            curl -s -o /dev/null --max-time 30 \
+              -w 'http=%{http_code} exitcode=%{exitcode} time=%{time_total}s\n' \
+              -A "$1" "$url" || echo "curl failed"
+          }
+          probe "fitzRoy R package (https://github.com/jimmyday12/fitzRoy)"
+          probe "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          probe "R (4.6.1 aarch64-apple-darwin20)"
+          echo "--- default curl UA:"
+          curl -s -o /dev/null --max-time 30 -w 'http=%{http_code} exitcode=%{exitcode}\n' "$url" || true
+          echo "--- afltables control:"
+          curl -s -o /dev/null --max-time 30 -w 'http=%{http_code} exitcode=%{exitcode}\n' \
+            -A "fitzRoy R package" "https://afltables.com/afl/seas/2025.html" || true
+
+      - uses: r-lib/actions/setup-r@v2
+
+      - name: R url() probe (shows the status xml2 hides)
+        shell: Rscript {0}
+        run: |
+          url <- "https://www.footywire.com/afl/footy/ft_match_list?year=2010"
+          try_ua <- function(ua) {
+            options(HTTPUserAgent = ua)
+            res <- withCallingHandlers(
+              tryCatch({
+                con <- base::url(url, "rb"); on.exit(close(con))
+                length(readLines(con, n = 5, warn = FALSE)); "OK"
+              }, error = function(e) paste("ERROR:", conditionMessage(e))),
+              warning = function(w) {
+                message("  warning: ", conditionMessage(w))
+                invokeRestart("muffleWarning")
+              }
+            )
+            cat(sprintf("%s\n  -> %s\n", ua, res))
+          }
+          try_ua("fitzRoy R package (https://github.com/jimmyday12/fitzRoy)")
+          try_ua("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
