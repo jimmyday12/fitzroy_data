@@ -22,6 +22,29 @@ options(
   HTTPUserAgent = fw_user_agent
 )
 
+source(here::here("scripts", "helpers", "network.R"))
+patch_fitzroy_reader()
+
+# Preflight ----------------------------------------
+# As of 2026-07-07 footywire.com answers every GitHub-hosted runner with a
+# 503, on all three runner OSes and regardless of User-Agent, while serving
+# the same request fine from a normal connection. fitzRoy reads pages through
+# xml2, which swallows the status and reports only "cannot open the
+# connection" from somewhere inside a purrr::map() - so check first and say
+# what actually happened.
+fw_probe_url <- "https://www.footywire.com/afl/footy/ft_match_list?year=2010"
+fw_status <- http_status(fw_probe_url, user_agent = fw_user_agent)
+
+if (!is.na(fw_status) && fw_status != 200) {
+  cli::cli_abort(c(
+    "footywire.com returned HTTP {fw_status} for {.url {fw_probe_url}}.",
+    "i" = "503 here means the host is refusing this runner's IP, not a bad
+           fixture or User-Agent - the scrape cannot run from a
+           GitHub-hosted runner.",
+    "i" = "Run this job on a self-hosted runner with an unblocked IP."
+  ))
+}
+
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
 total_seasons <- 1897:end_year

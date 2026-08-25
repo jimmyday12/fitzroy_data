@@ -10,6 +10,11 @@ library(fitzRoy)
 library(cli)
 library(arrow)
 
+# A single throttled or blipped request used to abort the whole run - see the
+# comments in this helper. Pace the page requests and retry them instead.
+source(here::here("scripts", "helpers", "network.R"))
+patch_fitzroy_reader()
+
 # Variables
 end_year <- as.numeric(format(Sys.Date(), "%Y"))
 total_seasons <- 1897:end_year
@@ -197,14 +202,25 @@ if (nrow(player_mapping_afltables) == nrow(data_clean)) {
 ## Fetch data
 cli::cli_progress_step("Fetching afltables player stats")
 
-afldata_old <- fetch_player_stats_afltables(total_seasons)
+# Retried as a whole as well as per-page: fitzRoy reads its cached ID data
+# with a bare readr::read_csv(url(...)) that the per-page retry cannot reach,
+# and that read is what a 429 from raw.githubusercontent hit on 2026-08-18.
+afldata_old <- with_retry(
+  function() fetch_player_stats_afltables(total_seasons),
+  what = "Fetching cached afltables player stats"
+)
 
 afldata_old <- afldata_old %>% dplyr::filter(!Season %in% seasons)
 
-afldata_new <- fetch_player_stats_afltables(
-  seasons,
-  rescrape = rescrape,
-  rescrape_start_season = rescrape_start_season
+afldata_new <- with_retry(
+  function() {
+    fetch_player_stats_afltables(
+      seasons,
+      rescrape = rescrape,
+      rescrape_start_season = rescrape_start_season
+    )
+  },
+  what = "Rescraping afltables player stats"
 )
 
 afldata <- dplyr::bind_rows(afldata_old, afldata_new)
