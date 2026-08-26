@@ -14,14 +14,22 @@ permissions:
 
 jobs:
   scrape-and-commit:
-    runs-on: macOS-latest
+    # footywire.com geo-fences to Australia: every GitHub-hosted runner gets a
+    # 503, confirmed across ubuntu/macos/windows and from datacenters in seven
+    # countries, while a Sydney host gets 200. So this job runs on a
+    # self-hosted runner in Australia. Never add a pull_request trigger to
+    # this workflow - the repo is public, and that would let fork code run on
+    # that machine.
+    runs-on: [self-hosted, sydney]
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
-      - uses: r-lib/actions/setup-r@v2
+      # No setup-r step: R is installed on the runner. The workspace persists
+      # between runs, so only install CRAN packages that are actually absent
+      # rather than rebuilding the tidyverse every Tuesday.
       - name: Install Dependencies
-        run: Rscript -e 'install.packages(c("pak", "tidyverse", "here", "arrow", "cli"))'
+        run: Rscript -e 'pkgs <- c("pak", "tidyverse", "here", "arrow", "cli"); missing <- setdiff(pkgs, rownames(installed.packages())); if (length(missing)) install.packages(missing) else cat("CRAN dependencies already present\n")'
       - name: Install fitzRoy
         run: Rscript -e 'pak::pak("jimmyday12/fitzRoy")'
       - name: Get data
