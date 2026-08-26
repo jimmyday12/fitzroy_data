@@ -1,11 +1,10 @@
 name: fetch afltables data weekly
 
+# Scheduled and manual only. This job is expensive - a few hundred page
+# fetches - and there is no reason for an ordinary commit to main to kick it
+# off. Use `gh workflow run` (or the Actions tab) to trigger it by hand.
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
   schedule:
     - cron: "0 20 * * 2"
 
