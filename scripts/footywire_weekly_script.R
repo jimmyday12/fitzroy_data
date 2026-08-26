@@ -36,12 +36,18 @@ fw_probe_url <- "https://www.footywire.com/afl/footy/ft_match_list?year=2010"
 fw_status <- http_status(fw_probe_url, user_agent = fw_user_agent)
 
 if (!is.na(fw_status) && fw_status != 200) {
+  hint <- if (fw_status == 503) {
+    "A 503 means the host is refusing this runner's IP. footywire.com
+     geo-fences to Australia, so this job must run on a self-hosted runner
+     located there - no GitHub-hosted runner can reach it."
+  } else {
+    "The site is reachable but unhappy - most likely a transient fault at
+     footywire.com. Re-run before investigating."
+  }
+
   cli::cli_abort(c(
     "footywire.com returned HTTP {fw_status} for {.url {fw_probe_url}}.",
-    "i" = "503 here means the host is refusing this runner's IP, not a bad
-           fixture or User-Agent - the scrape cannot run from a
-           GitHub-hosted runner.",
-    "i" = "Run this job on a self-hosted runner with an unblocked IP."
+    "i" = hint
   ))
 }
 

@@ -94,12 +94,16 @@ patch_fitzroy_reader <- function() {
 #'
 #' xml2 swallows the status and reports only "cannot open the connection",
 #' which is what made the footywire outage so hard to read in CI logs.
+#'
+#' Issues a GET, not a HEAD: footywire answers HEAD with a 500 even where the
+#' same URL serves 200 to a GET, so a HEAD-based check reports a failure the
+#' scraper itself would never hit.
 http_status <- function(url, user_agent = getOption("HTTPUserAgent")) {
   if (!requireNamespace("curl", quietly = TRUE)) {
     return(NA_integer_)
   }
 
-  handle <- curl::new_handle(useragent = user_agent, nobody = TRUE, timeout = 30)
+  handle <- curl::new_handle(useragent = user_agent, timeout = 30)
   tryCatch(
     curl::curl_fetch_memory(url, handle = handle)$status_code,
     error = function(e) NA_integer_
